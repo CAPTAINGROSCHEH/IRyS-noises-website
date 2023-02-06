@@ -1,6 +1,14 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import IRySNoise from './components/IRySNoise.vue'
+import HelloWorld from './components/HelloWorld.vue';
+import IRySNoise from './components/IRySNoise.vue';
+import IRySneeze from './assets/AudioLists/IRySneeze.json';
+import IRyScream from './assets/AudioLists/IRyScream.json';
+import IRySoCute from './assets/AudioLists/IRySoCute.json';
+import IRySwearing from './assets/AudioLists/IRySwearing.json';
+import YabaIRyS from './assets/AudioLists/YabaIRyS.json';
+import YawnRYS from './assets/AudioLists/YawnRYS.json';
+import IRySinging from './assets/AudioLists/IRySinging.json';
+
 </script>
 
 <template>
@@ -9,7 +17,38 @@ import IRySNoise from './components/IRySNoise.vue'
       <img src="https://yt3.googleusercontent.com/oC30wBZ04ibFN7AQVHAjdUX-3nS-h4DDjJBYVlsKt0OF6t1CZwrgzWlr3rS6Q12kXrw3-mt9gg=s88-c-k-c0x00ffffff-no-rj" class="logo" alt="Vite logo" />
     </a>
   </div>
-  <IRySNoise msg="On test un petit son ici nous" category="IRySneeze" file="IRySneeze.mp3" title="IRySneeze 1" />
+
+  
+  <h1> IRyS Noises!</h1>
+  <div >
+    <h2> IRySneeze</h2>
+    <IRySNoise v-for="item in IRySneeze" :category="item.category" :file="item.file" :title="item.title" class/>
+  </div>
+  <div >
+    <h2> IRyScream</h2>
+    <IRySNoise v-for="item in IRyScream" :category="item.category" :file="item.file" :title="item.title" class/>
+  </div>
+  <div >
+    <h2> IRySinging</h2>
+    <IRySNoise v-for="item in IRySinging" :category="item.category" :file="item.file" :title="item.title" class/>
+  </div>
+  <div >
+    <h2> IRySoCute</h2>
+    <IRySNoise v-for="item in IRySoCute" :category="item.category" :file="item.file" :title="item.title" class/>
+  </div>
+  <div >
+    <h2> IRySwearing</h2>
+    <IRySNoise v-for="item in IRySwearing" :category="item.category" :file="item.file" :title="item.title" class/>
+  </div>
+  <div >
+    <h2> YabaIRyS</h2>
+    <IRySNoise v-for="item in YabaIRyS" :category="item.category" :file="item.file" :title="item.title" class/>
+  </div>
+  <div >
+    <h2> YawnRyS</h2>
+    <IRySNoise v-for="item in YawnRyS" :category="item.category" :file="item.file" :title="item.title" class/>
+  </div>
+
 </template>
 
 <style scoped>
