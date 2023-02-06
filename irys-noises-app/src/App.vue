@@ -60,7 +60,7 @@ import IRySinging from './assets/AudioLists/IRySinging.json';
   transition: filter 300ms;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+  filter: drop-shadow(0 0 2em #af0043);
 }
 .logo.vue:hover {
   filter: drop-shadow(0 0 2em #42b883aa);
