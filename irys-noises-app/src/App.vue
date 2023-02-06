@@ -1,12 +1,13 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue';
 import IRySNoise from './components/IRySNoise.vue';
+
 import IRySneeze from './assets/AudioLists/IRySneeze.json';
 import IRyScream from './assets/AudioLists/IRyScream.json';
 import IRySoCute from './assets/AudioLists/IRySoCute.json';
 import IRySwearing from './assets/AudioLists/IRySwearing.json';
 import YabaIRyS from './assets/AudioLists/YabaIRyS.json';
-import YawnRYS from './assets/AudioLists/YawnRYS.json';
+import YawnRyS from './assets/AudioLists/YawnRYS.json';
 import IRySinging from './assets/AudioLists/IRySinging.json';
 
 </script>
