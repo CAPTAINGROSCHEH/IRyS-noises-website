@@ -16,18 +16,18 @@ let isPlayed = ref(false);
 let timeout;
 
 function playSound(sound){
-  if (!this.isPlayed) {
+  if (!isPlayed.value) {
     sound.play();
-    this.isPlayed = true;
+    isPlayed.value = true;
     timeout = setTimeout(()=> {
-      this.isPlayed = false;
+      isPlayed.value = false;
     }, sound.duration * 1000)
   }
   else {
     clearTimeout(timeout)
     sound.pause();
     sound.currentTime = 0;
-    this.isPlayed = false;
+    isPlayed.value = false;
   }
 }
 

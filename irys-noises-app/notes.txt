@@ -8,6 +8,7 @@ Lire les sons
 pouvoir savoir la durée du son ? cliquer pour stopper le son en cours
 redirection
 notice + setup le github
+faire une barre de recherche de son
 
 acheter le nom de domaine
 comprendre comment chier un serv github
