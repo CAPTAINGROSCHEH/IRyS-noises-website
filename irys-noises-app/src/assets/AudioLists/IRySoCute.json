@@ -1,6 +1,286 @@
 [
   {
     "category": "IRySoCute",
+    "file": "BabyRyS1.mp3",
+    "title": "BabyRyS1.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "BabyRyS2.mp3",
+    "title": "BabyRyS2.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "BabyRyS3.mp3",
+    "title": "BabyRyS3.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "BabyRyS4.mp3",
+    "title": "BabyRyS4.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "BabyRyS5.mp3",
+    "title": "BabyRyS5.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "BabyRyS6.mp3",
+    "title": "BabyRyS6.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "BadmintonRyS_noises.wav",
+    "title": "BadmintonRyS_noises.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "BadmintonRyS_noises2.wav",
+    "title": "BadmintonRyS_noises2.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "BirthdayRyS_end_message.mp3",
+    "title": "BirthdayRyS_end_message.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "HER LAUGH  UHHHOOOOOOOOOOOO.mp3",
+    "title": "HER LAUGH  UHHHOOOOOOOOOOOO.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "HiRyS it's IRyS.wav",
+    "title": "HiRyS it's IRyS.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_AHOY2.mp3",
+    "title": "IRyS_AHOY2.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_ASMR_oui.mp3",
+    "title": "IRyS_ASMR_oui.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_AmazedByNewBody.mp3",
+    "title": "IRyS_AmazedByNewBody.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_DADDYYYYY.wav",
+    "title": "IRyS_DADDYYYYY.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_F.mp3",
+    "title": "IRyS_F.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_GG.mp3",
+    "title": "IRyS_GG.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_a_present_for_me.wav",
+    "title": "IRyS_a_present_for_me.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_again.wav",
+    "title": "IRyS_again.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_again_again_again.wav",
+    "title": "IRyS_again_again_again.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_again_again_again2.wav",
+    "title": "IRyS_again_again_again2.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_ahoy.mp3",
+    "title": "IRyS_ahoy.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_ahoy_ahoy.mp3",
+    "title": "IRyS_ahoy_ahoy.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_am_i_the_cutest_little_thing.mp3",
+    "title": "IRyS_am_i_the_cutest_little_thing.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_am_i_your_first.mp3",
+    "title": "IRyS_am_i_your_first.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_and_that_treasure_is_you.wav",
+    "title": "IRyS_and_that_treasure_is_you.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_ara_ara.wav",
+    "title": "IRyS_ara_ara.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_ara_ara2.wav",
+    "title": "IRyS_ara_ara2.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_are_you_ready.wav",
+    "title": "IRyS_are_you_ready.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_average_cute_nephilim_noises.mp3",
+    "title": "IRyS_average_cute_nephilim_noises.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_being_a_cute_passenger.mp3",
+    "title": "IRyS_being_a_cute_passenger.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_being_so_cute_when_given_a_present.mp3",
+    "title": "IRyS_being_so_cute_when_given_a_present.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_birdie.wav",
+    "title": "IRyS_birdie.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_byerys_full_power.mp3",
+    "title": "IRyS_byerys_full_power.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_cute_Fus_Ro_Dah.mp3",
+    "title": "IRyS_cute_Fus_Ro_Dah.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_cute_giggle.mp3",
+    "title": "IRyS_cute_giggle.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_cute_giggles.mp3",
+    "title": "IRyS_cute_giggles.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_cute_laugh.wav",
+    "title": "IRyS_cute_laugh.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_cute_laugh2.wav",
+    "title": "IRyS_cute_laugh2.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_cute_peekaboo.wav",
+    "title": "IRyS_cute_peekaboo.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_do_you_love_me.wav",
+    "title": "IRyS_do_you_love_me.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_dont_be_mad_be_happy.wav",
+    "title": "IRyS_dont_be_mad_be_happy.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_dont_forget_to_smile_even_if_youre_suffering.mp3",
+    "title": "IRyS_dont_forget_to_smile_even_if_youre_suffering.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_dont_give_me_those_puppy_dog_eyes.wav",
+    "title": "IRyS_dont_give_me_those_puppy_dog_eyes.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_dont_you_agree_darling.mp3",
+    "title": "IRyS_dont_you_agree_darling.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_enyouuugh.mp3",
+    "title": "IRyS_enyouuugh.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_evilLaugh.mp3",
+    "title": "IRyS_evilLaugh.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_excuse_me_excuse_me.mp3",
+    "title": "IRyS_excuse_me_excuse_me.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_first_IRyS_and_shine.wav",
+    "title": "IRyS_first_IRyS_and_shine.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_first_hi_honey.mp3",
+    "title": "IRyS_first_hi_honey.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_getto_daze.mp3",
+    "title": "IRyS_getto_daze.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_giggle_that_is_really_wholesome_cute_kawaii_mignon_holy_shit_im_going_crazy_because_of_her_laughs_omfg_send_help.wav",
+    "title": "IRyS_giggle_that_is_really_wholesome_cute_kawaii_mignon_holy_shit_im_going_crazy_because_of_her_laughs_omfg_send_help.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_giggles.mp3",
+    "title": "IRyS_giggles.mp3"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_giggles.wav",
+    "title": "IRyS_giggles.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_giggles2.wav",
+    "title": "IRyS_giggles2.wav"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_glad_that_we_can_spend_this_moment_together.mp3",
+    "title": "IRyS_glad_that_we_can_spend_this_moment_together.mp3"
+  },
+  {
+    "category": "IRySoCute",
     "file": "IRySukiyo.mp3",
     "title": "IRySukiyo.mp3"
   }

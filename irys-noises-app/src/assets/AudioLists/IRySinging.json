@@ -1,8 +1,88 @@
 [
   {
     "category": "IRySinging",
+    "file": "BGMRyS.wav",
+    "title": "BGMRyS.wav"
+  },
+  {
+    "category": "IRySinging",
+    "file": "BGMRyS2.wav",
+    "title": "BGMRyS2.wav"
+  },
+  {
+    "category": "IRySinging",
+    "file": "Hope_voice.mp3",
+    "title": "Hope_voice.mp3"
+  },
+  {
+    "category": "IRySinging",
     "file": "IRySINGING ONLY MY RAILGUN.wav",
     "title": "IRySINGING ONLY MY RAILGUN.wav"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_Blue_Clapper.mp3",
+    "title": "IRyS_Blue_Clapper.mp3"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_Bonjour_good_day_how_is_your.mp3",
+    "title": "IRyS_Bonjour_good_day_how_is_your.mp3"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_autotune_mcdonalds_theme.mp3",
+    "title": "IRyS_autotune_mcdonalds_theme.mp3"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_blub.wav",
+    "title": "IRyS_blub.wav"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_croak.wav",
+    "title": "IRyS_croak.wav"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_darkness_will_fade_away2.mp3",
+    "title": "IRyS_darkness_will_fade_away2.mp3"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_deja vu I feel like I post this before.mp3",
+    "title": "IRyS_deja vu I feel like I post this before.mp3"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_deja_vu_Ive_had_this_conversation_before.mp3",
+    "title": "IRyS_deja_vu_Ive_had_this_conversation_before.mp3"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_do_i_sound_like_a_princess.mp3",
+    "title": "IRyS_do_i_sound_like_a_princess.mp3"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_dontstopbelievin.mp3",
+    "title": "IRyS_dontstopbelievin.mp3"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_elden_ring_back_singers.mp3",
+    "title": "IRyS_elden_ring_back_singers.mp3"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_geddan.wav",
+    "title": "IRyS_geddan.wav"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_geddan2.wav",
+    "title": "IRyS_geddan2.wav"
   },
   {
     "category": "IRySinging",
@@ -393,5 +473,25 @@
     "category": "IRySinging",
     "file": "IRySingingbgm.mp3",
     "title": "IRySingingbgm.mp3"
+  },
+  {
+    "category": "IRySinging",
+    "file": "bluerose crumbs.wav",
+    "title": "bluerose crumbs.wav"
+  },
+  {
+    "category": "IRySinging",
+    "file": "enjoy joy joyful crumbs.wav",
+    "title": "enjoy joy joyful crumbs.wav"
+  },
+  {
+    "category": "IRySinging",
+    "file": "flower of hope crumbs.wav",
+    "title": "flower of hope crumbs.wav"
+  },
+  {
+    "category": "IRySinging",
+    "file": "flower of hope crumbs2.wav",
+    "title": "flower of hope crumbs2.wav"
   }
 ]

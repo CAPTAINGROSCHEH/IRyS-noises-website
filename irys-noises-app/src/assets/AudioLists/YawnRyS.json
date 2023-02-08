@@ -1,6 +1,16 @@
 [
   {
     "category": "YawnRyS",
+    "file": "YawnRyS.mp3",
+    "title": "YawnRyS.mp3"
+  },
+  {
+    "category": "YawnRyS",
+    "file": "YawnRyS.wav",
+    "title": "YawnRyS.wav"
+  },
+  {
+    "category": "YawnRyS",
     "file": "YawnRyS1.mp3",
     "title": "YawnRyS1.mp3"
   },
@@ -98,5 +108,15 @@
     "category": "YawnRyS",
     "file": "YawnRyS9.mp3",
     "title": "YawnRyS9.mp3"
+  },
+  {
+    "category": "YawnRyS",
+    "file": "YawnRyS_I_khant.wav",
+    "title": "YawnRyS_I_khant.wav"
+  },
+  {
+    "category": "YawnRyS",
+    "file": "YawnRyS_into_IRySinging.mp3",
+    "title": "YawnRyS_into_IRySinging.mp3"
   }
 ]
