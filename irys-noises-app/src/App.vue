@@ -1,14 +1,13 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue';
 import IRySNoise from './components/IRySNoise.vue';
-
+import InfoModal from './components/InfoModal.vue';
 
 import CollabRyS from './assets/AudioLists/CollabRyS.json';
 import General from './assets/AudioLists/General.json';
 import IRySJP from './assets/AudioLists/IRySJP.json';
 import IRySnoises from './assets/AudioLists/IRySnoises.json';
 import IRySoFunny from './assets/AudioLists/IRySoFunny.json';
-
 import WorldWideRyS from './assets/AudioLists/WorldWideRyS.json';
 import IRySneeze from './assets/AudioLists/IRySneeze.json';
 import IRyScream from './assets/AudioLists/IRyScream.json';
@@ -18,23 +17,42 @@ import YabaIRyS from './assets/AudioLists/YabaIRyS.json';
 import YawnRyS from './assets/AudioLists/YawnRYS.json';
 import IRySinging from './assets/AudioLists/IRySinging.json';
 
+import { ref } from 'vue'
+
+
+
+
 function scrollElement(id){
   let element = document.getElementById(id);
   element.scrollIntoView({behavior: 'smooth'});
 }
 
+
+let overlay = ref(false);
+let showModal = ref(false);
+let darkMode = ref(false);
+
 </script>
 
+
+
 <template>
-  <div>
+  <div id="mainPage-div" :class="{ darkmode: darkMode }">
+
+  <Transition>
+    <InfoModal v-show="showModal" @close-modal="showModal = false" />
+  </Transition>
+  
+  <button class="btn-information"  @click="showModal = true" > i </button>
+  <img src="./assets/icon/darkmode.png" class="btn-darkmode" @click="darkMode = !darkMode" />
+ 
+
     <a href="https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g" target="_blank">
       <img src="https://yt3.googleusercontent.com/oC30wBZ04ibFN7AQVHAjdUX-3nS-h4DDjJBYVlsKt0OF6t1CZwrgzWlr3rS6Q12kXrw3-mt9gg=s88-c-k-c0x00ffffff-no-rj" class="logo" alt="Vite logo" />
     </a>
-  </div>
   
   
-  <h1> IRyS Noises!</h1>
-  <div class="mainPage-div">
+  <h1 > IRyS Noises!</h1>
     <div class="mainPage-element">
       <nav class="category-nav">
         <h2>Category</h2>
@@ -50,7 +68,6 @@ function scrollElement(id){
         <ul>
           <li><a @click="scrollElement('WorldWideRyS')">WorldWideRyS</a></li>
         </ul>
-        <h2><a>Information</a></h2>
       </nav>
     </div>
     <div class="mdr"></div>
@@ -112,7 +129,23 @@ function scrollElement(id){
 </template>
 
 <style scoped>
+
+.darkmode {
+  background-color: black;
+}
+
+
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.2s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
+}
 .logo {
+  border-radius: 50%;
   height: 6em;
   padding: 1.5em;
   will-change: filter;
