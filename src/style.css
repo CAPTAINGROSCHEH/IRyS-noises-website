@@ -115,6 +115,11 @@ h2 {
 
 }
 
+.burger-btn span {
+  all: unset;
+  left: -100px;
+}
+
 .category h2 {
   padding: 15px;
   padding-top: 25px;
@@ -140,8 +145,6 @@ h2 {
 }
 
 .category-nav {
-  max-width: 12%;  
-  
   padding-top: 0;
   background-color: #f8126a20;
   text-align: left;
@@ -154,6 +157,19 @@ h2 {
   font-size: 25px;
   font-family: 'Riffic';
   border-radius: 5%;
+  transition: background-color 0.5s ease;
+
+}
+
+.darkmode .category-nav {
+  background-color: #af004393;
+  transition: margin-top 0.5S ease, background-color 0.5s ease, left 0.5s ease;
+
+}
+
+.active{
+  transition: margin-top 0.5S ease, background-color 0.5s ease, left 0.5s ease;
+
 }
 
 .category-nav:last-child{
@@ -194,6 +210,8 @@ h2 {
   background-size: cover;
   background-position: bottom;
   background-attachment: fixed;
+  transition: background-color 0.5s ease ;
+
 }
 
 
@@ -205,7 +223,7 @@ h2 {
   justify-content: center;
   background-color: #3a3a3a4d;
   position: fixed;
-  z-index: 1;
+  z-index: 3;
 }
 
 .modal{
@@ -258,6 +276,7 @@ nav li a {
   transition: border-color 0.25s;
   transition: background-color 0.2s;
   flex-direction: row;
+  z-index: 0;
 
   color: #ffffff;
   background-color: #af0043;
@@ -285,6 +304,48 @@ nav li a {
 #app {
 
   text-align: center;
+}
+
+@media screen and (max-width: 1790px){
+  .burger-btn span{
+
+    display:block;
+    width: 35px;
+    height: 5px;
+    background-color: #fd82b194;
+    margin: 6px 0;
+    margin-left: 3em;
+    transition: background-color 0.5s ease;
+
+  }
+
+  .burger-btn {
+    position: fixed;
+    left: 0;
+
+  }
+  .category-nav{
+    margin-top: 50px;
+    background-color: #fd82b194;
+    z-index: 1;
+    left: -280px;
+    transition: left 0.5s ease, margin-top 0.5s ease, background-color 0.5s ease ;
+  }
+
+  .darkmode .burger-btn span {
+    background-color: #af0043;
+    transition: background-color 0.5s ease;
+  }
+
+  .darkmode .category-nav {
+    background-color: #af004393;
+    transition: margin-top 0.5S ease, background-color 0.5s ease, left 0.5s ease;
+  }
+
+  .active  {
+    left: 0px !important;
+  }
+
 }
 
 @media (prefers-color-scheme: light) {

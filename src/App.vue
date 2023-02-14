@@ -26,6 +26,11 @@ function scrollElement(id){
 
 let showModal = ref(false);
 let darkMode = ref(false);
+let navActive = ref(false);
+
+let categorynav = document.getElementsByClassName("category-nav");
+let burgerbtn = document.getElementsByClassName("burger-btn");
+
 
 </script>
 
@@ -35,9 +40,9 @@ let darkMode = ref(false);
   <Transition>
     <InfoModal v-show="showModal" @close-modal="showModal = false" />
   </Transition>
-  
   <div class="header">
-    <h1 class="title"> IRySoundboard!</h1>
+  
+    <h1 class="title"> IRySoundboard! </h1>
     <a href="https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g" target="_blank">
       <img src="https://yt3.googleusercontent.com/oC30wBZ04ibFN7AQVHAjdUX-3nS-h4DDjJBYVlsKt0OF6t1CZwrgzWlr3rS6Q12kXrw3-mt9gg=s88-c-k-c0x00ffffff-no-rj" class="logo" alt="Vite logo" />
     </a>
@@ -46,54 +51,58 @@ let darkMode = ref(false);
   <button class="btn-information"  @click="showModal = true" > i </button>
   <img src="./assets/icon/darkmode.png" class="btn-darkmode" @click="darkMode = !darkMode" />
  
-
     
   
-  
+    
     <div class="mainPage-element">
-      <nav class="category-nav">
-        <h2>Category</h2>
-        <ul>
-          <li><a @click="scrollElement('General')">General</a></li>
-        </ul>
-        <ul>
-          <li><a @click="scrollElement('IRySoFunny')">IRySoFunny</a></li>
-        </ul>
-        <ul>
-          <li><a @click="scrollElement('IRySoCute')">IRySoCute</a></li>
-        </ul>
-        <ul>
-          <li><a @click="scrollElement('IRySinging')">IRySinging</a></li>
-        </ul>
-        <ul>
-          <li><a @click="scrollElement('IRyScream')">IRyScream</a></li>
-        </ul>
-        <ul>
-          <li><a @click="scrollElement('IRySwearing')">IRySwearing</a></li>
-        </ul>
-        <ul>
-          <li><a @click="scrollElement('YabaIRyS')">YabaIRyS</a></li>
-        </ul>
-        <ul>
-          <li><a @click="scrollElement('IRySnoises')">IRySnoises</a></li>
-        </ul>
-        <ul>
-          <li><a @click="scrollElement('IRySneeze')">IRySneeze</a></li>
-        </ul>
-        <ul>
-          <li><a @click="scrollElement('YawnRyS')">YawnRyS</a></li>
-        </ul>
-        <ul>
-          <li><a @click="scrollElement('IRySJP')">IRySJP</a></li>
-        </ul>
-        <ul>
-          <li><a @click="scrollElement('WorldWideRyS')">WorldWideRyS</a></li>
-        </ul>
-        <ul>
-          <li><a @click="scrollElement('CollabRyS')">CollabRyS</a></li>
-        </ul>
-      </nav>
-    </div>
+      <a href="#" class="burger-btn" @click="navActive = !navActive">
+        <span></span>
+        <span></span>
+        <span></span>
+      </a>
+        <nav class="category-nav" :class="{active: navActive}">
+          <h2>Category</h2>
+          <ul>
+            <li><a @click="scrollElement('General')">General</a></li>
+          </ul>
+          <ul>
+            <li><a @click="scrollElement('IRySoFunny')">IRySoFunny</a></li>
+          </ul>
+          <ul>
+            <li><a @click="scrollElement('IRySoCute')">IRySoCute</a></li>
+          </ul>
+          <ul>
+            <li><a @click="scrollElement('IRySinging')">IRySinging</a></li>
+          </ul>
+          <ul>
+            <li><a @click="scrollElement('IRyScream')">IRyScream</a></li>
+          </ul>
+          <ul>
+            <li><a @click="scrollElement('IRySwearing')">IRySwearing</a></li>
+          </ul>
+          <ul>
+            <li><a @click="scrollElement('YabaIRyS')">YabaIRyS</a></li>
+          </ul>
+          <ul>
+            <li><a @click="scrollElement('IRySnoises')">IRySnoises</a></li>
+          </ul>
+          <ul>
+            <li><a @click="scrollElement('IRySneeze')">IRySneeze</a></li>
+          </ul>
+          <ul>
+            <li><a @click="scrollElement('YawnRyS')">YawnRyS</a></li>
+          </ul>
+          <ul>
+            <li><a @click="scrollElement('IRySJP')">IRySJP</a></li>
+          </ul>
+          <ul>
+            <li><a @click="scrollElement('WorldWideRyS')">WorldWideRyS</a></li>
+          </ul>
+          <ul>
+            <li><a @click="scrollElement('CollabRyS')">CollabRyS</a></li>
+          </ul>
+        </nav>
+      </div>
     <div class="mdr"></div>
     <div class="mainPage-element">
 
@@ -157,6 +166,7 @@ let darkMode = ref(false);
 
 .darkmode {
   background-color: black;
+  transition: background-color 0.5s ease ;
 }
 
 
@@ -172,12 +182,11 @@ let darkMode = ref(false);
 .logo {
   border-radius: 50%;
   height: 6em;
-  position: absolute;
-  justify-content: right;
-  right: 34%;
   margin-top: 2em;
   will-change: filter;
   transition: filter 300ms;
+  margin-left: 1em;
+  vertical-align: bottom;
 
 }
 .logo:hover {

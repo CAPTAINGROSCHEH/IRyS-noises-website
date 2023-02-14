@@ -12,7 +12,7 @@ export default {
         <div class="modal" @click.stop>
             <button class="close" @click="$emit('close-modal')" >X</button>
             <h1>About</h1>
-            <p >hello itsa me, luigi time, i hate css</p>
+            <p >hello itsa me, luigi, i hate css season 3, thank you forever</p>
         </div>
     </div>
 </template>

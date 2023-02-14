@@ -13,17 +13,18 @@ const {category, file, title} = defineProps({
 
 const audio = `Audios/${category}/${file}`;
 let isPlayed = ref(false);
+let duration = ref(0);
 let timeout;
 
-function playSound(sound){
-  let played = new Audio(audio);
-  let duration = played.duration;
+async function playSound(sound){
+  let  played =  new Audio(sound);
+  duration.value = played.duration;
   if (!isPlayed.value) {
+    isPlayed.value = !isPlayed.value;
     played.play();
-    isPlayed.value = true;
     timeout = setTimeout(()=> {
       isPlayed.value = false;
-    }, duration * 1000)
+    }, (duration.value * 1000))
   }
   else {
     clearTimeout(timeout)
