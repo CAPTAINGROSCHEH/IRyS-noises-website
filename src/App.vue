@@ -36,7 +36,8 @@ let burgerbtn = document.getElementsByClassName("burger-btn");
 
 <template>
   <div id="mainPage-div" :class="{ darkmode: darkMode }">
-
+    <button class="btn-information"  @click="showModal = true" > i </button>
+    <img src="./assets/icon/darkmode.png" class="btn-darkmode" @click="darkMode = !darkMode" />
   <Transition>
     <InfoModal v-show="showModal" @close-modal="showModal = false" />
   </Transition>
@@ -48,14 +49,13 @@ let burgerbtn = document.getElementsByClassName("burger-btn");
     </a>
   </div>
 
-  <button class="btn-information"  @click="showModal = true" > i </button>
-  <img src="./assets/icon/darkmode.png" class="btn-darkmode" @click="darkMode = !darkMode" />
+  
  
     
   
     
     <div class="mainPage-element">
-      <a href="#" class="burger-btn" @click="navActive = !navActive">
+      <a class="burger-btn" @click="navActive = !navActive">
         <span></span>
         <span></span>
         <span></span>
