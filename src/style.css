@@ -97,6 +97,7 @@ body {
   padding-left: 13px;
   padding-right: 13px;
   background-color: #af0043;
+  color: white;
 }
 
 .btn-information:hover{
@@ -227,6 +228,7 @@ body {
   padding-right: 7px;
   background-color: #d3a7d3;
   border-color: #ecd3ec;
+  color: white;
   box-shadow: none;
   border:0;
   font-size: 23px;
