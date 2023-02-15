@@ -356,7 +356,8 @@ nav li a {
 
   .darkmode .category-nav {
     background-color: #af004393;
-    transition: margin-top 0.5S ease, background-color 0.5s ease, left 0.5s ease;
+    transition: left 0.5s ease, margin-top 0.5s ease, background-color 0.5s ease, opacity 1s ease;
+
   }
 
   .active  {
