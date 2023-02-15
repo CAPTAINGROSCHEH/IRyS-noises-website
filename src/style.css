@@ -78,6 +78,11 @@ body {
   color:white;
 }
 
+.darkmode {
+  background-color: black;
+  transition: background-color 0.5s ease ;
+}
+
 #btn-information{
   border: 0;
   position: fixed;
@@ -87,7 +92,7 @@ body {
   margin-top: 20px;
   padding-left: 13px;
   padding-right: 13px;
-  background-color: #fd82b194;
+  background-color: #feb6d2;
   color: white;
   transition: background-color 0.5s ease ;
 }
@@ -116,7 +121,7 @@ body {
   font-size: 25px;
   margin-top: 20px;
   padding: 2px;
-  background-color: #fd82b194;
+  background-color: #feb6d2;
   transition: background-color 0.5s ease ;
 
 }
@@ -136,9 +141,41 @@ body {
 }
 
 
-.burger-btn span {
-  all: unset;
-  left: -100px;
+.burger-btn span{
+  display:block;
+  width: 35px;
+  height: 5px;
+  background-color: #feb6d2;
+  margin: 6px 0;
+  transition: background-color 0.5s ease;
+  
+}
+
+.burger-btn:hover span{
+  background-color: #6e1a4a;
+}
+
+.burger-btn {
+  width: 35px;
+  position: fixed;
+  top: 20px;
+  left: 21px;
+  padding:0;
+  z-index: 2;
+}
+
+.burger-btn:hover{
+  cursor: pointer;
+
+}
+
+.darkmode .burger-btn span {
+  background-color: #af0043;
+  transition: background-color 0.5s ease;
+}
+
+.darkmode .burger-btn:hover span{
+  background-color: #6e1a4a;
 }
 
 .category h2 {
@@ -151,7 +188,8 @@ body {
 .category-nav h2 {
   font-size: 1.5em;
   margin-bottom: 0;
-  margin-top: 10px ;
+  margin-top: 0px;
+  padding-left: 20px;
   color:white;
 }
 
@@ -167,44 +205,98 @@ body {
 }
 
 .category-nav {
-  top: 50px;
-  padding-top: 0;
-  background-color: #f8126a20;
-  text-align: left;
+  margin-top: 70px;
+  border-top-style: solid;
+  border-top-color: #f7b7f775;
+  top: 0px;
   padding-left: 1rem;
   padding-right: 1rem;
-  margin-left: 1rem;
-  margin-right: 2rem;
   position: fixed;
   font-size: 25px;
   font-family: 'Riffic';
-  border-radius: 5%;
-  transition: background-color 0.5s ease;
+  z-index: 1;
+  left: -280px;
+  background-color: #fee1ec;
+
+
 }
-
-
 
 .category-nav * {
   bottom: 10px;
 }
 
-.darkmode .category-nav {
-  background-color: #af004393;
-  transition: margin-top 0.5S ease, background-color 0.5s ease, left 0.5s ease;
+
+.body-navActive{
+  overflow: hidden;
+}
+
+.nav-overlay  .active{
+  margin-left: 274px;
+  width: 100%;
+  background-color: #fee1ec59;
+  z-index: 0;
+}
+
+.darkmode .nav-overlay  .active{
+  margin-left: 274px;
+  width: 100%;
+  background-color: #fee1ec59;
+  z-index: 0;
+  
+}
+
+.active *{
+  left: 0px;
+  z-index: 1;
+  background-color: #fee1ec;
+
+}
+
+.darkmode .active *{
+  background-color: #650027;
+  border-top-color: #4d0f27;
 
 }
 
 .active{
-  transition: margin-top 0.5S ease, background-color 0.5s ease, left 0.5s ease;
-
+  
+  top: 0px;
+  left: 0px;
+  padding-top: 50px;
+  background-color: #fee1ec;
+  text-align: left;
+  margin-right: 2rem;
+  height: 100%;
+  width: 274px;
+  position: fixed;
+  z-index: 1;
 }
 
 
 
-.category-nav a:hover {
+.darkmode .nav-menu{
+  opacity: 0;
+  background-color: #650027;
+
+}
+
+.darkmode .active{
+  opacity: 100%;
+  background-color: #650027;
+}
+
+.category-nav ul:hover a{
   color: #af0043 ;
+
 }
 
+.category-nav ul li{
+  list-style-type: none;
+}
+
+.category-nav ul:hover{
+  cursor: pointer;
+}
 
 
 .header{
@@ -326,10 +418,6 @@ nav li a {
 
 }
 
-.mainPage-element{
-  flex-direction: row;
-}
-
 .category button {
   filter: drop-shadow(0 0 0.2em #af0043);
   border-radius: 8px;
@@ -374,14 +462,13 @@ nav li a {
 }
 
 @media screen and (max-height: 779px){
-  .category-nav{
-    bottom: 20px;
+ .active  .category-nav {
+    height: calc(100% - 70px);
     overflow-y: auto;
     overflow-x: hidden;
+    width: 242px;
   }
 }
-
-
 
 @media screen and (max-width:  720px) {
 
@@ -414,72 +501,6 @@ nav li a {
   }
 
 }
-
-
-
-
-
-@media screen and (max-width: 1790px){
-  .burger-btn span{
-    display:block;
-    width: 35px;
-    height: 5px;
-    background-color: #fd82b194;
-    margin: 6px 0;
-    transition: background-color 0.5s ease;
-    
-  }
-
-  .burger-btn:hover span{
-    background-color: #6e1a4a;
-  }
-
-  .burger-btn {
-    width: 35px;
-    position: fixed;
-    top: 50px;
-    left: 21px;
-    padding:0;
-  }
-
-  .burger-btn:hover{
-    cursor: pointer;
-
-  }
-
-  .category-nav{
-    top: 50px;
-    margin-top: 50px;
-    background-color: #fd82b194;
-    z-index: 1;
-    left: -300px;
-    opacity: 0;
-    transition: left 0.5s ease, margin-top 0.5s ease, background-color 0.5s ease, opacity 1s ease;
-  }
-
-  .darkmode .burger-btn span {
-    background-color: #af0043;
-    transition: background-color 0.5s ease;
-  }
-
-  .darkmode .burger-btn:hover span{
-    background-color: #6e1a4a;
-  }
-  .darkmode .category-nav {
-    background-color: #af004393;
-    transition: left 0.5s ease, margin-top 0.5s ease, background-color 0.5s ease, opacity 1s ease;
-
-  }
-
-
-
-  .active  {
-    left: 0px !important;
-    opacity: 1;
-  }
-
-}
-
 
 @media (prefers-color-scheme: light) {
   :root {

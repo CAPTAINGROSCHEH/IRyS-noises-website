@@ -24,12 +24,16 @@ function scrollElement(id){
   element.scrollIntoView({behavior: 'smooth'});
 }
 
-let showModal = ref(false);
-let darkMode = ref(false);
-let navActive = ref(false);
+const showModal = ref(false);
+const darkMode = ref(false);
+const navActive = ref(false);
 
-let categorynav = document.getElementsByClassName("category-nav");
-let burgerbtn = document.getElementsByClassName("burger-btn");
+const body = document.body;
+
+function showNav(){
+    body.classList.toggle("body-navActive"); 
+    navActive.value = !navActive.value;
+}
 
 
 </script>
@@ -43,69 +47,64 @@ let burgerbtn = document.getElementsByClassName("burger-btn");
   </Transition>
 
   <div class="header">
-    <h1 class="title"> IRySoundboard! </h1>
+    <h1 class="title" @click="showNav()"> IRySoundboard!</h1>
     <a href="https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g"  target="_blank">
-      <img src="https://yt3.googleusercontent.com/oC30wBZ04ibFN7AQVHAjdUX-3nS-h4DDjJBYVlsKt0OF6t1CZwrgzWlr3rS6Q12kXrw3-mt9gg=s88-c-k-c0x00ffffff-no-rj" class="logo" alt="Vite logo" />
+      <img src="https://yt3.googleusercontent.com/oC30wBZ04ibFN7AQVHAjdUX-3nS-h4DDjJBYVlsKt0OF6t1CZwrgzWlr3rS6Q12kXrw3-mt9gg=s88-c-k-c0x00ffffff-no-rj" class="logo" />
     </a>
   </div>
 
-  
- 
-    
-  
-    
-    <div class="mainPage-element">
-      <a class="burger-btn" @click="navActive = !navActive">
-        <span></span>
-        <span></span>
-        <span></span>
-      </a>
-        <nav class="category-nav" :class="{active: navActive}">
+  <a class="burger-btn" @click="showNav()">
+      <span></span>
+      <span></span>
+      <span></span>
+    </a>
+  <div class="nav-overlay" :class="{active: navActive}" >
+    <div class="nav-menu" :class="{active: navActive}" @click="showNav()">
+        <nav class="category-nav" @click.stop >
           <h2>Category</h2>
-          <ul>
-            <li><a @click="scrollElement('General')">General</a></li>
+          <ul @click="scrollElement('General')">
+            <li><a >General</a></li>
           </ul>
-          <ul>
-            <li><a @click="scrollElement('IRySoFunny')">IRySoFunny</a></li>
+          <ul @click="scrollElement('IRySoFunny')">
+            <li><a >IRySoFunny</a></li>
           </ul>
-          <ul>
-            <li><a @click="scrollElement('IRySoCute')">IRySoCute</a></li>
+          <ul @click="scrollElement('IRySoCute')">
+            <li><a >IRySoCute</a></li>
           </ul>
-          <ul>
-            <li><a @click="scrollElement('IRySinging')">IRySinging</a></li>
+          <ul @click="scrollElement('IRySinging')">
+            <li><a >IRySinging</a></li>
           </ul>
-          <ul>
-            <li><a @click="scrollElement('IRyScream')">IRyScream</a></li>
+          <ul @click="scrollElement('IRyScream')">
+            <li><a >IRyScream</a></li>
           </ul>
-          <ul>
-            <li><a @click="scrollElement('IRySwearing')">IRySwearing</a></li>
+          <ul @click="scrollElement('IRySwearing')">
+            <li><a >IRySwearing</a></li>
           </ul>
-          <ul>
-            <li><a @click="scrollElement('YabaIRyS')">YabaIRyS</a></li>
+          <ul @click="scrollElement('YabaIRyS')">
+            <li><a >YabaIRyS</a></li>
           </ul>
-          <ul>
-            <li><a @click="scrollElement('IRySnoises')">IRySnoises</a></li>
+          <ul @click="scrollElement('IRySnoises')">
+            <li><a>IRySnoises</a></li>
           </ul>
-          <ul>
-            <li><a @click="scrollElement('IRySneeze')">IRySneeze</a></li>
+          <ul @click="scrollElement('IRySneeze')">
+            <li><a>IRySneeze</a></li>
           </ul>
-          <ul>
-            <li><a @click="scrollElement('YawnRyS')">YawnRyS</a></li>
+          <ul @click="scrollElement('YawnRyS')">
+            <li><a>YawnRyS</a></li>
           </ul>
-          <ul>
-            <li><a @click="scrollElement('IRySJP')">IRySJP</a></li>
+          <ul @click="scrollElement('IRySJP')">
+            <li><a>IRySJP</a></li>
           </ul>
-          <ul>
-            <li><a @click="scrollElement('WorldWideRyS')">WorldWideRyS</a></li>
+          <ul @click="scrollElement('WorldWideRyS')">
+            <li><a>WorldWideRyS</a></li>
           </ul>
-          <ul>
-            <li><a @click="scrollElement('CollabRyS')">CollabRyS</a></li>
+          <ul @click="scrollElement('CollabRyS')">
+            <li><a>CollabRyS</a></li>
           </ul>
         </nav>
       </div>
-    <div class="mdr"></div>
-    <div class="mainPage-element">
-
+    </div>
+    <div >
       <div class="category" id="General">
         <h2> General</h2>
         <IRySNoise v-for="item in General" :category="item.category" :file="item.file" :title="item.title" class/>
@@ -163,12 +162,6 @@ let burgerbtn = document.getElementsByClassName("burger-btn");
 </template>
 
 <style scoped>
-
-.darkmode {
-  background-color: black;
-  transition: background-color 0.5s ease ;
-}
-
 
 
 
