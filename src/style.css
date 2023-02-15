@@ -32,29 +32,20 @@
   -webkit-text-size-adjust: 100%;
 }
 
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
-}
+
 
 a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
+  margin-left: 1em;
+
 }
 
-a:hover {
-  color: #535bf2;
-}
 
 body {
   margin: 0;
   display: flex;
   place-items: center;
+  left:0;
+  max-width: 100%;
   min-width: 320px;
   min-height: 100vh;
 }
@@ -87,7 +78,7 @@ body {
   color:white;
 }
 
-.btn-information{
+#btn-information{
   border: 0;
   position: fixed;
   border-radius: 100%;
@@ -96,17 +87,27 @@ body {
   margin-top: 20px;
   padding-left: 13px;
   padding-right: 13px;
-  background-color: #af0043;
+  background-color: #fd82b194;
   color: white;
+  transition: background-color 0.5s ease ;
 }
 
-.btn-information:hover{
+#btn-information:hover{
   cursor: pointer;  
   background-color: #6e1a4a;
 
 }
 
-.btn-darkmode{
+.darkmode #btn-information{
+  background-color: #af0043;
+
+}
+
+.darkmode #btn-information:hover{
+  background-color: #6e1a4a;
+}
+
+#btn-darkmode{
   border: 0;
   width: 29px;
   position: fixed;
@@ -115,14 +116,25 @@ body {
   font-size: 25px;
   margin-top: 20px;
   padding: 2px;
-  background-color: #af0043;
+  background-color: #fd82b194;
+  transition: background-color 0.5s ease ;
+
 }
 
-.btn-darkmode:hover{
+#btn-darkmode:hover{
   cursor: pointer;  
   background-color: #6e1a4a;
 
 }
+
+.darkmode #btn-darkmode{
+  background-color: #af0043;
+}
+
+.darkmode #btn-darkmode:hover{
+  background-color: #6e1a4a;
+}
+
 
 .burger-btn span {
   all: unset;
@@ -144,13 +156,14 @@ body {
 }
 
 .category {
-  max-width: 65%;  
+  
+  width: 65%;  
   margin: 0 auto;
-  margin-left: 16%;
   padding-left: 2rem;
   padding-right: 2rem;
   background-color: #f8126a20;
   border-radius: 1%;
+  justify-content: center;
 }
 
 .category-nav {
@@ -160,7 +173,7 @@ body {
   text-align: left;
   padding-left: 1rem;
   padding-right: 1rem;
-  margin-left: 2rem;
+  margin-left: 1rem;
   margin-right: 2rem;
   position: fixed;
   font-size: 25px;
@@ -195,8 +208,15 @@ body {
 
 
 .header{
-  display: inline;
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+
+  width: auto;
+  height: auto;
 }
+
+
 
 #mainPage-div{
   padding-bottom: 26%;
@@ -260,7 +280,7 @@ body {
   background-color: #ecd3ec;
   color:black;
   height: auto;
-  width: auto;
+  width: 900px;
   max-width: 90%;
   max-height: 80%;
   text-align: left;
@@ -275,7 +295,15 @@ body {
   display: flex;
   height: auto;
   flex-direction: column;
-  
+}
+
+.modal-body *{
+  margin:0;
+}
+
+.modal-body a{
+  color:#000dff;
+  margin:0;
 }
 
 nav ul {
@@ -309,7 +337,6 @@ nav li a {
   margin: 0.6em;
   padding: 0.3em 0.8em;
   font-size: 1.6em;
-  font-weight: 500;
   font-family: 'Tanseek';
   cursor: pointer;
   transition: border-color 0.25s;
@@ -341,7 +368,8 @@ nav li a {
 }
 
 #app {
-
+  margin: 0;
+  max-width: 100%;
   text-align: center;
 }
 
@@ -353,22 +381,58 @@ nav li a {
   }
 }
 
+
+
+@media screen and (max-width:  720px) {
+
+  .category button {
+    font-size: 4.5vw;
+  
+    }
+
+  .category h2{
+    font-size: 5.6vw;
+  }
+
+  .header{
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+
+  .header h1{
+    margin-top: 0;
+    font-size: 7vw;
+  }
+
+  a{
+    width: 13.8%;
+  }
+
+  .logo {
+    width: 100%;
+  
+  }
+
+}
+
+
+
+
+
 @media screen and (max-width: 1790px){
   .burger-btn span{
-
     display:block;
     width: 35px;
     height: 5px;
     background-color: #fd82b194;
     margin: 6px 0;
     transition: background-color 0.5s ease;
-
   }
 
   .burger-btn {
     position: fixed;
     top: 50px;
-    left: 50px;
+    left: 21px;
   }
 
   .burger-btn:hover{
@@ -396,12 +460,15 @@ nav li a {
 
   }
 
+
+
   .active  {
     left: 0px !important;
     opacity: 1;
   }
 
 }
+
 
 @media (prefers-color-scheme: light) {
   :root {

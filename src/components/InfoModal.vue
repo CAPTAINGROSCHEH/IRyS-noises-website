@@ -15,9 +15,26 @@ export default {
                 <button class="close" @click="$emit('close-modal')" >X</button>
             </div>
             <div class="modal-body">
-                <p>hello itsa me, luigi, i hate css season 3, thank you forever,</p>
-                <h2>[Disclaimer, deez is a parody of a french copypasta that I use as a lorem ipsum because it's funny]</h2>
-                <p >  Louper du contenu d’IRyS, moi ? serieusement ^^ haha on me l avait pas sortie celle la depuis loooongtemps :) demande a mes potes si je loupe du contenu d’IRyS tu vas voir les reponses que tu vas te prendre XD rien que la semaine passee j ai assisté à tous les lives d’IRyS donc chuuuuut ferme la loupeur de contenu d’IRyS de merde car oui toi tu m as tout l air d un bon loupeur de contenu d’IRyS de merde car souvent vous etes frustrer de ne PAS VOIR LES STREAMS D’IRYS :) ses agreable de se faire un stream minecraft ou asmr d’IRyS hein? tu peux pas repondre car tu ne sais pas ce que c ou alors tu le sais mais tu as du taper dans ta barre de recherche « clip d’irys » ou « best of irys » pour comprendre ce que c etait mdddrrr !! c est grave quoiquil en soit.... pour revenir a moi, je pense que je suis le mec le plus fan d’IRyS de ma bande de 11 meilleurs amis pas psk j ai eu le plus de watchtime d’IRyS mais psk j ai fais plus de truc pour elle que mes amis :D ses pas moi qui le dit, ses eux qui commente sous mes message discord « trop ouf la compilation de secret ending que t’as fais hier soir! » donc apres si tu veux que sa parte plus loi sa peut partir vraiment loi j habite dans la banlieue de niort sa te parle steven sanchez ? ses juste un cousin donc OKLM hahaha on verra si tu parles encore le loupeur de contenu d’IRyS de merde mdddrrr pk insulter qd on est soi meme un loupeur de contenu d’IRyS  tu me feras toujour marrer!!</p>
+                <h2>What?</h2>
+                <p>This is a fan website for the smartest member of Project Hope: <a href="https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g">IRyS</a>! The website was inspired by <a href="https://howsthevolu.me/">howsthevolu.me</a> and by <a href="https://kronii-cute.com/">kronii-cute.com</a>.</p>
+                <p>For anyone interested in the source code, you can find it <a href="https://github.com/CAPTAINGROSCHEH/IRyS-noises-website">here</a>.</p>
+                <h2>Why?</h2>
+                <p>As someone who often watches IRyS live, I got used to audio clip her streams a lot for various reasons (as you see notice with all the sound categories on the website), and by seeing a various amount of soundboard websites for the other Holomembers, I had the idea to make this one since I always wanted to do a programming project for IRyS.</p>
+                <h2>Source of the audios?</h2>
+                <p>Unfortunately, I didn't keep track of which stream I clipped which sound, so I can't really give you that answer! (yet?)</p>
+                <h2>Credits</h2>
+                <p>I would never be able to do this alone, a good amount of friends and tools helped me to make this:</p>
+                <ul>
+                    <li>(goose) for helping me to start this project by giving me some really useful advices.</li>
+                    <li>(Pyrospower and Walt) for the testing and all the advices they gave to me.</li>
+                    <li><a href="https://twitter.com/kito_koruta/status/1500755335518498817?s=20">IRyS' Youtube PFP</a> by <a href="https://twitter.com/kito_koruta/">Kito Koruta</a> for the favicon and the header icon.</li>
+                    <li>The font used is <a href="https://www.fontspring.com/fonts/inky-type/riffic">Riffic Free Bold</a>.</li>
+                    <li>The frontend is written with <a href="https://vuejs.org/">Vue</a>.</li>
+                    <li><a href="https://howsthevolu.me/">howsthevolu.me</a> and by <a href="https://kronii-cute.com/">kronii-cute.com</a> for the inspiration in the first place.</li>
+                    <li>Background's image is a screenshot from <a href="https://youtu.be/-g701QOZtrc">IRyS' Kimono Reveal stream</a> during the secret ending (for Desktop version).</li>
+                </ul>
+                <h2>What's more?</h2>
+                <p>As I said, I'm used to clip most of IRyS' streams, so I'll update the soundboard every week/few weeks.</p>
             </div>
         </div>
     </div>

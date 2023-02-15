@@ -36,15 +36,15 @@ let burgerbtn = document.getElementsByClassName("burger-btn");
 
 <template>
   <div id="mainPage-div" :class="{ darkmode: darkMode }">
-    <button class="btn-information"  @click="showModal = true" > i </button>
-    <img src="./assets/icon/darkmode.png" class="btn-darkmode" @click="darkMode = !darkMode" />
+    <button id="btn-information" :class="{ darkmode: darkMode }" @click="showModal = true" > i </button>
+    <img src="./assets/icon/darkmode.png" id="btn-darkmode" :class="{ darkmode: darkMode }" @click="darkMode = !darkMode" />
   <Transition>
     <InfoModal v-show="showModal" @close-modal="showModal = false" />
   </Transition>
+
   <div class="header">
-  
     <h1 class="title"> IRySoundboard! </h1>
-    <a href="https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g" target="_blank">
+    <a href="https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g"  target="_blank">
       <img src="https://yt3.googleusercontent.com/oC30wBZ04ibFN7AQVHAjdUX-3nS-h4DDjJBYVlsKt0OF6t1CZwrgzWlr3rS6Q12kXrw3-mt9gg=s88-c-k-c0x00ffffff-no-rj" class="logo" alt="Vite logo" />
     </a>
   </div>
@@ -170,6 +170,8 @@ let burgerbtn = document.getElementsByClassName("burger-btn");
 }
 
 
+
+
 .v-enter-active,
 .v-leave-active {
   transition: opacity 0.2s ease;
@@ -181,13 +183,9 @@ let burgerbtn = document.getElementsByClassName("burger-btn");
 }
 .logo {
   border-radius: 50%;
-  height: 6em;
   margin-top: 2em;
   will-change: filter;
   transition: filter 300ms;
-  margin-left: 1em;
-  vertical-align: bottom;
-
 }
 .logo:hover {
   filter: drop-shadow(0 0 2em #af0043);
