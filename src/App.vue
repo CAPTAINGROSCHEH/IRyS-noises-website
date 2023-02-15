@@ -2,7 +2,6 @@
 import IRySNoise from './components/IRySNoise.vue';
 import InfoModal from './components/InfoModal.vue';
 
-
 import CollabRyS from './assets/AudioLists/CollabRyS.json';
 import General from './assets/AudioLists/General.json';
 import IRySJP from './assets/AudioLists/IRySJP.json';
@@ -34,7 +33,6 @@ function showNav(){
     body.classList.toggle("body-navActive"); 
     navActive.value = !navActive.value;
 }
-
 
 </script>
 
