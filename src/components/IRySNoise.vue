@@ -44,7 +44,7 @@ function playSound(){
 </script>
 
 <template>
-    <button :class="{ played: isPlayed }" type="button" @click="playSound();">{{ title }} {{ isPlayed }}</button>
+    <button :class="{ played: isPlayed }" type="button" @click="playSound();">{{ title }}</button>
 </template>
 
 <style scoped>
