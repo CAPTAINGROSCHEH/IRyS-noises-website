@@ -26,7 +26,7 @@ export default {
                 <p>I would never be able to do this alone, a good amount of friends and tools helped me to make this:</p>
                 <ul>
                     <li>(goose) for helping me to start this project by giving me some really useful advices.</li>
-                    <li>(Pyrospower and Walt) for the testing and all the advices they gave to me.</li>
+                    <li><a href="https://www.youtube.com/@Pyrospower">Pyrospower</a>, Walt (and Axel) for the testing and all the advices they gave to me.</li>
                     <li><a href="https://twitter.com/kito_koruta/status/1500755335518498817?s=20">IRyS' Youtube PFP</a> by <a href="https://twitter.com/kito_koruta/">Kito Koruta</a> for the favicon and the header icon.</li>
                     <li>The font used is <a href="https://www.fontspring.com/fonts/inky-type/riffic">Riffic Free Bold</a>.</li>
                     <li>The frontend is written with <a href="https://vuejs.org/">Vue</a>.</li>
