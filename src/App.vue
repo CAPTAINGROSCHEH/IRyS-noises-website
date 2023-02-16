@@ -23,7 +23,7 @@ function scrollElement(id){
   element.scrollIntoView({behavior: 'smooth'});
 }
 
-const showModal = ref(false);
+const modalActive = ref(false);
 const darkMode = ref(false);
 const navActive = ref(false);
 
@@ -34,14 +34,19 @@ function showNav(){
     navActive.value = !navActive.value;
 }
 
+function showModal(){
+    body.classList.toggle("body-navActive");
+    modalActive.value = !modalActive.value;
+}
+
 </script>
 
 <template>
   <div id="mainPage-div" :class="{ darkmode: darkMode }">
-    <button id="btn-information" :class="{ darkmode: darkMode }" @click="showModal = true" > i </button>
+    <button id="btn-information" :class="{ darkmode: darkMode }" @click="showModal()" > i </button>
     <img src="./assets/icon/darkmode.png" id="btn-darkmode" :class="{ darkmode: darkMode }" @click="darkMode = !darkMode" />
   <Transition>
-    <InfoModal v-show="showModal" @close-modal="showModal = false" />
+    <InfoModal v-show="modalActive" @close-modal="showModal()" />
   </Transition>
 
   <div class="header">

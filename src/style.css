@@ -227,7 +227,8 @@ body {
 
 
 .body-navActive{
-  overflow: hidden;
+  overflow:hidden;
+  margin-right: 1em;
 }
 
 .nav-overlay  .active{
@@ -265,7 +266,6 @@ body {
   padding-top: 50px;
   background-color: #fee1ec;
   text-align: left;
-  margin-right: 2rem;
   height: 100%;
   width: 274px;
   position: fixed;
