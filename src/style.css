@@ -485,6 +485,11 @@ nav li a {
     font-size: 5.6vw;
   }
 
+  #btn-darkmode {
+    margin-top:60px ;
+    right:20px;
+  }
+
   .header{
     align-items: center;
     flex-direction: column-reverse;
