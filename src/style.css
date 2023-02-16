@@ -95,6 +95,7 @@ body {
   background-color: #ff73a9;
   color: white;
   transition: background-color 0.5s ease ;
+  z-index: 1;
 }
 
 #btn-information:hover{
@@ -123,6 +124,7 @@ body {
   padding: 2px;
   background-color: #ff73a9;
   transition: background-color 0.5s ease ;
+  z-index: 1;
 
 }
 

@@ -12,33 +12,39 @@ const {category, file, title} = defineProps({
 //<p class="read-the-docs">Catégorie : {{ category }} Fichier : {{ file }} Titre : {{ title }}</p>
 
 const audio = `Audios/${category}/${file}`;
-let isPlayed = ref(false);
+const isPlayed = ref(false);
 let timeout;
+let played;
+let duration;
 
-async function playSound(sound){
-  let played =  new Audio(sound);
-  let duration = 0;
-  if (!isPlayed.value) {
-    isPlayed.value = !isPlayed.value;
-    played.play();
-    duration = played.duration;
+function playSound(){
 
-    timeout = setTimeout(()=> {
-      isPlayed.value = false;
-    }, (duration.value * 1000))
-  }
-  else {
+
+  if(isPlayed.value == true){
+    console.log(played.duration)
     clearTimeout(timeout)
-    played.pause();
+    played.pause()
     played.currentTime = 0;
     isPlayed.value = false;
+  }else{
+    played =  new Audio(audio);
+    played.addEventListener("loadeddata", () => {
+      duration = played.duration
+      isPlayed.value = true;
+      played.play()
+      timeout = setTimeout(() =>{
+        isPlayed.value = false
+      }, (duration * 1000))
+    })
   }
+
+
 }
 
 </script>
 
 <template>
-    <button :class="{ played: isPlayed }" type="button" @click="playSound(audio);">{{ title }}</button>
+    <button :class="{ played: isPlayed }" type="button" @click="playSound();">{{ title }} {{ isPlayed }}</button>
 </template>
 
 <style scoped>
