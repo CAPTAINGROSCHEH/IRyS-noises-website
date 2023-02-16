@@ -28,10 +28,11 @@ function playSound(){
     isPlayed.value = false;
   }else{
     played =  new Audio(audio);
+    played.play()
+
     played.addEventListener("loadeddata", () => {
       duration = played.duration
       isPlayed.value = true;
-      played.play()
       timeout = setTimeout(() =>{
         isPlayed.value = false
       }, (duration * 1000))
