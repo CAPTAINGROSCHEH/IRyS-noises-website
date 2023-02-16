@@ -44,17 +44,35 @@ function playSound(){
 </script>
 
 <template>
-    <button :class="{ played: isPlayed }" type="button" @click="playSound();">{{ title }}</button>
+    
+      <button :class="{ played: isPlayed }" type="button" @click="playSound();" :style="{'animation-duration': duration + 's'}"><div id="btn-overlay"> {{ title }}    </div></button>
+
 </template>
 
 <style scoped>
 .played {
-  background-color: #5e0136;
+  background-image: url('../assets/img/btn-background.png');;
+  background-size: 10% 100%;
+  background-repeat: repeat-y;
+  animation: linear;
+  animation-name: play;
+  border-color: #5e0136;
 }
 
 .read-the-docs {
   color: #888;
 }
+
+@keyframes play{
+  0%{
+    background-size: 0% 100% ;
+  }
+
+  100%{
+    background-size: 100% 100%;
+  }
+}
+
 
 
 </style>
