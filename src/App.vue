@@ -13,7 +13,7 @@ import IRyScream from './assets/AudioLists/IRyScream.json';
 import IRySoCute from './assets/AudioLists/IRySoCute.json';
 import IRySwearing from './assets/AudioLists/IRySwearing.json';
 import YabaIRyS from './assets/AudioLists/YabaIRyS.json';
-import YawnRyS from './assets/AudioLists/YawnRYS.json';
+import YawnRyS from './assets/AudioLists/YawnRyS.json';
 import IRySinging from './assets/AudioLists/IRySinging.json';
 
 import { ref } from 'vue'
