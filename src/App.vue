@@ -24,16 +24,24 @@ function scrollElement(id){
 }
 
 const modalActive = ref(false);
-const darkMode = ref(localStorage.getItem('darkMode'));
 const navActive = ref(false);
+let darkMode = ref(localStorage.getItem('darkMode'));
 
 const body = document.body;
 
 
 
+console.log(darkMode)
+console.log(localStorage.getItem('darkMode'))
+
 function toggleDarkMode(){
-  darkMode.value = !darkMode.value;
-  localStorage.setItem('darkMode', darkMode.value);
+  if(darkMode.value == null || darkMode.value == false){
+    darkMode.value = !darkMode.value;
+    localStorage.setItem('darkMode', darkMode.value);
+  }else{
+    darkMode.value = !darkMode.value;
+    localStorage.removeItem('darkMode')
+  }
 }
 
 function showNav(){
