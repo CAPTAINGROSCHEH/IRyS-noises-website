@@ -24,10 +24,17 @@ function scrollElement(id){
 }
 
 const modalActive = ref(false);
-const darkMode = ref(false);
+const darkMode = ref(localStorage.getItem('darkMode'));
 const navActive = ref(false);
 
 const body = document.body;
+
+
+
+function toggleDarkMode(){
+  darkMode.value = !darkMode.value;
+  localStorage.setItem('darkMode', darkMode.value);
+}
 
 function showNav(){
     body.classList.toggle("body-navActive"); 
@@ -44,7 +51,7 @@ function showModal(){
 <template>
   <div id="mainPage-div" :class="{ darkmode: darkMode }">
     <button id="btn-information" :class="{ darkmode: darkMode }" @click="showModal()" > i </button>
-    <img src="./assets/icon/darkmode.png" id="btn-darkmode" :class="{ darkmode: darkMode }" @click="darkMode = !darkMode" />
+    <img src="./assets/icon/darkmode.png" id="btn-darkmode" :class="{ darkmode: darkMode }" @click="toggleDarkMode()" />
   <Transition>
     <InfoModal v-show="modalActive" @close-modal="showModal()" />
   </Transition>
