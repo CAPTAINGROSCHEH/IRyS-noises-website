@@ -1,4 +1,4 @@
 # IRyS-noises-website
- I'm trying to do something for IRyS
+I really love making sound clips of IRyS, so why not make a whole website to find them? Vue was used for the frontend.
 
- this is a terrible place
+this is a terrible repo, I'm totally not used to Github LOL.

@@ -65,7 +65,7 @@ function showModal(){
   </Transition>
 
   <div class="header">
-    <h1 class="title" @click="showNav()"> IRySoundboard!</h1>
+    <h1 class="title"> IRySoundboard!</h1>
     <a href="https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g"  target="_blank">
       <img src="https://yt3.googleusercontent.com/oC30wBZ04ibFN7AQVHAjdUX-3nS-h4DDjJBYVlsKt0OF6t1CZwrgzWlr3rS6Q12kXrw3-mt9gg=s88-c-k-c0x00ffffff-no-rj" class="logo" />
     </a>

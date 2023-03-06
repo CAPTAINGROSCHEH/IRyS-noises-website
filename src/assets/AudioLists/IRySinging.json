@@ -1,6 +1,11 @@
 [
   {
     "category": "IRySinging",
+    "file": "IRyS_autotune_mcdonalds_theme.mp3",
+    "title": "Autotune mcdonalds theme"
+  },
+  {
+    "category": "IRySinging",
     "file": "BGMRyS.wav",
     "title": "BGMRyS"
   },
@@ -11,13 +16,8 @@
   },
   {
     "category": "IRySinging",
-    "file": "Hope_voice.mp3",
-    "title": "Hope voice"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRySINGING ONLY MY RAILGUN.wav",
-    "title": "IRySINGING ONLY MY RAILGUN"
+    "file": "IRyS_blub.wav",
+    "title": "Blub"
   },
   {
     "category": "IRySinging",
@@ -26,8 +26,128 @@
   },
   {
     "category": "IRySinging",
+    "file": "bluerose crumbs.wav",
+    "title": "Bluerose crumbs"
+  },
+  {
+    "category": "IRySinging",
     "file": "IRyS_Bonjour_good_day_how_is_your.mp3",
     "title": "Bonjour good day how is your"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_censoring herself mid karaoke.mp3",
+    "title": "Censoring herself mid karaoke"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_croak.wav",
+    "title": "Croak"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_darkness_will_fade_away2.mp3",
+    "title": "Darkness will fade away2"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_deja vu I feel like I post this before.mp3",
+    "title": "Deja vu I feel like I post this before"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_deja_vu_Ive_had_this_conversation_before.mp3",
+    "title": "Deja vu Ive had this conversation before"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_do_i_sound_like_a_princess.mp3",
+    "title": "Do i sound like a princess"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_dontstopbelievin.mp3",
+    "title": "Dontstopbelievin"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_elden_ring_back_singers.mp3",
+    "title": "Elden ring back singers"
+  },
+  {
+    "category": "IRySinging",
+    "file": "enjoy joy joyful crumbs.wav",
+    "title": "Enjoy joy joyful crumbs"
+  },
+  {
+    "category": "IRySinging",
+    "file": "flower of hope crumbs.wav",
+    "title": "Flower of hope crumbs"
+  },
+  {
+    "category": "IRySinging",
+    "file": "flower of hope crumbs2.wav",
+    "title": "Flower of hope crumbs2"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_geddan.wav",
+    "title": "Geddan"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_geddan2.wav",
+    "title": "Geddan2"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_gravity.wav",
+    "title": "Gravity"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_he_heee_MJ.wav",
+    "title": "He heee MJ"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_hee_hee.wav",
+    "title": "Hee hee"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_hello_darkness_my_old_friend.mp3",
+    "title": "Hello darkness my old friend"
+  },
+  {
+    "category": "IRySinging",
+    "file": "Hope_voice.mp3",
+    "title": "Hope voice"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_humming_Chitty Chitty Bang Bang.mp3",
+    "title": "Humming Chitty Chitty Bang Bang"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_humming_MC_streams_bgm.wav",
+    "title": "Humming MC streams bgm"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_humming_Suspect.wav",
+    "title": "Humming Suspect"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_humming_new_bgm.wav",
+    "title": "Humming new bgm"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_humming_pokemon_bgm.wav",
+    "title": "Humming pokemon bgm"
   },
   {
     "category": "IRySinging",
@@ -41,143 +161,8 @@
   },
   {
     "category": "IRySinging",
-    "file": "IRyS_McDonaldsTheme.mp3",
-    "title": "McDonaldsTheme"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_autotune_mcdonalds_theme.mp3",
-    "title": "autotune mcdonalds theme"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_blub.wav",
-    "title": "blub"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_censoring herself mid karaoke.mp3",
-    "title": "censoring herself mid karaoke"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_croak.wav",
-    "title": "croak"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_darkness_will_fade_away2.mp3",
-    "title": "darkness will fade away2"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_deja vu I feel like I post this before.mp3",
-    "title": "deja vu I feel like I post this before"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_deja_vu_Ive_had_this_conversation_before.mp3",
-    "title": "deja vu Ive had this conversation before"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_do_i_sound_like_a_princess.mp3",
-    "title": "do i sound like a princess"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_dontstopbelievin.mp3",
-    "title": "dontstopbelievin"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_elden_ring_back_singers.mp3",
-    "title": "elden ring back singers"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_geddan.wav",
-    "title": "geddan"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_geddan2.wav",
-    "title": "geddan2"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_gravity.wav",
-    "title": "gravity"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_he_heee_MJ.wav",
-    "title": "he heee MJ"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_hee_hee.wav",
-    "title": "hee hee"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_hello_darkness_my_old_friend.mp3",
-    "title": "hello darkness my old friend"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_humming_Chitty Chitty Bang Bang.mp3",
-    "title": "humming Chitty Chitty Bang Bang"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_humming_MC_streams_bgm.wav",
-    "title": "humming MC streams bgm"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_humming_Suspect.wav",
-    "title": "humming Suspect"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_humming_new_bgm.wav",
-    "title": "humming new bgm"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_humming_pokemon_bgm.wav",
-    "title": "humming pokemon bgm"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_insert_CoD.mp3",
-    "title": "insert CoD"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_instrumentals_moment.wav",
-    "title": "instrumentals moment"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_joy_with_you_chorus.mp3",
-    "title": "joy with you chorus"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_karaoke_moment.mp3",
-    "title": "karaoke moment"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_lucky.mp3",
-    "title": "lucky"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRyS_lullaby_plus_tapping.mp3",
-    "title": "lullaby plus tapping"
+    "file": "IRySINGING ONLY MY RAILGUN.wav",
+    "title": "IRySINGING ONLY MY RAILGUN"
   },
   {
     "category": "IRySinging",
@@ -193,6 +178,11 @@
     "category": "IRySinging",
     "file": "IRySinging_Akatsuki_to_Hana.mp3",
     "title": "IRySinging Akatsuki to Hana"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRySinging_Akuma_no_ko_1.25x.mp3",
+    "title": "IRySinging Akuma no ko 1.25x"
   },
   {
     "category": "IRySinging",
@@ -326,6 +316,11 @@
   },
   {
     "category": "IRySinging",
+    "file": "IRySinging_Mikazuki_by_Sayuri.wav",
+    "title": "IRySinging Mikazuki by Sayuri"
+  },
+  {
+    "category": "IRySinging",
     "file": "IRySinging_NSO_bgm.mp3",
     "title": "IRySinging NSO bgm"
   },
@@ -338,6 +333,11 @@
     "category": "IRySinging",
     "file": "IRySinging_Never_Gonna_Give_You_Up_Gambling_brainrot_version.wav",
     "title": "IRySinging Never Gonna Give You Up Gambling brainrot version"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRySinging_One_Fast_Kiss.mp3",
+    "title": "IRySinging One Fast Kiss"
   },
   {
     "category": "IRySinging",
@@ -556,22 +556,97 @@
   },
   {
     "category": "IRySinging",
-    "file": "bluerose crumbs.wav",
-    "title": "bluerose crumbs"
+    "file": "IRyS_insert_CoD.mp3",
+    "title": "Insert CoD"
   },
   {
     "category": "IRySinging",
-    "file": "enjoy joy joyful crumbs.wav",
-    "title": "enjoy joy joyful crumbs"
+    "file": "IRyS_instrumentals_moment.wav",
+    "title": "Instrumentals moment"
   },
   {
     "category": "IRySinging",
-    "file": "flower of hope crumbs.wav",
-    "title": "flower of hope crumbs"
+    "file": "IRyS_joy_with_you_chorus.mp3",
+    "title": "Joy with you chorus"
   },
   {
     "category": "IRySinging",
-    "file": "flower of hope crumbs2.wav",
-    "title": "flower of hope crumbs2"
+    "file": "IRyS_karaoke_moment.mp3",
+    "title": "Karaoke moment"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_lucky.mp3",
+    "title": "Lucky"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_lullaby_plus_tapping.mp3",
+    "title": "Lullaby plus tapping"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_McDonaldsTheme.mp3",
+    "title": "McDonaldsTheme"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_midsong_what_the_fudge.wav",
+    "title": "Midsong what the fudge"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_Moment_of_my_Life_crumbs_01.wav",
+    "title": "Moment of my Life crumbs 01"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_Moment_of_my_Life_crumbs_02.wav",
+    "title": "Moment of my Life crumbs 02"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_Moment_of_my_Life_crumbs_03.wav",
+    "title": "Moment of my Life crumbs 03"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_moo.wav",
+    "title": "Moo"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_my milkshake brings all the boys to the yard.wav",
+    "title": "My milkshake brings all the boys to the yard"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_oh_my_bebe.wav",
+    "title": "Oh my bebe"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_oh_thats_high.mp3",
+    "title": "Oh thats high"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_quack.wav",
+    "title": "Quack"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_rick_roll.mp3",
+    "title": "Rick roll"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_sakou_yume_no_manimani.mp3",
+    "title": "Sakou yume no manimani"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_Santa_Baby_but_keyboard.wav",
+    "title": "Santa Baby but keyboard"
   }
 ]

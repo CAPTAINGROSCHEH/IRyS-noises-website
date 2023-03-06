@@ -11,6 +11,16 @@
   },
   {
     "category": "CollabRyS",
+    "file": "BaeRyS_I_knew_she_was_sus.wav",
+    "title": "BaeRyS I knew she was sus"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "BaeRyS_I_think_Im_morbin_guys.wav",
+    "title": "BaeRyS I think Im morbin guys"
+  },
+  {
+    "category": "CollabRyS",
     "file": "BaeRyS_IRyS_trying_to_support_Bae.wav",
     "title": "BaeRyS IRyS trying to support Bae"
   },
@@ -21,13 +31,8 @@
   },
   {
     "category": "CollabRyS",
-    "file": "BaeRyS_I_knew_she_was_sus.wav",
-    "title": "BaeRyS I knew she was sus"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "BaeRyS_I_think_Im_morbin_guys.wav",
-    "title": "BaeRyS I think Im morbin guys"
+    "file": "BaeRyS_Im_massive.wav",
+    "title": "BaeRyS Im massive"
   },
   {
     "category": "CollabRyS",
@@ -56,6 +61,11 @@
   },
   {
     "category": "CollabRyS",
+    "file": "BaeRyS_fix_IRyS_please.wav",
+    "title": "BaeRyS fix IRyS please"
+  },
+  {
+    "category": "CollabRyS",
     "file": "BaeRyS_focus_dayo.wav",
     "title": "BaeRyS focus dayo"
   },
@@ -63,6 +73,11 @@
     "category": "CollabRyS",
     "file": "BaeRyS_it_was_the_lotion.wav",
     "title": "BaeRyS it was the lotion"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "BaeRyS_lotion_mention_again.wav",
+    "title": "BaeRyS lotion mention again"
   },
   {
     "category": "CollabRyS",
@@ -93,6 +108,11 @@
     "category": "CollabRyS",
     "file": "BaeRyS_poopyyyyyyyyyy.wav",
     "title": "BaeRyS poopyyyyyyyyyy"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "BaeRyS_probably_lotion.wav",
+    "title": "BaeRyS probably lotion"
   },
   {
     "category": "CollabRyS",
@@ -141,8 +161,43 @@
   },
   {
     "category": "CollabRyS",
+    "file": "IRyS_befriends_with_Koyori.wav",
+    "title": "Befriends with Koyori"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_being_a_pokemon.wav",
+    "title": "Being a pokemon"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_being_called_senpai_be_like.mp3",
+    "title": "Being called senpai be like"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_bible_machine_broke.mp3",
+    "title": "Bible machine broke"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "CHADCAST_singing_Astrogirl.wav",
+    "title": "CHADCAST singing Astrogirl"
+  },
+  {
+    "category": "CollabRyS",
     "file": "Caesura_of_Exorcism.mp3",
     "title": "Caesura of Exorcism"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_calling_Fauna_mommy.wav",
+    "title": "Calling Fauna mommy"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_coffee_or_tea.mp3",
+    "title": "Coffee or tea"
   },
   {
     "category": "CollabRyS",
@@ -158,6 +213,26 @@
     "category": "CollabRyS",
     "file": "CouncilRyScreaming.wav",
     "title": "CouncilRyScreaming"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_drinkRyS_gulpRyS.mp3",
+    "title": "DrinkRyS gulpRyS"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "enderman.wav",
+    "title": "Enderman"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_explaining_toilet_lore_to_Kronii.mp3",
+    "title": "Explaining toilet lore to Kronii"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_FUCKING.wav",
+    "title": "FUCKING"
   },
   {
     "category": "CollabRyS",
@@ -181,6 +256,36 @@
   },
   {
     "category": "CollabRyS",
+    "file": "IRyS_get_in_the_robot_Ina.mp3",
+    "title": "Get in the robot Ina"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_getting_slapped_by_Mooms.wav",
+    "title": "Getting slapped by Mooms"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_getting_targetted_by_Bae.wav",
+    "title": "Getting targetted by Bae"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_help_me.wav",
+    "title": "Help me"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_hey_can_you_kill_Kronii_first.mp3",
+    "title": "Hey can you kill Kronii first"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_hittin_on_someone.mp3",
+    "title": "Hittin on someone"
+  },
+  {
+    "category": "CollabRyS",
     "file": "Hologera_RELOADING.mp3",
     "title": "Hologera RELOADING"
   },
@@ -201,13 +306,18 @@
   },
   {
     "category": "CollabRyS",
-    "file": "IRyS_FUCKING.wav",
-    "title": "FUCKING"
+    "file": "IRyS_I_choose_you_get_out_of_that_ball_Mumei.mp3",
+    "title": "I choose you get out of that ball Mumei"
   },
   {
     "category": "CollabRyS",
-    "file": "IRyS_I_choose_you_get_out_of_that_ball_Mumei.mp3",
-    "title": "I choose you get out of that ball Mumei"
+    "file": "IRyS_i_have_my_own_chocolate_and_im_gonna_eat_it.mp3",
+    "title": "I have my own chocolate and im gonna eat it"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_i_killed_pewdiepie.mp3",
+    "title": "I killed pewdiepie"
   },
   {
     "category": "CollabRyS",
@@ -216,8 +326,38 @@
   },
   {
     "category": "CollabRyS",
+    "file": "IRyS_i_think_she_is_dying_and_the_last_thing_she_will_see_before_dying_is_a_sniper.mp3",
+    "title": "I think she is dying and the last thing she will see before dying is a sniper"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_ikebovoice_plus_nanikimoi.mp3",
+    "title": "Ikebovoice plus nanikimoi"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_introducing_herself_uwu.mp3",
+    "title": "Introducing herself uwu"
+  },
+  {
+    "category": "CollabRyS",
     "file": "IRyS_KISS_US.wav",
     "title": "KISS US"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_kills_Kiara_and_laughs about it.wav",
+    "title": "Kills Kiara and laughs about it"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_laughing_for_a_really_long_time.wav",
+    "title": "Laughing for a really long time"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_lifting_in_the_bg.mp3",
+    "title": "Lifting in the bg"
   },
   {
     "category": "CollabRyS",
@@ -231,102 +371,12 @@
   },
   {
     "category": "CollabRyS",
-    "file": "IRyS_befriends_with_Koyori.wav",
-    "title": "befriends with Koyori"
+    "file": "IRyS_powering_herself_up_with_soda.wav",
+    "title": "Powering herself up with soda"
   },
   {
     "category": "CollabRyS",
-    "file": "IRyS_being_a_pokemon.wav",
-    "title": "being a pokemon"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_being_called_senpai_be_like.mp3",
-    "title": "being called senpai be like"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_bible_machine_broke.mp3",
-    "title": "bible machine broke"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_calling_Fauna_mommy.wav",
-    "title": "calling Fauna mommy"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_coffee_or_tea.mp3",
-    "title": "coffee or tea"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_drinkRyS_gulpRyS.mp3",
-    "title": "drinkRyS gulpRyS"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_explaining_toilet_lore_to_Kronii.mp3",
-    "title": "explaining toilet lore to Kronii"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_get_in_the_robot_Ina.mp3",
-    "title": "get in the robot Ina"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_getting_slapped_by_Mooms.wav",
-    "title": "getting slapped by Mooms"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_getting_targetted_by_Bae.wav",
-    "title": "getting targetted by Bae"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_help_me.wav",
-    "title": "help me"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_hey_can_you_kill_Kronii_first.mp3",
-    "title": "hey can you kill Kronii first"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_hittin_on_someone.mp3",
-    "title": "hittin on someone"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_i_have_my_own_chocolate_and_im_gonna_eat_it.mp3",
-    "title": "i have my own chocolate and im gonna eat it"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_i_killed_pewdiepie.mp3",
-    "title": "i killed pewdiepie"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_i_think_she_is_dying_and_the_last_thing_she_will_see_before_dying_is_a_sniper.mp3",
-    "title": "i think she is dying and the last thing she will see before dying is a sniper"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_ikebovoice_plus_nanikimoi.mp3",
-    "title": "ikebovoice plus nanikimoi"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_introducing_herself_uwu.mp3",
-    "title": "introducing herself uwu"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "IRyS_lifting_in_the_bg.mp3",
-    "title": "lifting in the bg"
+    "file": "IRyS_reading_Sana_message.wav",
+    "title": "Reading Sana message"
   }
 ]
