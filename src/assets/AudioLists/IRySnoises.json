@@ -21,6 +21,11 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_aaaaanya.wav",
+    "title": "Aaaaanya"
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_aaaah~.wav",
     "title": "Aaaah~"
   },
@@ -56,11 +61,6 @@
   },
   {
     "category": "IRySnoises",
-    "file": "IRyS_anya.wav",
-    "title": "Anya"
-  },
-  {
-    "category": "IRySnoises",
     "file": "IRyS_anyaaaaa.mp3",
     "title": "Anyaaaaa"
   },
@@ -71,8 +71,8 @@
   },
   {
     "category": "IRySnoises",
-    "file": "IRyS_are.mp3",
-    "title": "Are"
+    "file": "IRyS_are_are.mp3",
+    "title": "Are are"
   },
   {
     "category": "IRySnoises",
@@ -203,21 +203,6 @@
     "category": "IRySnoises",
     "file": "IRyS_brbrbrbrBRRRR.wav",
     "title": "BrbrbrbrBRRRR"
-  },
-  {
-    "category": "IRySnoises",
-    "file": "IRyS_breath.mp3",
-    "title": "Breath"
-  },
-  {
-    "category": "IRySnoises",
-    "file": "IRyS_breath.wav",
-    "title": "Breath"
-  },
-  {
-    "category": "IRySnoises",
-    "file": "IRyS_breath2.wav",
-    "title": "Breath2"
   },
   {
     "category": "IRySnoises",
@@ -736,6 +721,21 @@
   },
   {
     "category": "IRySnoises",
+    "file": "Hope breath 03.wav",
+    "title": "Hope breath 03"
+  },
+  {
+    "category": "IRySnoises",
+    "file": "Hope breath 04.mp3",
+    "title": "Hope breath 04"
+  },
+  {
+    "category": "IRySnoises",
+    "file": "Hope breath 05.wav",
+    "title": "Hope breath 05"
+  },
+  {
+    "category": "IRySnoises",
     "file": "hope_dying_noises.wav",
     "title": "Hope dying noises"
   },
@@ -1051,13 +1051,13 @@
   },
   {
     "category": "IRySnoises",
-    "file": "IRyS_meow.mp3",
-    "title": "Meow"
+    "file": "IRyS_meow_01.mp3",
+    "title": "Meow 01"
   },
   {
     "category": "IRySnoises",
-    "file": "IRyS_meow.wav",
-    "title": "Meow"
+    "file": "IRyS_meow_02.wav",
+    "title": "Meow 02"
   },
   {
     "category": "IRySnoises",
@@ -1103,11 +1103,6 @@
     "category": "IRySnoises",
     "file": "IRyS_my_uuuuuuuuuuh.wav",
     "title": "My uuuuuuuuuuh"
-  },
-  {
-    "category": "IRySnoises",
-    "file": "IRyS_NOISESNOISESNOISES.wav",
-    "title": "NOISESNOISESNOISES"
   },
   {
     "category": "IRySnoises",
@@ -1201,13 +1196,13 @@
   },
   {
     "category": "IRySnoises",
-    "file": "IRyS_oh_nyo.mp3",
-    "title": "Oh nyo"
+    "file": "IRyS_oh_nyo_01.mp3",
+    "title": "Oh nyo 01"
   },
   {
     "category": "IRySnoises",
-    "file": "IRyS_oh_nyo.wav",
-    "title": "Oh nyo"
+    "file": "IRyS_oh_nyo_02.wav",
+    "title": "Oh nyo 02"
   },
   {
     "category": "IRySnoises",

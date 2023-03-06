@@ -71,11 +71,6 @@
   },
   {
     "category": "IRyScream",
-    "file": "desktop.ini",
-    "title": "Desktop"
-  },
-  {
-    "category": "IRyScream",
     "file": "despair_noises.wav",
     "title": "Despair noises"
   },
@@ -636,13 +631,13 @@
   },
   {
     "category": "IRyScream",
-    "file": "IRyS_quick_scream.mp3",
-    "title": "Quick scream"
+    "file": "IRyS_quick_scream_01.wav",
+    "title": "Quick scream 01"
   },
   {
     "category": "IRyScream",
-    "file": "IRyS_quick_scream.wav",
-    "title": "Quick scream"
+    "file": "IRyS_quick_scream_02.mp3",
+    "title": "Quick scream 02"
   },
   {
     "category": "IRyScream",

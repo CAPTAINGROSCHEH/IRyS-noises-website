@@ -176,18 +176,18 @@
   },
   {
     "category": "IRySJP",
-    "file": "IRyS_gachi.mp3",
-    "title": "Gachi"
+    "file": "IRyS_gachi_01.wav",
+    "title": "Gachi 01"
   },
   {
     "category": "IRySJP",
-    "file": "IRyS_gachi.wav",
-    "title": "Gachi"
+    "file": "IRyS_gachi_02.mp3",
+    "title": "Gachi 02"
   },
   {
     "category": "IRySJP",
-    "file": "IRyS_gachi2.mp3",
-    "title": "Gachi2"
+    "file": "IRyS_gachi_03.mp3",
+    "title": "Gachi 03"
   },
   {
     "category": "IRySJP",
@@ -611,11 +611,6 @@
   },
   {
     "category": "IRySJP",
-    "file": "IRyS_SHANAINAAAAA.mp3",
-    "title": "SHANAINAAAAA"
-  },
-  {
-    "category": "IRySJP",
     "file": "IRyS_SHANAINAAAAA.wav",
     "title": "SHANAINAAAAA"
   },
@@ -623,6 +618,11 @@
     "category": "IRySJP",
     "file": "IRyS_SHANAINAAAAAA.wav",
     "title": "SHANAINAAAAAA"
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_SHANAINAAAAAAA.mp3",
+    "title": "SHANAINAAAAAAA"
   },
   {
     "category": "IRySJP",

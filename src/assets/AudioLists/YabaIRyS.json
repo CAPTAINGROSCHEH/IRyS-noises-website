@@ -51,13 +51,13 @@
   },
   {
     "category": "YabaIRyS",
-    "file": "IRyS_booba.mp3",
-    "title": "Booba"
+    "file": "IRyS_booba_01.mp3",
+    "title": "Booba 01"
   },
   {
     "category": "YabaIRyS",
-    "file": "IRyS_booba.wav",
-    "title": "Booba"
+    "file": "IRyS_booba_02.wav",
+    "title": "Booba 02"
   },
   {
     "category": "YabaIRyS",
@@ -203,11 +203,6 @@
     "category": "YabaIRyS",
     "file": "IRyS_errr_disgusting.wav",
     "title": "Errr disgusting"
-  },
-  {
-    "category": "YabaIRyS",
-    "file": "IRyS_evil_plan_against_Bae_Titanic_Edition.wav",
-    "title": "Evil plan against Bae Titanic Edition"
   },
   {
     "category": "YabaIRyS",
