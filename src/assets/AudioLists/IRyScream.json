@@ -101,8 +101,8 @@
   },
   {
     "category": "IRyScream",
-    "file": "IRyS_dont_shoot_me_im_innocent.wav",
-    "title": "Dont shoot me im innocent"
+    "file": "IRyS_dont_shoot_me_i'm_innocent.wav",
+    "title": "Dont shoot me i'm innocent"
   },
   {
     "category": "IRyScream",
@@ -501,8 +501,8 @@
   },
   {
     "category": "IRyScream",
-    "file": "IRyS_its_probably_better_to_AAAAAAAAAAAA.mp3",
-    "title": "Its probably better to AAAAAAAAAAAA"
+    "file": "IRyS_it's_probably_better_to_AAAAAAAAAAAA.mp3",
+    "title": "It's probably better to AAAAAAAAAAAA"
   },
   {
     "category": "IRyScream",
@@ -561,13 +561,13 @@
   },
   {
     "category": "IRyScream",
-    "file": "IRyS_LETS_BODY_SLAM.wav",
-    "title": "LETS BODY SLAM"
+    "file": "IRyS_LET'S_BODY_SLAM.wav",
+    "title": "LET'S BODY SLAM"
   },
   {
     "category": "IRyScream",
-    "file": "IRyS_LETS_GOOOOOO.wav",
-    "title": "LETS GOOOOOO"
+    "file": "IRyS_LET'S_GOOOOOO.wav",
+    "title": "LET'S GOOOOOO"
   },
   {
     "category": "IRyScream",
@@ -591,8 +591,8 @@
   },
   {
     "category": "IRyScream",
-    "file": "IRyS_man_im_so_dumb.mp3",
-    "title": "Man im so dumb"
+    "file": "IRyS_man_I'm_so_dumb.mp3",
+    "title": "Man I'm so dumb"
   },
   {
     "category": "IRyScream",
@@ -611,8 +611,8 @@
   },
   {
     "category": "IRyScream",
-    "file": "IRyS_OMG_ITS_DISGUSTING.mp3",
-    "title": "OMG ITS DISGUSTING"
+    "file": "IRyS_OMG_IT'S_DISGUSTING.mp3",
+    "title": "OMG IT'S DISGUSTING"
   },
   {
     "category": "IRyScream",
@@ -683,5 +683,20 @@
     "category": "IRyScream",
     "file": "IRyS_she_couldn't_see_the_screen.mp3",
     "title": "She couldn't see the screen"
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_short_mental_breakdown.wav",
+    "title": "Short mental breakdown"
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_shut_up_i_am_playing_right_now.mp3",
+    "title": "Shut up i am playing right now"
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_so_much_fun-.mp3",
+    "title": "So much fun-"
   }
 ]

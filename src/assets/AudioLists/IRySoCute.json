@@ -41,13 +41,13 @@
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_am_i_the_cutest_little_thing.mp3",
-    "title": "Am i the cutest little thing"
+    "file": "IRyS_am_I_the_cutest_little_thing.mp3",
+    "title": "Am I the cutest little thing"
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_am_i_your_first.mp3",
-    "title": "Am i your first"
+    "file": "IRyS_am_I_your_first.mp3",
+    "title": "Am I your first"
   },
   {
     "category": "IRySoCute",
@@ -196,8 +196,8 @@
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_dont_forget_to_smile_even_if_youre_suffering.mp3",
-    "title": "Dont forget to smile even if youre suffering"
+    "file": "IRyS_dont_forget_to_smile_even_if_you're_suffering.mp3",
+    "title": "Dont forget to smile even if you're suffering"
   },
   {
     "category": "IRySoCute",
@@ -251,8 +251,8 @@
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_giggle_that_is_really_wholesome_cute_kawaii_mignon_holy_shit_im_going_crazy_because_of_her_laughs_omfg_send_help.wav",
-    "title": "Giggle that is really wholesome cute kawaii mignon holy shit im going crazy because of her laughs omfg send help"
+    "file": "IRyS_giggle.wav",
+    "title": "Giggle"
   },
   {
     "category": "IRySoCute",
@@ -471,6 +471,21 @@
   },
   {
     "category": "IRySoCute",
+    "file": "IRyS_I'll sing_you_a_love_song.mp3",
+    "title": "I'll sing you a love song"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_I'm_an_IRySandwich.wav",
+    "title": "I'm an IRySandwich"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_I'm_cuwious.mp3",
+    "title": "I'm cuwious"
+  },
+  {
+    "category": "IRySoCute",
     "file": "IRyS_I'm_free.wav",
     "title": "I'm free"
   },
@@ -481,43 +496,33 @@
   },
   {
     "category": "IRySoCute",
+    "file": "IRyS_I'm_hungwy.mp3",
+    "title": "I'm hungwy"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_i'm_just_asking_for_some_love.mp3",
+    "title": "I'm just asking for some love"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_I'm_sorry_mommy_I'm_sorry_daddy.mp3",
+    "title": "I'm sorry mommy I'm sorry daddy"
+  },
+  {
+    "category": "IRySoCute",
     "file": "IRySukiyo.mp3",
     "title": "IRySukiyo"
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_ITS_BUSTIN_TIME.wav",
-    "title": "ITS BUSTIN TIME"
+    "file": "IRyS_IT'S_BUSTIN_TIME.wav",
+    "title": "IT'S BUSTIN TIME"
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_if_you_could_do_that_too_I_would_be_impressed.mp3",
     "title": "If you could do that too I would be impressed"
-  },
-  {
-    "category": "IRySoCute",
-    "file": "IRyS_Im_an_IRySandwich.wav",
-    "title": "Im an IRySandwich"
-  },
-  {
-    "category": "IRySoCute",
-    "file": "IRyS_Im_cuwious.mp3",
-    "title": "Im cuwious"
-  },
-  {
-    "category": "IRySoCute",
-    "file": "IRyS_Im_hungwy.mp3",
-    "title": "Im hungwy"
-  },
-  {
-    "category": "IRySoCute",
-    "file": "IRyS_im_just_asking_for_some_love.mp3",
-    "title": "Im just asking for some love"
-  },
-  {
-    "category": "IRySoCute",
-    "file": "IRyS_Im_sorry_mommy_Im_sorry_daddy.mp3",
-    "title": "Im sorry mommy Im sorry daddy"
   },
   {
     "category": "IRySoCute",
@@ -541,13 +546,13 @@
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_its_gambling_time.wav",
-    "title": "Its gambling time"
+    "file": "IRyS_it's_gambling_time.wav",
+    "title": "It's gambling time"
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_its_good_to_see_you_guys.mp3",
-    "title": "Its good to see you guys"
+    "file": "IRyS_it's_good_to_see_you_guys.mp3",
+    "title": "It's good to see you guys"
   },
   {
     "category": "IRySoCute",
@@ -586,8 +591,8 @@
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_lets_go_hai_hai_hai.wav",
-    "title": "Lets go hai hai hai"
+    "file": "IRyS_let's_go_hai_hai_hai.wav",
+    "title": "Let's go hai hai hai"
   },
   {
     "category": "IRySoCute",
@@ -676,8 +681,8 @@
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_no_lets_not_talk_about_it_no_no_no_no_no_no_no_no_NA.mp3",
-    "title": "No lets not talk about it no no no no no no no no NA"
+    "file": "IRyS_no_let's_not_talk_about_it_no_no_no_no_no_no_no_no_NA.mp3",
+    "title": "No let's not talk about it no no no no no no no no NA"
   },
   {
     "category": "IRySoCute",
@@ -773,5 +778,20 @@
     "category": "IRySoCute",
     "file": "IRyS_she_spanked_me.mp3",
     "title": "She spanked me"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_sodaaaa.mp3",
+    "title": "Sodaaaa"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_sorry_did_i_make_you_wait_too_long.mp3",
+    "title": "Sorry did i make you wait too long"
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_sorry_for_joking.mp3",
+    "title": "Sorry for joking"
   }
 ]

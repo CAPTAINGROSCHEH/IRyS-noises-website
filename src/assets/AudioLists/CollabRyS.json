@@ -16,8 +16,13 @@
   },
   {
     "category": "CollabRyS",
-    "file": "BaeRyS_I_think_Im_morbin_guys.wav",
-    "title": "BaeRyS I think Im morbin guys"
+    "file": "BaeRyS_I_think_I'm_morbin_guys.wav",
+    "title": "BaeRyS I think I'm morbin guys"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "BaeRyS_I'm_massive.wav",
+    "title": "BaeRyS I'm massive"
   },
   {
     "category": "CollabRyS",
@@ -28,11 +33,6 @@
     "category": "CollabRyS",
     "file": "BaeRyS_IRySinging_PuruPuruPururin.wav",
     "title": "BaeRyS IRySinging PuruPuruPururin"
-  },
-  {
-    "category": "CollabRyS",
-    "file": "BaeRyS_Im_massive.wav",
-    "title": "BaeRyS Im massive"
   },
   {
     "category": "CollabRyS",
@@ -256,6 +256,11 @@
   },
   {
     "category": "CollabRyS",
+    "file": "IRyS_forgor_and_kills_Kiara_and_laughs_about_it.wav",
+    "title": "Forgor and kills Kiara and laughs about it"
+  },
+  {
+    "category": "CollabRyS",
     "file": "IRyS_get_in_the_robot_Ina.mp3",
     "title": "Get in the robot Ina"
   },
@@ -311,8 +316,8 @@
   },
   {
     "category": "CollabRyS",
-    "file": "IRyS_i_have_my_own_chocolate_and_im_gonna_eat_it.mp3",
-    "title": "I have my own chocolate and im gonna eat it"
+    "file": "IRyS_i_have_my_own_chocolate_and_I'm_gonna_eat_it.mp3",
+    "title": "I have my own chocolate and I'm gonna eat it"
   },
   {
     "category": "CollabRyS",
@@ -326,13 +331,13 @@
   },
   {
     "category": "CollabRyS",
-    "file": "IRyS_i_think_she_is_dying_and_the_last_thing_she_will_see_before_dying_is_a_sniper.mp3",
-    "title": "I think she is dying and the last thing she will see before dying is a sniper"
+    "file": "IRyS_I'm gonna die.mp3",
+    "title": "I'm gonna die"
   },
   {
     "category": "CollabRyS",
-    "file": "IRyS_ikebovoice_plus_nanikimoi.mp3",
-    "title": "Ikebovoice plus nanikimoi"
+    "file": "IRyS_ikebo voice.mp3",
+    "title": "Ikebo voice"
   },
   {
     "category": "CollabRyS",
@@ -378,5 +383,10 @@
     "category": "CollabRyS",
     "file": "IRyS_reading_Sana_message.wav",
     "title": "Reading Sana message"
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_stabbed_Bob's_pp_with_a_syringe.mp3",
+    "title": "Stabbed Bob's pp with a syringe"
   }
 ]

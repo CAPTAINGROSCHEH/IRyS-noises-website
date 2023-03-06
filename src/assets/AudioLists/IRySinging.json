@@ -261,6 +261,11 @@
   },
   {
     "category": "IRySinging",
+    "file": "IRySinging_I'm_bad_MJ.wav",
+    "title": "IRySinging I'm bad MJ"
+  },
+  {
+    "category": "IRySinging",
     "file": "IRySinging_Ice_ice_baby.wav",
     "title": "IRySinging Ice ice baby"
   },
@@ -268,11 +273,6 @@
     "category": "IRySinging",
     "file": "IRySinging_Identity.mp3",
     "title": "IRySinging Identity"
-  },
-  {
-    "category": "IRySinging",
-    "file": "IRySinging_Im_bad_MJ.wav",
-    "title": "IRySinging Im bad MJ"
   },
   {
     "category": "IRySinging",
@@ -286,8 +286,8 @@
   },
   {
     "category": "IRySinging",
-    "file": "IRySinging_Its_Gonna_Be_Me.wav",
-    "title": "IRySinging Its Gonna Be Me"
+    "file": "IRySinging_It's_Gonna_Be_Me.wav",
+    "title": "IRySinging It's Gonna Be Me"
   },
   {
     "category": "IRySinging",
@@ -648,5 +648,15 @@
     "category": "IRySinging",
     "file": "IRyS_Santa_Baby_but_keyboard.wav",
     "title": "Santa Baby but keyboard"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_splatin_does_not_feel_good.wav",
+    "title": "Splatin does not feel good"
+  },
+  {
+    "category": "IRySinging",
+    "file": "IRyS_squeek.wav",
+    "title": "Squeek"
   }
 ]

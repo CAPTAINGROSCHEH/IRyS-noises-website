@@ -201,12 +201,12 @@
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_oh_shit.mp3",
+    "file": "IRyS_oh_shit.wav",
     "title": "Oh shit"
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_oh_shit.wav",
+    "file": "IRyS_oh_shit.mp3",
     "title": "Oh shit"
   },
   {
@@ -236,6 +236,11 @@
   },
   {
     "category": "IRySwearing",
+    "file": "IRyS_SHIT.wav",
+    "title": "SHIT"
+  },
+  {
+    "category": "IRySwearing",
     "file": "IRyS_saved_my_ass.mp3",
     "title": "Saved my ass"
   },
@@ -243,5 +248,25 @@
     "category": "IRySwearing",
     "file": "IRyS_she_might_be_a_beech.mp3",
     "title": "She might be a beech"
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_shit.mp3",
+    "title": "Shit"
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_shit_shit_shit_shit_shittake.mp3",
+    "title": "Shit shit shit shit shittake"
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_shit_shit_shittake.mp3",
+    "title": "Shit shit shittake"
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_so_much_shit_is_going_on.wav",
+    "title": "So much shit is going on"
   }
 ]

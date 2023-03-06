@@ -1,8 +1,8 @@
 [
   {
     "category": "General",
-    "file": "IRyS_am_i_a_good_baby.mp3",
-    "title": "Am i a good baby"
+    "file": "IRyS_am_I_a_good_baby.mp3",
+    "title": "Am I a good baby"
   },
   {
     "category": "General",
@@ -111,8 +111,8 @@
   },
   {
     "category": "General",
-    "file": "IRyS_byeRyS_its_IRyS.mp3",
-    "title": "ByeRyS its IRyS"
+    "file": "IRyS_byeRyS_it's_IRyS.mp3",
+    "title": "ByeRyS it's IRyS"
   },
   {
     "category": "General",
@@ -176,18 +176,18 @@
   },
   {
     "category": "General",
-    "file": "IRyS_come_to_mama.wav",
-    "title": "Come to mama"
+    "file": "IRyS_come_to_mama_01.wav",
+    "title": "Come to mama 01"
   },
   {
     "category": "General",
-    "file": "IRyS_come_to_mama2.wav",
-    "title": "Come to mama2"
+    "file": "IRyS_come_to_mama_02.wav",
+    "title": "Come to mama 02"
   },
   {
     "category": "General",
-    "file": "IRyS_come_to_mama3.wav",
-    "title": "Come to mama3"
+    "file": "IRyS_come_to_mama_03.wav",
+    "title": "Come to mama 03"
   },
   {
     "category": "General",
@@ -226,8 +226,8 @@
   },
   {
     "category": "General",
-    "file": "IRyS_cuz_Im_a_smug_person_at_heart.wav",
-    "title": "Cuz Im a smug person at heart"
+    "file": "IRyS_cuz_I'm_a_smug_person_at_heart.wav",
+    "title": "Cuz I'm a smug person at heart"
   },
   {
     "category": "General",
@@ -246,18 +246,18 @@
   },
   {
     "category": "General",
-    "file": "IRyS_dogs_cute.mp3",
-    "title": "Dogs cute"
+    "file": "IRyS_dog's_cute.mp3",
+    "title": "Dog's cute"
   },
   {
     "category": "General",
-    "file": "IRyS_doinAwesome.mp3",
-    "title": "DoinAwesome"
+    "file": "IRyS_doin_awesome.mp3",
+    "title": "Doin awesome"
   },
   {
     "category": "General",
-    "file": "IRyS_dont_run_away.mp3",
-    "title": "Dont run away"
+    "file": "IRyS_don't_run_away.mp3",
+    "title": "Don't run away"
   },
   {
     "category": "General",
@@ -286,8 +286,8 @@
   },
   {
     "category": "General",
-    "file": "IRyS_ewww_its_tiny.wav",
-    "title": "Ewww its tiny"
+    "file": "IRyS_ewww_it's_tiny.wav",
+    "title": "Ewww it's tiny"
   },
   {
     "category": "General",
@@ -321,8 +321,8 @@
   },
   {
     "category": "General",
-    "file": "IRyS_fast_lets_go.mp3",
-    "title": "Fast lets go"
+    "file": "IRyS_fast_let's_go.mp3",
+    "title": "Fast let's go"
   },
   {
     "category": "General",
@@ -486,8 +486,8 @@
   },
   {
     "category": "General",
-    "file": "IRyS_hey_dude_youre_okay.mp3",
-    "title": "Hey dude youre okay"
+    "file": "IRyS_hey_dude_you're_okay.mp3",
+    "title": "Hey dude you're okay"
   },
   {
     "category": "General",
@@ -521,13 +521,13 @@
   },
   {
     "category": "General",
-    "file": "HiRyS_its_sportrys.wav",
-    "title": "HiRyS its sportrys"
+    "file": "HiRyS_it's_sportrys.wav",
+    "title": "HiRyS it's sportrys"
   },
   {
     "category": "General",
-    "file": "IRyS_hiwys_its_iwys.wav",
-    "title": "Hiwys its iwys"
+    "file": "IRyS_hiwys_it's_iwys.wav",
+    "title": "Hiwys it's iwys"
   },
   {
     "category": "General",
@@ -636,13 +636,68 @@
   },
   {
     "category": "General",
+    "file": "IRyS_I'm_actually_drinking_a_really_big_soda_rn.wav",
+    "title": "I'm actually drinking a really big soda rn"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_I'm_gaming_guys.wav",
+    "title": "I'm gaming guys"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_I'm_gonna_crush_them_like_an_empty_soda_can.wav",
+    "title": "I'm gonna crush them like an empty soda can"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_I'm_gonna_get_out_of_this_orange_justice_tutorial_tab.wav",
+    "title": "I'm gonna get out of this orange justice tutorial tab"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_I'm_learning.wav",
+    "title": "I'm learning"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_I'm_learning_guys.wav",
+    "title": "I'm learning guys"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_I'm_lost_guys_as_per_usual.wav",
+    "title": "I'm lost guys as per usual"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_I'm_not_giving_you_cookies.wav",
+    "title": "I'm not giving you cookies"
+  },
+  {
+    "category": "General",
     "file": "IRyS_I'm_not_on_copium.wav",
     "title": "I'm not on copium"
   },
   {
     "category": "General",
-    "file": "IRyS_IQ_200_lets_goooo.wav",
-    "title": "IQ 200 lets goooo"
+    "file": "IRyS_I'm_on_my_way.wav",
+    "title": "I'm on my way"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_I'm_starting_to_be_su-.mp3",
+    "title": "I'm starting to be su-"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_I'm_taking_my_meds.wav",
+    "title": "I'm taking my meds"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_IQ_200_let's_goooo.wav",
+    "title": "IQ 200 let's goooo"
   },
   {
     "category": "General",
@@ -651,63 +706,8 @@
   },
   {
     "category": "General",
-    "file": "IRyS Wrist Rest IRyS Wrist Rest IRyS Wrist Rest IRyS Wrist Rest IRyS Wrist Rest IRyS Wrist Rest IRyS Wrist Rest IRyS Wrist Rest .mp3",
-    "title": "IRyS Wrist Rest IRyS Wrist Rest IRyS Wrist Rest IRyS Wrist Rest IRyS Wrist Rest IRyS Wrist Rest IRyS Wrist Rest IRyS Wrist Rest "
-  },
-  {
-    "category": "General",
-    "file": "IRyS_Im_actually_drinking_a_really_big_soda_rn.wav",
-    "title": "Im actually drinking a really big soda rn"
-  },
-  {
-    "category": "General",
-    "file": "IRyS_Im_gaming_guys.wav",
-    "title": "Im gaming guys"
-  },
-  {
-    "category": "General",
-    "file": "IRyS_Im_gonna_crush_them_like_an_empty_soda_can.wav",
-    "title": "Im gonna crush them like an empty soda can"
-  },
-  {
-    "category": "General",
-    "file": "IRyS_Im_gonna_get_out_of_this_orange_justice_tutorial_tab.wav",
-    "title": "Im gonna get out of this orange justice tutorial tab"
-  },
-  {
-    "category": "General",
-    "file": "IRyS_Im_learning.wav",
-    "title": "Im learning"
-  },
-  {
-    "category": "General",
-    "file": "IRyS_Im_learning_guys.wav",
-    "title": "Im learning guys"
-  },
-  {
-    "category": "General",
-    "file": "IRyS_Im_lost_guys_as_per_usual.wav",
-    "title": "Im lost guys as per usual"
-  },
-  {
-    "category": "General",
-    "file": "IRyS_Im_not_giving_you_cookies.wav",
-    "title": "Im not giving you cookies"
-  },
-  {
-    "category": "General",
-    "file": "IRyS_Im_on_my_way.wav",
-    "title": "Im on my way"
-  },
-  {
-    "category": "General",
-    "file": "IRyS_Im_starting_to_be_su-.mp3",
-    "title": "Im starting to be su-"
-  },
-  {
-    "category": "General",
-    "file": "IRyS_Im_taking_my_meds.wav",
-    "title": "Im taking my meds"
+    "file": "IRyS Wrist Rest.mp3",
+    "title": "IRyS Wrist Rest"
   },
   {
     "category": "General",
@@ -786,28 +786,28 @@
   },
   {
     "category": "General",
-    "file": "IRyS_its_my_future_baby.wav",
-    "title": "Its my future baby"
+    "file": "IRyS_it's_my_future_baby.wav",
+    "title": "It's my future baby"
   },
   {
     "category": "General",
-    "file": "IRyS_its_suffering_and_we_all_love_suffering_right.mp3",
-    "title": "Its suffering and we all love suffering right"
+    "file": "IRyS_it's_suffering_and_we_all_love_suffering_right.mp3",
+    "title": "It's suffering and we all love suffering right"
   },
   {
     "category": "General",
-    "file": "IRyS_its_telling_me_to_die.wav",
-    "title": "Its telling me to die"
+    "file": "IRyS_it's_telling_me_to_die.wav",
+    "title": "It's telling me to die"
   },
   {
     "category": "General",
-    "file": "IRyS_its_the_awooga.wav",
-    "title": "Its the awooga"
+    "file": "IRyS_it's_the_awooga.wav",
+    "title": "It's the awooga"
   },
   {
     "category": "General",
-    "file": "IRyS_its_very_big_its_a_big_boy.wav",
-    "title": "Its very big its a big boy"
+    "file": "IRyS_it's_very_big_it's_a_big_boy.wav",
+    "title": "It's very big it's a big boy"
   },
   {
     "category": "General",
@@ -851,13 +851,13 @@
   },
   {
     "category": "General",
-    "file": "IRyS_lets_bring_all_these_girls_home.mp3",
-    "title": "Lets bring all these girls home"
+    "file": "IRyS_let's_bring_all_these_girls_home.mp3",
+    "title": "Let's bring all these girls home"
   },
   {
     "category": "General",
-    "file": "IRyS_lets_go_lets_do_this_again_baby.wav",
-    "title": "Lets go lets do this again baby"
+    "file": "IRyS_let's_go_let's_do_this_again_baby.wav",
+    "title": "Let's go let's do this again baby"
   },
   {
     "category": "General",
@@ -868,6 +868,11 @@
     "category": "General",
     "file": "IRyS_love_you.wav",
     "title": "Love you"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_Lucky_to_sleep_next_to_Hope.mp3",
+    "title": "Lucky to sleep next to Hope"
   },
   {
     "category": "General",
@@ -1203,6 +1208,41 @@
     "category": "General",
     "file": "IRyS_shame_on_you.wav",
     "title": "Shame on you"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_she's_fine.wav",
+    "title": "She's fine"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_shoryuken.wav",
+    "title": "Shoryuken"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_shut_up.wav",
+    "title": "Shut up"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_shut_up_Ron.mp3",
+    "title": "Shut up Ron"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_shut_up_it_has_just_started.wav",
+    "title": "Shut up it has just started"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_silly_old_me.mp3",
+    "title": "Silly old me"
+  },
+  {
+    "category": "General",
+    "file": "IRyS_spoiler_alert.wav",
+    "title": "Spoiler alert"
   },
   {
     "category": "General",

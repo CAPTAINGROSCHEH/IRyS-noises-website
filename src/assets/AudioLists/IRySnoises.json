@@ -886,8 +886,13 @@
   },
   {
     "category": "IRySnoises",
-    "file": "IRyS_im_mickey.mp3",
-    "title": "Im mickey"
+    "file": "IRyS_i'm_mickey.mp3",
+    "title": "I'm mickey"
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_Idk how to call those_noises tbh.mp3",
+    "title": "Idk how to call those noises tbh"
   },
   {
     "category": "IRySnoises",
@@ -1493,5 +1498,55 @@
     "category": "IRySnoises",
     "file": "IRyS_shaaaaa_shaaaaaa.mp3",
     "title": "Shaaaaa shaaaaaa"
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_sheesh.wav",
+    "title": "Sheesh"
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_shiii-.wav",
+    "title": "Shiii-"
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_shoo.wav",
+    "title": "Shoo"
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_shuba.mp3",
+    "title": "Shuba"
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_sigh_01.wav",
+    "title": "Sigh 01"
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_sigh_02.wav",
+    "title": "Sigh 02"
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_sigh_03.wav",
+    "title": "Sigh 03"
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_snort_byerys.mp3",
+    "title": "Snort byerys"
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_soul sand asmr.mp3",
+    "title": "Soul sand asmr"
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_squelch.mp3",
+    "title": "Squelch"
   }
 ]

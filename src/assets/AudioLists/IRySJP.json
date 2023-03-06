@@ -251,8 +251,8 @@
   },
   {
     "category": "IRySJP",
-    "file": "IRyS_i_dont_think_im_daijobu.mp3",
-    "title": "I dont think im daijobu"
+    "file": "IRyS_i_dont_think_I'm_daijobu.mp3",
+    "title": "I dont think I'm daijobu"
   },
   {
     "category": "IRySJP",
@@ -301,8 +301,8 @@
   },
   {
     "category": "IRySJP",
-    "file": "IRyS_its_only_been_an_hour.mp3",
-    "title": "Its only been an hour"
+    "file": "IRyS_it's_only_been_an_hour.mp3",
+    "title": "It's only been an hour"
   },
   {
     "category": "IRySJP",
@@ -346,13 +346,13 @@
   },
   {
     "category": "IRySJP",
-    "file": "IRyS_lets_go_kani.wav",
-    "title": "Lets go kani"
+    "file": "IRyS_let's_go_kani.wav",
+    "title": "Let's go kani"
   },
   {
     "category": "IRySJP",
-    "file": "IRyS_lets_kiss_JP.wav",
-    "title": "Lets kiss JP"
+    "file": "IRyS_let's_kiss_JP.wav",
+    "title": "Let's kiss JP"
   },
   {
     "category": "IRySJP",
@@ -663,5 +663,30 @@
     "category": "IRySJP",
     "file": "IRyS_shanaina_ikuzo.mp3",
     "title": "Shanaina ikuzo"
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_shineeee.wav",
+    "title": "Shineeee"
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_sokomadeyunarane.wav",
+    "title": "Sokomadeyunarane"
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_sonna_bakana.mp3",
+    "title": "Sonna bakana"
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_sonna_banana_01.wav",
+    "title": "Sonna banana 01"
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_sonna_banana_02.wav",
+    "title": "Sonna banana 02"
   }
 ]
