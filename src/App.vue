@@ -1,6 +1,7 @@
 <script setup>
 import IRySNoise from './components/IRySNoise.vue';
 import InfoModal from './components/InfoModal.vue';
+import IRySRandomNoise from './components/IRySRandomNoise.vue';
 
 import CollabRyS from './assets/AudioLists/CollabRyS.json';
 import General from './assets/AudioLists/General.json';
@@ -123,6 +124,7 @@ function showModal(){
       </div>
     </div>
     <div >
+      <IRySRandomNoise :soundObjs="[General, IRySoFunny, IRySoCute, IRySinging, IRyScream, IRySwearing, YabaIRyS, IRySnoises, IRySneeze, YawnRyS, IRySJP, WorldWideRyS, CollabRyS]" />
       <div class="category" id="General">
         <h2> General</h2>
         <IRySNoise v-for="item in General" :category="item.category" :file="item.file" :title="item.title" class/>
