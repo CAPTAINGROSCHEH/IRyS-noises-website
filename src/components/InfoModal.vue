@@ -24,7 +24,7 @@ export default {
                 <p>I would never be able to do this alone, a good amount of friends and tools helped me to make this:</p>
                 <ul>
                     <li>Goose for helping me to start this project by giving me some really useful advices.</li>
-                    <li><a href="https://www.youtube.com/@Pyrospower">Pyrospower</a>, Walt, <a href="https://github.com/Warheart-1">Warheart</a>, Yayaka and lots of other people for the testing and all the advices they gave to me.</li>
+                    <li><a href="https://www.youtube.com/@Pyrospower">Pyrospower</a>, <a href="https://twitter.com/Walt280">Tactician_Walt</a>, <a href="https://github.com/Warheart-1">Warheart</a>, Yayaka and lots of other people for the testing and all the advices they gave to me.</li>
                     <li><a href="https://twitter.com/kito_koruta/status/1500755335518498817?s=20">IRyS' Youtube PFP</a> by <a href="https://twitter.com/kito_koruta/">Kito Koruta</a> for the favicon and the header icon.</li>
                     <li>The font used is <a href="https://www.fontspring.com/fonts/inky-type/riffic">Riffic Free Bold</a>.</li>
                     <li>The frontend is written with <a href="https://vuejs.org/">Vue</a>.</li>
@@ -35,7 +35,7 @@ export default {
                 <p>As I said, I'm used to clip most of IRyS' streams, so I'll update the soundboard every week/few weeks.</p>
                 <p>If you want to report an issue or ask any questions, you can find me on <a href="https://twitter.com/Akaridesho">Twitter</a> !</p>
                 <h2>How many sounds are there here?</h2>
-                <p>There's currently 1700 sounds! (a lot more are coming in a few hours!)</p>
+                <p>There's currently 1700 sounds! (a lot more is coming in a few hours!)</p>
             </div>
         </div>
     </div>

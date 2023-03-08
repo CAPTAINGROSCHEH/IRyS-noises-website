@@ -61,6 +61,7 @@ function showModal(){
   <div id="mainPage-div" :class="{ darkmode: darkMode }">
     <button id="btn-information" :class="{ darkmode: darkMode }" @click="showModal()" > i </button>
     <img src="./assets/icon/darkmode.png" id="btn-darkmode" :class="{ darkmode: darkMode }" @click="toggleDarkMode()" />
+
   <Transition>
     <InfoModal v-show="modalActive" @close-modal="showModal()" />
   </Transition>
@@ -71,12 +72,13 @@ function showModal(){
       <img src="https://yt3.googleusercontent.com/oC30wBZ04ibFN7AQVHAjdUX-3nS-h4DDjJBYVlsKt0OF6t1CZwrgzWlr3rS6Q12kXrw3-mt9gg=s88-c-k-c0x00ffffff-no-rj" class="logo" />
     </a>
   </div>
-
+  
   <a class="burger-btn" @click="showNav()">
       <span></span>
       <span></span>
       <span></span>
     </a>
+  
   <div class="nav-overlay" :class="{active: navActive}" >
     <div class="nav-menu" :class="{active: navActive}" @click="showNav()">
         <nav class="category-nav" @click.stop >

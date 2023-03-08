@@ -1,4 +1,3 @@
-<style src="../assets/css/button.css"/>
 <script setup>
   import { ref } from 'vue'
 
@@ -48,3 +47,28 @@
     </button>
   </a>
 </template>
+<style scoped>
+  .played {
+    background-image: url('../assets/img/btn-background.png');
+    background-size: 10% 100%;
+    background-repeat: repeat-y;
+    animation: linear;
+    animation-name: play;
+    border-color: #5e0136;
+  }
+  a {
+    margin-left: 0;
+    display: contents;
+  }
+  .read-the-docs {
+    color: #888;
+  }
+  @keyframes play{
+    0%{
+      background-size: 0% 100% ;
+    }
+    100%{
+      background-size: 100% 100%;
+    }
+  }
+</style>

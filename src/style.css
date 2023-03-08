@@ -418,7 +418,7 @@ nav li a {
 
 }
 
-.category button {
+a button {
   filter: drop-shadow(0 0 0.2em #af0043);
   border-radius: 8px;
   border: 2px solid transparent;
@@ -435,17 +435,17 @@ nav li a {
   color: #ffffff;
   background-color: #af0043;
 }
-.category button:hover {
+a button:hover {
   border-color: #00FFF2;
   background-color: #6e1a4a;
 }
 
-.category button:active{
+a button:active{
   background-color: #5e0136;
 }
 
-.category button:focus,
-.category button:focus-visible {
+a button:focus,
+a button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 

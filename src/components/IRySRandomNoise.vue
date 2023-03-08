@@ -1,4 +1,3 @@
-<style src="../assets/css/button.css"/>
 <script setup>
   import { ref } from 'vue'
 
@@ -43,9 +42,42 @@
 </script>
 
 <template> 
+  <a>
     <button :class="{ played: isPlayed }" type="button" @click="playRandomSound();" :style="{'animation-duration': duration + 's'}">
         <div id="btn-overlay">
             🎲 Click/Tap here for a random sound! 🎲
         </div>
     </button>
+  </a>
 </template>
+
+<style scoped>
+
+
+.played {
+    background-image: url('../assets/img/btn-background.png');
+    background-size: 10% 100%;
+    background-repeat: repeat-y;
+    animation: linear;
+    animation-name: play;
+    border-color: #5e0136;
+  }
+
+  @keyframes play{
+    0%{
+      background-size: 0% 100% ;
+    }
+    100%{
+      background-size: 100% 100%;
+    }
+  }
+  
+@media screen and (max-width:  720px) {
+  button{
+    font-size: 4vw;
+
+  }
+
+}
+
+</style>
