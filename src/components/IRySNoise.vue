@@ -40,7 +40,7 @@
 </script>
 
 <template> 
-  <a  :href="audio" :class="{ 'played': isPlayed}" @click.stop.prevent="onClick">
+  <a :href="audio" :class="{ 'played': isPlayed}" @click.stop.prevent="onClick">
     <button :id="title" :class="{ 'new': this.new }" type="button" @click="playSound();" :style="{'animation-duration': duration + 's'}">
       <div id="btn-overlay">
         {{ title }}
@@ -70,6 +70,7 @@
   color: #000000;
   background-color: #00e0d5;
   }
+  
 
   .new:hover {
   border-color: #d40051;

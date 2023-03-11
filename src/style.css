@@ -418,6 +418,14 @@ nav li a {
 
 }
 
+.header .new{
+  background-color: #000dff ;
+  height: 100%;  
+  margin-top: 55px;
+  justify-self: center;
+}
+
+
 a button {
   filter: drop-shadow(0 0 0.2em #af0043);
   border-radius: 8px;

@@ -1,19 +1,13 @@
 [
   {
     "category": "IRySneeze",
-    "file": "desktop.ini",
-    "title": "Desktop",
-    "new": false
-  },
-  {
-    "category": "IRySneeze",
     "file": "IRySneeze_01.mp3",
     "title": "IRySneeze 01",
     "new": false
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_02.wav",
+    "file": "IRySneeze_02.mp3",
     "title": "IRySneeze 02",
     "new": false
   },
@@ -25,7 +19,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_04.wav",
+    "file": "IRySneeze_04.mp3",
     "title": "IRySneeze 04",
     "new": false
   },
@@ -37,7 +31,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_06.wav",
+    "file": "IRySneeze_06.mp3",
     "title": "IRySneeze 06",
     "new": false
   },
@@ -49,7 +43,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_08.wav",
+    "file": "IRySneeze_08.mp3",
     "title": "IRySneeze 08",
     "new": false
   },
@@ -61,7 +55,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_10.wav",
+    "file": "IRySneeze_10.mp3",
     "title": "IRySneeze 10",
     "new": false
   },
@@ -73,7 +67,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_12.wav",
+    "file": "IRySneeze_12.mp3",
     "title": "IRySneeze 12",
     "new": false
   },
@@ -85,7 +79,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_14.wav",
+    "file": "IRySneeze_14.mp3",
     "title": "IRySneeze 14",
     "new": false
   },
@@ -97,7 +91,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_16.wav",
+    "file": "IRySneeze_16.mp3",
     "title": "IRySneeze 16",
     "new": false
   },
@@ -109,7 +103,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_18.wav",
+    "file": "IRySneeze_18.mp3",
     "title": "IRySneeze 18",
     "new": false
   },
@@ -121,7 +115,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_20.wav",
+    "file": "IRySneeze_20.mp3",
     "title": "IRySneeze 20",
     "new": false
   },
@@ -133,7 +127,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_22.wav",
+    "file": "IRySneeze_22.mp3",
     "title": "IRySneeze 22",
     "new": false
   },
@@ -145,7 +139,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_24.wav",
+    "file": "IRySneeze_24.mp3",
     "title": "IRySneeze 24",
     "new": false
   },
@@ -157,7 +151,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_26.wav",
+    "file": "IRySneeze_26.mp3",
     "title": "IRySneeze 26",
     "new": false
   },
@@ -169,7 +163,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_28.wav",
+    "file": "IRySneeze_28.mp3",
     "title": "IRySneeze 28",
     "new": false
   },
@@ -181,7 +175,7 @@
   },
   {
     "category": "IRySneeze",
-    "file": "IRySneeze_30.wav",
+    "file": "IRySneeze_30.mp3",
     "title": "IRySneeze 30",
     "new": false
   },
@@ -280,5 +274,29 @@
     "file": "IRySneeze_46.mp3",
     "title": "IRySneeze 46",
     "new": false
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_47.mp3",
+    "title": "IRySneeze 47",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_48.mp3",
+    "title": "IRySneeze 48",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_49.mp3",
+    "title": "IRySneeze 49",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_50.mp3",
+    "title": "IRySneeze 50",
+    "new": true
   }
 ]

@@ -58,6 +58,8 @@ function showModal(){
 </script>
 
 <template>
+  <header>
+  </header>
   <div id="mainPage-div" :class="{ darkmode: darkMode }">
     <button id="btn-information" :class="{ darkmode: darkMode }" @click="showModal()" > i </button>
     <img src="./assets/icon/darkmode.png" id="btn-darkmode" :class="{ darkmode: darkMode }" @click="toggleDarkMode()" />
@@ -67,6 +69,8 @@ function showModal(){
   </Transition>
 
   <div class="header">
+    <IRySNoise category="sus" file="" title="New audios are blue!" :new="true" class/>
+    
     <h1 class="title"> IRySoundboard!</h1>
     <a href="https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g"  target="_blank">
       <img src="https://yt3.googleusercontent.com/oC30wBZ04ibFN7AQVHAjdUX-3nS-h4DDjJBYVlsKt0OF6t1CZwrgzWlr3rS6Q12kXrw3-mt9gg=s88-c-k-c0x00ffffff-no-rj" class="logo" />
@@ -133,7 +137,7 @@ function showModal(){
       </div>
       <div class="category" id="IRySoFunny">
         <h2> IRySoFunny</h2>
-        <IRySNoise v-for="item in IRySoFunny" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
+        <IRySNoise  v-for="item in IRySoFunny" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
       <div class="category" id="IRySoCute">
         <h2> IRySoCute</h2>

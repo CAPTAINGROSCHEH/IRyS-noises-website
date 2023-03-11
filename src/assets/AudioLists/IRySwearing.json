@@ -1,19 +1,19 @@
 [
   {
     "category": "IRySwearing",
-    "file": "IRyS_aaah_fuck.wav",
+    "file": "IRyS_aaah_fuck.mp3",
     "title": "Aaah fuck",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_ass.wav",
+    "file": "IRyS_ass.mp3",
     "title": "Ass",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_BATSHIT.wav",
+    "file": "IRyS_BATSHIT.mp3",
     "title": "BATSHIT",
     "new": false
   },
@@ -31,19 +31,19 @@
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_beeep_him.wav",
+    "file": "IRyS_beeep_him.mp3",
     "title": "Beeep him",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_beep_you_too_Bae.wav",
+    "file": "IRyS_beep_you_too_Bae.mp3",
     "title": "Beep you too Bae",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_big_ugly_bastard.wav",
+    "file": "IRyS_big_ugly_bastard.mp3",
     "title": "Big ugly bastard",
     "new": false
   },
@@ -55,43 +55,61 @@
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_Bitch_02.wav",
+    "file": "IRyS_Bitch_02.mp3",
     "title": "Bitch 02",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_bitch_still_alive.wav",
+    "file": "IRyS_bitch_still_alive.mp3",
     "title": "Bitch still alive",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_come_back_here_you_little_shit.wav",
+    "file": "IRyS_come_back_here_you_little_shit.mp3",
     "title": "Come back here you little shit",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_damn_that_bastard.wav",
+    "file": "IRyS_Damn_it_01.mp3",
+    "title": "Damn it 01",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_Damn_it_02.mp3",
+    "title": "Damn it 02",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_damn_that_bastard.mp3",
     "title": "Damn that bastard",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_dang_it_I_wanted_to_shoot_the_douchebag.wav",
+    "file": "IRyS_dang_it_I_wanted_to_shoot_the_douchebag.mp3",
     "title": "Dang it I wanted to shoot the douchebag",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_do_you_see_this_shitto.wav",
+    "file": "IRyS_do_you_see_this_shitto.mp3",
     "title": "Do you see this shitto",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_don't_fuck_up_like_I_did.wav",
+    "file": "IRyS_doesn't_give_a_shiitake.mp3",
+    "title": "Doesn't give a shiitake",
+    "new": false
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_don't_fuck_up_like_I_did.mp3",
     "title": "Don't fuck up like I did",
     "new": false
   },
@@ -109,7 +127,7 @@
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_FUCK_HIM.wav",
+    "file": "IRyS_FUCK_HIM.mp3",
     "title": "FUCK HIM",
     "new": false
   },
@@ -121,19 +139,25 @@
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_fuck.wav",
-    "title": "Fuck",
+    "file": "IRyS_fuck_01.mp3",
+    "title": "Fuck 01",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_fucked_u-.wav",
+    "file": "IRyS_fuck_02.mp3",
+    "title": "Fuck 02",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_fucked_u-.mp3",
     "title": "Fucked u-",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_fuuuuuck.wav",
+    "file": "IRyS_fuuuuuck.mp3",
     "title": "Fuuuuuck",
     "new": false
   },
@@ -151,37 +175,49 @@
   },
   {
     "category": "IRySwearing",
-    "file": "HEARING ASMR SHIT.wav",
+    "file": "HEARING ASMR SHIT.mp3",
     "title": "HEARING ASMR SHIT",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_happy_fucking_thoughts.wav",
+    "file": "IRyS_happy_fucking_thoughts.mp3",
     "title": "Happy fucking thoughts",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_holy_molly_he_is_an_a-.wav",
+    "file": "IRyS_holy_molly_he_is_an_a-.mp3",
     "title": "Holy molly he is an a-",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_holy_shit_there_are_so_many_of_them.wav",
+    "file": "IRyS_holy_shit.mp3",
+    "title": "Holy shit",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_holy_shit_there_are_so_many_of_them.mp3",
     "title": "Holy shit there are so many of them",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_I_fucking_hate_clam.wav",
+    "file": "IRyS_I_fucking_hate_clam.mp3",
     "title": "I fucking hate clam",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_I'm_playing_a_fucking_game.wav",
+    "file": "IRyS_I'm_bitches.mp3",
+    "title": "I'm bitches",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_I'm_playing_a_fucking_game.mp3",
     "title": "I'm playing a fucking game",
     "new": true
   },
@@ -189,12 +225,6 @@
     "category": "IRySwearing",
     "file": "IRYSCREAMING_SHIT.mp3",
     "title": "IRYSCREAMING SHIT",
-    "new": false
-  },
-  {
-    "category": "IRySwearing",
-    "file": "irys_doesn't_give_a_shiitake.mp3",
-    "title": "Irys doesn't give a shiitake",
     "new": false
   },
   {
@@ -217,7 +247,7 @@
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_MOTHA_FUCKA.wav",
+    "file": "IRyS_MOTHA_FUCKA.mp3",
     "title": "MOTHA FUCKA",
     "new": false
   },
@@ -229,31 +259,37 @@
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_oh_fuck.wav",
+    "file": "IRyS_oh_fuck.mp3",
     "title": "Oh fuck",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_oh_shii-AAAAA.wav",
+    "file": "IRyS_oh_no_what_the_fuck.mp3",
+    "title": "Oh no what the fuck",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_oh_shii-AAAAA.mp3",
     "title": "Oh shii-AAAAA",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_oh_shiiit.wav",
+    "file": "IRyS_oh_shiiit.mp3",
     "title": "Oh shiiit",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_oh shit 01.wav",
+    "file": "IRyS_oh shit 01.mp3",
     "title": "Oh shit 01",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_oh_shit_02.wav",
+    "file": "IRyS_oh_shit_02.mp3",
     "title": "Oh shit 02",
     "new": false
   },
@@ -265,13 +301,13 @@
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_oh_shit_shittake.wav",
+    "file": "IRyS_oh_shit_shittake.mp3",
     "title": "Oh shit shittake",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_oh_shit...take.wav",
+    "file": "IRyS_oh_shit...take.mp3",
     "title": "Oh shit...take",
     "new": false
   },
@@ -283,7 +319,7 @@
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_run_through_this_fucking_thing.wav",
+    "file": "IRyS_run_through_this_fucking_thing.mp3",
     "title": "Run through this fucking thing",
     "new": false
   },
@@ -301,9 +337,15 @@
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_shit.mp3",
-    "title": "Shit",
+    "file": "IRyS_shit_01.mp3",
+    "title": "Shit 01",
     "new": false
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_shit_02.mp3",
+    "title": "Shit 02",
+    "new": true
   },
   {
     "category": "IRySwearing",
@@ -319,13 +361,19 @@
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_so_much_shit_is_going_on.wav",
+    "file": "IRyS_shit...take.mp3",
+    "title": "Shit...take",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_so_much_shit_is_going_on.mp3",
     "title": "So much shit is going on",
     "new": false
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_Ssshit.wav",
+    "file": "IRyS_Ssshit.mp3",
     "title": "Ssshit",
     "new": false
   },
@@ -337,31 +385,37 @@
   },
   {
     "category": "IRySwearing",
+    "file": "IRyS_that_hurts_like_a_biatch.mp3",
+    "title": "That hurts like a biatch",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
     "file": "IRyS_thats_a_huge_ass.mp3",
     "title": "Thats a huge ass",
     "new": true
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_the_trick_is_to_not_give_a_shiii.wav",
+    "file": "IRyS_the_trick_is_to_not_give_a_shiii.mp3",
     "title": "The trick is to not give a shiii",
     "new": true
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_this_ASSHOLE.wav",
+    "file": "IRyS_this_ASSHOLE.mp3",
     "title": "This ASSHOLE",
     "new": true
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_times_up_shit_fudge.wav",
+    "file": "IRyS_times_up_shit_fudge.mp3",
     "title": "Times up shit fudge",
     "new": true
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_useless_piece_of_shiii-.wav",
+    "file": "IRyS_useless_piece_of_shiii-.mp3",
     "title": "Useless piece of shiii-",
     "new": true
   },
@@ -373,20 +427,50 @@
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_what_the_fu-.wav",
+    "file": "IRyS_what_the_fu-.mp3",
     "title": "What the fu-",
     "new": true
   },
   {
     "category": "IRySwearing",
-    "file": "IRyS_what_the_fuck.wav",
+    "file": "IRyS_what_the_fuck.mp3",
     "title": "What the fuck",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_what_the_fuck_was_that.mp3",
+    "title": "What the fuck was that",
     "new": true
   },
   {
     "category": "IRySwearing",
     "file": "IRyS_whispering_shit.mp3",
     "title": "Whispering shit",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_You_evil_piece_of_shiii.mp3",
+    "title": "You evil piece of shiii",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_you_guys_can't_see_shit.mp3",
+    "title": "You guys can't see shit",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_you_lucky_bastards.mp3",
+    "title": "You lucky bastards",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
+    "file": "IRyS_you_worthless_piece_of_shiii-.mp3",
+    "title": "You worthless piece of shiii-",
     "new": true
   }
 ]

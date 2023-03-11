@@ -1,7 +1,7 @@
 [
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_a_beautiful_mademoiselle.wav",
+    "file": "IRyS_a_beautiful_mademoiselle.mp3",
     "title": "A beautiful mademoiselle",
     "new": false
   },
@@ -19,7 +19,7 @@
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_and_then_voilà.wav",
+    "file": "IRyS_and_then_voilà.mp3",
     "title": "And then voilà",
     "new": false
   },
@@ -37,7 +37,7 @@
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_arrivederci.wav",
+    "file": "IRyS_arrivederci.mp3",
     "title": "Arrivederci",
     "new": false
   },
@@ -61,7 +61,7 @@
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_bonjour_bonjour_baguette.wav",
+    "file": "IRyS_bonjour_bonjour_baguette.mp3",
     "title": "Bonjour bonjour baguette",
     "new": false
   },
@@ -79,13 +79,13 @@
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_buenos_dias.wav",
+    "file": "IRyS_buenos_dias.mp3",
     "title": "Buenos dias",
     "new": false
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_buenos_muchacha.wav",
+    "file": "IRyS_buenos_muchacha.mp3",
     "title": "Buenos muchacha",
     "new": false
   },
@@ -139,13 +139,13 @@
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_hasta_la_vistar.wav",
+    "file": "IRyS_hasta_la_vistar.mp3",
     "title": "Hasta la vistar",
     "new": false
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_he_bri'ish.wav",
+    "file": "IRyS_he_bri'ish.mp3",
     "title": "He bri'ish",
     "new": false
   },
@@ -165,6 +165,12 @@
     "category": "WorldWideRyS",
     "file": "IDRyS_Reine_please_feed_me_dirt.mp3",
     "title": "IDRyS Reine please feed me dirt",
+    "new": false
+  },
+  {
+    "category": "WorldWideRyS",
+    "file": "IRyS jritz hbd filipino moment warning.mp3",
+    "title": "IRyS jritz hbd filipino moment warning",
     "new": false
   },
   {
@@ -229,13 +235,13 @@
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_mon_amour_02.wav",
+    "file": "IRyS_mon_amour_02.mp3",
     "title": "Mon amour 02",
     "new": false
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_mon_amour_03.wav",
+    "file": "IRyS_mon_amour_03.mp3",
     "title": "Mon amour 03",
     "new": false
   },
@@ -253,7 +259,7 @@
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_omelette_du_fromage_02.wav",
+    "file": "IRyS_omelette_du_fromage_02.mp3",
     "title": "Omelette du fromage 02",
     "new": false
   },
@@ -289,7 +295,7 @@
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_saranghae.wav",
+    "file": "IRyS_saranghae.mp3",
     "title": "Saranghae",
     "new": false
   },
@@ -315,6 +321,12 @@
     "category": "WorldWideRyS",
     "file": "IRyS_wa'er.mp3",
     "title": "Wa'er",
+    "new": true
+  },
+  {
+    "category": "WorldWideRyS",
+    "file": "IRyS_you_imbécile.mp3",
+    "title": "You imbécile",
     "new": true
   }
 ]

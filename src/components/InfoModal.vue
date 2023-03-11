@@ -32,10 +32,10 @@ export default {
                     <li>Background's image is a screenshot from <a href="https://youtu.be/-g701QOZtrc">IRyS' Kimono Reveal stream</a> during the secret ending (for Desktop version).</li>
                 </ul>
                 <h2>What's more?</h2>
-                <p>As I said, I'm used to clip most of IRyS' streams, so I'll update the soundboard every week/few weeks.</p>
-                <p>If you want to report an issue or ask any questions, you can find me on <a href="https://twitter.com/Akaridesho">Twitter</a> !</p>
+                <p>As I said, I'm used to clip most of IRyS' streams, so I'll update the soundboard every few weeks.</p>
+                <p>If you want to report an issue or ask any questions, you can find me on <a href="https://twitter.com/Akaridesho">Twitter</a>!</p>
                 <h2>How many sounds are there here?</h2>
-                <p>There's currently 1700 sounds! (a lot more is coming in a few hours!)</p>
+                <p>There's currently 2645 sounds! You can find the audios that were added during each update <a href="https://github.com/CAPTAINGROSCHEH/IRyS-noises-website/tree/main/src/assets" >here</a>! </p>
             </div>
         </div>
     </div>
