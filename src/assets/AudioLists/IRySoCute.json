@@ -2,796 +2,1165 @@
   {
     "category": "IRySoCute",
     "file": "IRyS_a_present_for_me.wav",
-    "title": "A present for me"
-  },
-  {
-    "category": "IRySoCute",
-    "file": "IRyS_AHOY2.mp3",
-    "title": "AHOY2"
+    "title": "A present for me",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_ASMR_oui.mp3",
-    "title": "ASMR oui"
+    "title": "ASMR oui",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_again.wav",
-    "title": "Again"
+    "title": "Again",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_again_again_again.wav",
-    "title": "Again again again"
+    "file": "IRyS_again_again_again 01.wav",
+    "title": "Again again again 01",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_again_again_again2.wav",
-    "title": "Again again again2"
+    "file": "IRyS_again_again_again 02.wav",
+    "title": "Again again again 02",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_ahoy.mp3",
-    "title": "Ahoy"
+    "file": "IRyS_ahoy 01.mp3",
+    "title": "Ahoy 01",
+    "new": false
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_ahoy 02.mp3",
+    "title": "Ahoy 02",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_ahoy_ahoy.mp3",
-    "title": "Ahoy ahoy"
+    "title": "Ahoy ahoy",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_am_I_the_cutest_little_thing.mp3",
-    "title": "Am I the cutest little thing"
+    "title": "Am I the cutest little thing",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_am_I_your_first.mp3",
-    "title": "Am I your first"
+    "title": "Am I your first",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_AmazedByNewBody.mp3",
-    "title": "AmazedByNewBody"
+    "file": "IRyS_Amazed by BLT's new body.mp3",
+    "title": "Amazed by BLT's new body",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_and_that_treasure_is_you.wav",
-    "title": "And that treasure is you"
+    "title": "And that treasure is you",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_ara_ara.wav",
-    "title": "Ara ara"
+    "file": "IRyS_ara_ara 01.wav",
+    "title": "Ara ara 01",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_ara_ara2.wav",
-    "title": "Ara ara2"
+    "file": "IRyS_ara_ara 02.wav",
+    "title": "Ara ara 02",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_are_you_ready.wav",
-    "title": "Are you ready"
+    "title": "Are you ready",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_average_cute_nephilim_noises.mp3",
-    "title": "Average cute nephilim noises"
+    "title": "Average cute nephilim noises",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "BabyRyS1.mp3",
-    "title": "BabyRyS1"
+    "file": "BabyRyS 01.mp3",
+    "title": "BabyRyS 01",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "BabyRyS2.mp3",
-    "title": "BabyRyS2"
+    "file": "BabyRyS 02.mp3",
+    "title": "BabyRyS 02",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "BabyRyS3.mp3",
-    "title": "BabyRyS3"
+    "file": "BabyRyS 03.mp3",
+    "title": "BabyRyS 03",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "BabyRyS4.mp3",
-    "title": "BabyRyS4"
+    "file": "BabyRyS 04.mp3",
+    "title": "BabyRyS 04",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "BabyRyS5.mp3",
-    "title": "BabyRyS5"
+    "file": "BabyRyS 05.mp3",
+    "title": "BabyRyS 05",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "BabyRyS6.mp3",
-    "title": "BabyRyS6"
+    "file": "BabyRyS 06.mp3",
+    "title": "BabyRyS 06",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "BadmintonRyS_noises.wav",
-    "title": "BadmintonRyS noises"
+    "file": "BadmintonRyS_noises 01.wav",
+    "title": "BadmintonRyS noises 01",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "BadmintonRyS_noises2.wav",
-    "title": "BadmintonRyS noises2"
+    "file": "BadmintonRyS_noises 02.wav",
+    "title": "BadmintonRyS noises 02",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_being_a_cute_passenger.mp3",
-    "title": "Being a cute passenger"
+    "title": "Being a cute passenger",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_being_so_cute_when_given_a_present.mp3",
-    "title": "Being so cute when given a present"
+    "title": "Being so cute when given a present",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_birdie.wav",
-    "title": "Birdie"
+    "title": "Birdie",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "BirthdayRyS_end_message.mp3",
-    "title": "BirthdayRyS end message"
+    "title": "BirthdayRyS end message",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_byerys_full_power.mp3",
-    "title": "Byerys full power"
+    "title": "Byerys full power",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_cute_Fus_Ro_Dah.mp3",
-    "title": "Cute Fus Ro Dah"
+    "title": "Cute Fus Ro Dah",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_cute_giggle.mp3",
-    "title": "Cute giggle"
+    "title": "Cute giggle",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_cute_giggles.mp3",
-    "title": "Cute giggles"
+    "title": "Cute giggles",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_cute_laugh.wav",
-    "title": "Cute laugh"
+    "file": "IRyS_cute_laugh 01.wav",
+    "title": "Cute laugh 01",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_cute_laugh_02.wav",
-    "title": "Cute laugh 02"
+    "file": "IRyS_cute_laugh 02.wav",
+    "title": "Cute laugh 02",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_cute_laugh2.wav",
-    "title": "Cute laugh2"
+    "file": "IRyS_cute_laugh 03.wav",
+    "title": "Cute laugh 03",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_cute_peekaboo.wav",
-    "title": "Cute peekaboo"
+    "title": "Cute peekaboo",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_DADDYYYYY.wav",
-    "title": "DADDYYYYY"
+    "title": "DADDYYYYY",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_do_you_love_me.wav",
-    "title": "Do you love me"
+    "title": "Do you love me",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_dont_be_mad_be_happy.wav",
-    "title": "Dont be mad be happy"
+    "file": "IRyS_don't_be_mad_be_happy.wav",
+    "title": "Don't be mad be happy",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_dont_forget_to_smile_even_if_you're_suffering.mp3",
-    "title": "Dont forget to smile even if you're suffering"
+    "file": "IRyS_don't_forget_to_smile_even_if_you're_suffering.mp3",
+    "title": "Don't forget to smile even if you're suffering",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_dont_give_me_those_puppy_dog_eyes.wav",
-    "title": "Dont give me those puppy dog eyes"
+    "file": "IRyS_don't_give_me_those_puppy_dog_eyes.wav",
+    "title": "Don't give me those puppy dog eyes",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_dont_you_agree_darling.mp3",
-    "title": "Dont you agree darling"
+    "file": "IRyS_don't_you_agree_darling.mp3",
+    "title": "Don't you agree darling",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_enyouuugh.mp3",
-    "title": "Enyouuugh"
+    "title": "Enyouuugh",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_evilLaugh.mp3",
-    "title": "EvilLaugh"
+    "title": "EvilLaugh",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_excuse_me_excuse_me.mp3",
-    "title": "Excuse me excuse me"
+    "title": "Excuse me excuse me",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_F.mp3",
-    "title": "F"
+    "title": "F",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_first_IRyS_and_shine.wav",
-    "title": "First IRyS and shine"
+    "title": "First IRyS and shine",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_first_hi_honey.mp3",
-    "title": "First hi honey"
+    "title": "First hi honey",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_GG.mp3",
-    "title": "GG"
+    "title": "GG",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_getto_daze.mp3",
-    "title": "Getto daze"
+    "title": "Getto daze",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_giggle.wav",
-    "title": "Giggle"
+    "title": "Giggle",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_giggles_01.mp3",
-    "title": "Giggles 01"
+    "title": "Giggles 01",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_giggles_02.wav",
-    "title": "Giggles 02"
+    "title": "Giggles 02",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_giggles_03.wav",
-    "title": "Giggles 03"
+    "title": "Giggles 03",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_glad_that_we_can_spend_this_moment_together.mp3",
-    "title": "Glad that we can spend this moment together"
+    "title": "Glad that we can spend this moment together",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_good_boy.mp3",
-    "title": "Good boy"
+    "title": "Good boy",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_good_boy_good_boy.mp3",
-    "title": "Good boy good boy"
+    "title": "Good boy good boy",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_good_boy_good_boy_good_boy.mp3",
-    "title": "Good boy good boy good boy"
+    "title": "Good boy good boy good boy",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_good_boy2.mp3",
-    "title": "Good boy2"
+    "title": "Good boy2",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_good_doggy.mp3",
-    "title": "Good doggy"
+    "title": "Good doggy",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_good_morning.wav",
-    "title": "Good morning"
+    "title": "Good morning",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_goodbye_mouah_goodbye.wav",
-    "title": "Goodbye mouah goodbye"
+    "title": "Goodbye mouah goodbye",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_goodmorning.mp3",
-    "title": "Goodmorning"
+    "title": "Goodmorning",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_goodnight_sweetdreams.mp3",
-    "title": "Goodnight sweetdreams"
+    "title": "Goodnight sweetdreams",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_got_a_present_just_for_you.mp3",
-    "title": "Got a present just for you"
+    "title": "Got a present just for you",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_H-H-H-HiRyS.mp3",
-    "title": "H-H-H-HiRyS"
+    "title": "H-H-H-HiRyS",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "HER LAUGH  UHHHOOOOOOOOOOOO.mp3",
-    "title": "HER LAUGH  UHHHOOOOOOOOOOOO"
+    "title": "HER LAUGH  UHHHOOOOOOOOOOOO",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_have_a_nice_day.mp3",
-    "title": "Have a nice day"
+    "title": "Have a nice day",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_hehehe_thank_you.mp3",
-    "title": "Hehehe thank you"
+    "title": "Hehehe thank you",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_hey_doggy_doggy.mp3",
-    "title": "Hey doggy doggy"
+    "title": "Hey doggy doggy",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_hey_hey_hey.wav",
-    "title": "Hey hey hey"
+    "title": "Hey hey hey",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_hey_listen.mp3",
-    "title": "Hey listen"
+    "title": "Hey listen",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_hey_puppy_puppy.mp3",
-    "title": "Hey puppy puppy"
+    "title": "Hey puppy puppy",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_hi.wav",
-    "title": "Hi"
+    "title": "Hi",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_HiRyS_goodmorningRyS.mp3",
-    "title": "HiRyS goodmorningRyS"
+    "title": "HiRyS goodmorningRyS",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "HiRyS it's IRyS.wav",
-    "title": "HiRyS it's IRyS"
+    "title": "HiRyS it's IRyS",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_highschoolgirl_scenario.wav",
-    "title": "Highschoolgirl scenario"
+    "title": "Highschoolgirl scenario",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_hiiiiii_VICTORY.wav",
-    "title": "Hiiiiii VICTORY"
+    "title": "Hiiiiii VICTORY",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_holyMolly.mp3",
-    "title": "HolyMolly"
+    "title": "HolyMolly",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_hopium_yeaaaaah.wav",
-    "title": "Hopium yeaaaaah"
+    "title": "Hopium yeaaaaah",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_hug_me.mp3",
-    "title": "Hug me"
+    "title": "Hug me",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I_am_a_big_girl.wav",
-    "title": "I am a big girl"
+    "title": "I am a big girl",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_i_have_you_guys.mp3",
-    "title": "I have you guys"
+    "title": "I have you guys",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I_hope_we_can_stay_together_like_this.mp3",
-    "title": "I hope we can stay together like this"
+    "title": "I hope we can stay together like this",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I_hope_you_guys_have_a_great_day.wav",
-    "title": "I hope you guys have a great day"
+    "title": "I hope you guys have a great day",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_i_just_want_money.mp3",
-    "title": "I just want money"
+    "title": "I just want money",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I_love_u.mp3",
-    "title": "I love u"
+    "title": "I love u",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I_love_you.wav",
-    "title": "I love you"
+    "title": "I love you",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I_love_you_2x.wav",
-    "title": "I love you 2x"
+    "title": "I love you 2x",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I_love_you_Daniel.mp3",
-    "title": "I love you Daniel"
+    "title": "I love you Daniel",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I love you I love you love you love you love you love you.mp3",
-    "title": "I love you I love you love you love you love you love you"
+    "title": "I love you I love you love you love you love you love you",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_i_love_you_so_much.mp3",
-    "title": "I love you so much"
+    "title": "I love you so much",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I_missed_you_guys_too.wav",
-    "title": "I missed you guys too"
+    "title": "I missed you guys too",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I_wanna_be_a_mommy.wav",
-    "title": "I wanna be a mommy"
+    "title": "I wanna be a mommy",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I'll sing_you_a_love_song.mp3",
-    "title": "I'll sing you a love song"
+    "title": "I'll sing you a love song",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I'm_an_IRySandwich.wav",
-    "title": "I'm an IRySandwich"
+    "title": "I'm an IRySandwich",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I'm_cuwious.mp3",
-    "title": "I'm cuwious"
+    "title": "I'm cuwious",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I'm_free.wav",
-    "title": "I'm free"
+    "title": "I'm free",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I'm_going_to_win_tomorrow's_tournament.mp3",
-    "title": "I'm going to win tomorrow's tournament"
+    "title": "I'm going to win tomorrow's tournament",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I'm_hungwy.mp3",
-    "title": "I'm hungwy"
+    "title": "I'm hungwy",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_i'm_just_asking_for_some_love.mp3",
-    "title": "I'm just asking for some love"
+    "title": "I'm just asking for some love",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_I'm_sorry_mommy_I'm_sorry_daddy.mp3",
-    "title": "I'm sorry mommy I'm sorry daddy"
+    "title": "I'm sorry mommy I'm sorry daddy",
+    "new": false
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_IRyS_will_fudgin_light_your_way.wav",
+    "title": "IRyS will fudgin light your way",
+    "new": true
   },
   {
     "category": "IRySoCute",
     "file": "IRySukiyo.mp3",
-    "title": "IRySukiyo"
+    "title": "IRySukiyo",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_IT'S_BUSTIN_TIME.wav",
-    "title": "IT'S BUSTIN TIME"
+    "title": "IT'S BUSTIN TIME",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_if_you_could_do_that_too_I_would_be_impressed.mp3",
-    "title": "If you could do that too I would be impressed"
+    "title": "If you could do that too I would be impressed",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_Inaaaaa.mp3",
-    "title": "Inaaaaa"
+    "title": "Inaaaaa",
+    "new": false
+  },
+  {
+    "category": "IRySoCute",
+    "file": "irys_yes_mom.mp3",
+    "title": "Irys yes mom",
+    "new": true
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_is_flattered.mp3",
-    "title": "Is flattered"
+    "title": "Is flattered",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_is_it_banana_time.wav",
-    "title": "Is it banana time"
+    "title": "Is it banana time",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_is_this_how_i_usually_sound_when_i_am_streaming.mp3",
-    "title": "Is this how i usually sound when i am streaming"
+    "title": "Is this how i usually sound when i am streaming",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_it's_gambling_time.wav",
-    "title": "It's gambling time"
+    "title": "It's gambling time",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_it's_good_to_see_you_guys.mp3",
-    "title": "It's good to see you guys"
+    "title": "It's good to see you guys",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_JUST_IRYS.wav",
-    "title": "JUST IRYS"
+    "title": "JUST IRYS",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_just_woke_up.wav",
-    "title": "Just woke up"
+    "title": "Just woke up",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_kindly_softly.mp3",
-    "title": "Kindly softly"
+    "title": "Kindly softly",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_kirito-kun.mp3",
-    "title": "Kirito-kun"
+    "title": "Kirito-kun",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_kiss_chu.wav",
-    "title": "Kiss chu"
+    "title": "Kiss chu",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_KonFauna.wav",
-    "title": "KonFauna"
+    "title": "KonFauna",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_let_the_bodies_hit_the_floor.wav",
-    "title": "Let the bodies hit the floor"
+    "title": "Let the bodies hit the floor",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_let's_go_hai_hai_hai.wav",
-    "title": "Let's go hai hai hai"
+    "title": "Let's go hai hai hai",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_love_you_totally_love_you.mp3",
-    "title": "Love you totally love you"
+    "title": "Love you totally love you",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_loves_us.wav",
-    "title": "Loves us"
+    "title": "Loves us",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_MERRY_CHRISTMAS.wav",
-    "title": "MERRY CHRISTMAS"
+    "title": "MERRY CHRISTMAS",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_making_you_stay_in_the_car.mp3",
-    "title": "Making you stay in the car"
+    "title": "Making you stay in the car",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_Moe_moe_kyun_01.wav",
-    "title": "Moe moe kyun 01"
+    "title": "Moe moe kyun 01",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_Moe_moe_kyun_02.wav",
-    "title": "Moe moe kyun 02"
+    "title": "Moe moe kyun 02",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_Moe_moe_kyun_03.mp3",
-    "title": "Moe moe kyun 03"
+    "title": "Moe moe kyun 03",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_mogu_mogu_01.mp3",
-    "title": "Mogu mogu 01"
+    "title": "Mogu mogu 01",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_mogu_mogu_02.wav",
-    "title": "Mogu mogu 02"
+    "title": "Mogu mogu 02",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_MommaRyS.mp3",
-    "title": "MommaRyS"
+    "title": "MommaRyS",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_moon_prism_power_make_up.mp3",
-    "title": "Moon prism power make up"
+    "title": "Moon prism power make up",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_more_cute_giggles.mp3",
-    "title": "More cute giggles"
+    "title": "More cute giggles",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_muahahahahahaha.mp3",
-    "title": "Muahahahahahaha"
+    "title": "Muahahahahahaha",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_my_obs_is_being_dumdumb.wav",
-    "title": "My obs is being dumdumb"
+    "title": "My obs is being dumdumb",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_nephilim_power_makes_everyone_happy.wav",
-    "title": "Nephilim power makes everyone happy"
+    "title": "Nephilim power makes everyone happy",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_nice_honey.mp3",
-    "title": "Nice honey"
+    "title": "Nice honey",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_no_I'll_feed_you.mp3",
-    "title": "No I'll feed you"
+    "title": "No I'll feed you",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_no_let's_not_talk_about_it_no_no_no_no_no_no_no_no_NA.mp3",
-    "title": "No let's not talk about it no no no no no no no no NA"
+    "title": "No let's not talk about it no no no no no no no no NA",
+    "new": false
   },
   {
     "category": "IRySoCute",
-    "file": "IRyS_no_worries_i_dont_wanna_miss_a_second_with_you.mp3",
-    "title": "No worries i dont wanna miss a second with you"
+    "file": "IRyS_no_worries_i_don't_wanna_miss_a_second_with_you.mp3",
+    "title": "No worries i don't wanna miss a second with you",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_now_kiss_me.mp3",
-    "title": "Now kiss me"
+    "title": "Now kiss me",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_o_kawaii_koto.wav",
-    "title": "O kawaii koto"
+    "title": "O kawaii koto",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_oh_my.wav",
-    "title": "Oh my"
+    "title": "Oh my",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_oh_yeah_01.wav",
-    "title": "Oh yeah 01"
+    "title": "Oh yeah 01",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_oh_yeah_02.wav",
-    "title": "Oh yeah 02"
+    "title": "Oh yeah 02",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_okay.wav",
-    "title": "Okay"
+    "title": "Okay",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_one_last_kiss_kiss_kiss.mp3",
-    "title": "One last kiss kiss kiss"
+    "title": "One last kiss kiss kiss",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_panda.wav",
-    "title": "Panda"
+    "title": "Panda",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_peach_impression_01.mp3",
-    "title": "Peach impression 01"
+    "title": "Peach impression 01",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_peach_impression_02.mp3",
-    "title": "Peach impression 02"
+    "title": "Peach impression 02",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_peach_impression_03.mp3",
-    "title": "Peach impression 03"
+    "title": "Peach impression 03",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_peekaboo.mp3",
-    "title": "Peekaboo"
+    "title": "Peekaboo",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_pls_don't_kill_me.wav",
-    "title": "Pls don't kill me"
+    "title": "Pls don't kill me",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_really_cute_laugh.mp3",
-    "title": "Really cute laugh"
+    "title": "Really cute laugh",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_really_really_cute_laugh.wav",
-    "title": "Really really cute laugh"
+    "title": "Really really cute laugh",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_see_I_told_you.mp3",
-    "title": "See I told you"
+    "title": "See I told you",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_she_kissed_me_guys.wav",
-    "title": "She kissed me guys"
+    "title": "She kissed me guys",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_she_spanked_me.mp3",
-    "title": "She spanked me"
+    "title": "She spanked me",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_sodaaaa.mp3",
-    "title": "Sodaaaa"
+    "title": "Sodaaaa",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_sorry_did_i_make_you_wait_too_long.mp3",
-    "title": "Sorry did i make you wait too long"
+    "title": "Sorry did i make you wait too long",
+    "new": false
   },
   {
     "category": "IRySoCute",
     "file": "IRyS_sorry_for_joking.mp3",
-    "title": "Sorry for joking"
+    "title": "Sorry for joking",
+    "new": false
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_sup_Herb.wav",
+    "title": "Sup Herb",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_thank_you_I_love_you.wav",
+    "title": "Thank you I love you",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_thank_you_mommy.mp3",
+    "title": "Thank you mommy",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_thanking_for_coming_to_my_birthday.mp3",
+    "title": "Thanking for coming to my birthday",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_this_was_the_best_christmas_ever.mp3",
+    "title": "This was the best christmas ever",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_tired_let's_go.wav",
+    "title": "Tired let's go",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_today_I'm_gonna_be_a_good_girl.mp3",
+    "title": "Today I'm gonna be a good girl",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_too bad you don't get your noice number.mp3",
+    "title": "Too bad you don't get your noice number",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_totally_not_soda_time.wav",
+    "title": "Totally not soda time",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_trade_pokemon_for_the_win.mp3",
+    "title": "Trade pokemon for the win",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_tsundeRyS.mp3",
+    "title": "TsundeRyS",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_unlimited Melons Works.mp3",
+    "title": "Unlimited Melons Works",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_wake_up_sleeping_beauty.mp3",
+    "title": "Wake up sleeping beauty",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_wake_up_you_silly_goose.mp3",
+    "title": "Wake up you silly goose",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_wakey_wakey 01.wav",
+    "title": "Wakey wakey 01",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_wakey wakey 02.mp3",
+    "title": "Wakey wakey 02",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_wakey_wakey_big_bro.mp3",
+    "title": "Wakey wakey big bro",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_wants_you_to_apologize_over_a_hundred_times.mp3",
+    "title": "Wants you to apologize over a hundred times",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_we_are_back_baby.wav",
+    "title": "We are back baby",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_we_love_Minecraft.wav",
+    "title": "We love Minecraft",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_what_a_way_to_spend_valentines_day.mp3",
+    "title": "What a way to spend valentines day",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_when_you_are_done_eating.mp3",
+    "title": "When you are done eating",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_wholesome laugh 01.mp3",
+    "title": "Wholesome laugh 01",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_wholesome_laugh 02.wav",
+    "title": "Wholesome laugh 02",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_wholesome_laugh 03.wav",
+    "title": "Wholesome laugh 03",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_wholesome_laugh 04.wav",
+    "title": "Wholesome laugh 04",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_wholesome_laugh 05.wav",
+    "title": "Wholesome laugh 05",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_wholesome_laugh_itchy_tasty.wav",
+    "title": "Wholesome laugh itchy tasty",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_wholesome_moment.mp3",
+    "title": "Wholesome moment",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_yaaaaay_victory.wav",
+    "title": "Yaaaaay victory",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_yay_café_café.wav",
+    "title": "Yay café café",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_yeah_I_love_hanging_out_with_you_guys.wav",
+    "title": "Yeah I love hanging out with you guys",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_yes_I_know_I_know_dear.wav",
+    "title": "Yes I know I know dear",
+    "new": true
   }
 ]

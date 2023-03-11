@@ -2,246 +2,319 @@
   {
     "category": "WorldWideRyS",
     "file": "IRyS_a_beautiful_mademoiselle.wav",
-    "title": "A beautiful mademoiselle"
+    "title": "A beautiful mademoiselle",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_adios_pouf.mp3",
-    "title": "Adios pouf"
+    "title": "Adios pouf",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_adios_suckers.mp3",
-    "title": "Adios suckers"
+    "title": "Adios suckers",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_and_then_voilà.wav",
-    "title": "And then voilà"
+    "title": "And then voilà",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_and_voilà.mp3",
-    "title": "And voilà"
+    "title": "And voilà",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_and_voilà_but_not_really.mp3",
-    "title": "And voilà but not really"
+    "title": "And voilà but not really",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_arrivederci.wav",
-    "title": "Arrivederci"
+    "title": "Arrivederci",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_BONJOUR.mp3",
-    "title": "BONJOUR"
+    "title": "BONJOUR",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_bienvenue_you_are_bienvenue.mp3",
-    "title": "Bienvenue you are bienvenue"
+    "title": "Bienvenue you are bienvenue",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_bon_appetit.mp3",
-    "title": "Bon appetit"
+    "title": "Bon appetit",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_bonjour_bonjour_baguette.wav",
-    "title": "Bonjour bonjour baguette"
+    "title": "Bonjour bonjour baguette",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_bri'ish.mp3",
-    "title": "Bri'ish"
+    "file": "IRyS_bri'ish 01.mp3",
+    "title": "Bri'ish 01",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_bri'ish2.mp3",
-    "title": "Bri'ish2"
+    "file": "IRyS_bri'ish 02.mp3",
+    "title": "Bri'ish 02",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_buenos_dias.wav",
-    "title": "Buenos dias"
+    "title": "Buenos dias",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_buenos_muchacha.wav",
-    "title": "Buenos muchacha"
+    "title": "Buenos muchacha",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_ciao.mp3",
-    "title": "Ciao"
+    "title": "Ciao",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_compris_compris.mp3",
-    "title": "Compris compris"
+    "title": "Compris compris",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_dream_of_moi.mp3",
-    "title": "Dream of moi"
+    "title": "Dream of moi",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_désolée.mp3",
-    "title": "Désolée"
+    "title": "Désolée",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_enchantée.mp3",
-    "title": "Enchantée"
+    "title": "Enchantée",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_excuse_moi.mp3",
-    "title": "Excuse moi"
+    "file": "IRyS_excuse_moi 01.mp3",
+    "title": "Excuse moi 01",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_excuse_moi(2).mp3",
-    "title": "Excuse moi(2)"
+    "file": "IRyS_excuse_moi 02.mp3",
+    "title": "Excuse moi 02",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_fromage.mp3",
-    "title": "Fromage"
+    "title": "Fromage",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_hasta_la_vistar.wav",
-    "title": "Hasta la vistar"
+    "title": "Hasta la vistar",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_he_bri_ish.wav",
-    "title": "He bri ish"
+    "file": "IRyS_he_bri'ish.wav",
+    "title": "He bri'ish",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_I_love_french.mp3",
-    "title": "I love french"
+    "title": "I love french",
+    "new": false
+  },
+  {
+    "category": "WorldWideRyS",
+    "file": "IDRyS_How's_the_volume.mp3",
+    "title": "IDRyS How's the volume",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IDRyS_Reine_please_feed_me_dirt.mp3",
-    "title": "IDRyS Reine please feed me dirt"
-  },
-  {
-    "category": "WorldWideRyS",
-    "file": "IDRyS_hows_the_volume.mp3",
-    "title": "IDRyS hows the volume"
+    "title": "IDRyS Reine please feed me dirt",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_idiot_moi.mp3",
-    "title": "Idiot moi"
+    "title": "Idiot moi",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_impossible_n_est_pas_français.mp3",
-    "title": "Impossible n est pas français"
+    "title": "Impossible n est pas français",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_je_m_appelle.mp3",
-    "title": "Je m appelle"
+    "file": "IRyS_je_m'appelle.mp3",
+    "title": "Je m'appelle",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_juste_une_seconde.mp3",
-    "title": "Juste une seconde"
+    "title": "Juste une seconde",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_la_lune_plus_french_accent.mp3",
-    "title": "La lune plus french accent"
+    "title": "La lune plus french accent",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_laisse_moi_te_regarder.mp3",
-    "title": "Laisse moi te regarder"
+    "title": "Laisse moi te regarder",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_littlebonjour.mp3",
-    "title": "Littlebonjour"
+    "file": "IRyS_little bonjour.mp3",
+    "title": "Little bonjour",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
-    "file": "IRyS_moi_je_m_appelle_Harle.mp3",
-    "title": "Moi je m appelle Harle"
+    "file": "IRyS_moi_je_m'appelle_Harle.mp3",
+    "title": "Moi je m'appelle Harle",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_mon_amie.mp3",
-    "title": "Mon amie"
+    "title": "Mon amie",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_mon_amour_01.mp3",
-    "title": "Mon amour 01"
+    "title": "Mon amour 01",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_mon_amour_02.wav",
-    "title": "Mon amour 02"
+    "title": "Mon amour 02",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_mon_amour_03.wav",
-    "title": "Mon amour 03"
+    "title": "Mon amour 03",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_non_non_non.mp3",
-    "title": "Non non non"
+    "title": "Non non non",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_omelette_du_fromage_01.mp3",
-    "title": "Omelette du fromage 01"
+    "title": "Omelette du fromage 01",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_omelette_du_fromage_02.wav",
-    "title": "Omelette du fromage 02"
+    "title": "Omelette du fromage 02",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_oui_01.mp3",
-    "title": "Oui 01"
+    "title": "Oui 01",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_oui_02.mp3",
-    "title": "Oui 02"
+    "title": "Oui 02",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_oui_oui_peepee.mp3",
-    "title": "Oui oui peepee"
+    "title": "Oui oui peepee",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_oui_oui_what_is_this_bon_appetit.mp3",
-    "title": "Oui oui what is this bon appetit"
+    "title": "Oui oui what is this bon appetit",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_parfait.mp3",
-    "title": "Parfait"
+    "title": "Parfait",
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_saranghae.wav",
-    "title": "Saranghae"
+    "title": "Saranghae",
+    "new": false
+  },
+  {
+    "category": "WorldWideRyS",
+    "file": "IRyS_tes_amis.mp3",
+    "title": "Tes amis",
+    "new": true
+  },
+  {
+    "category": "WorldWideRyS",
+    "file": "IRyS_très_drôle.mp3",
+    "title": "Très drôle",
+    "new": true
+  },
+  {
+    "category": "WorldWideRyS",
+    "file": "IRyS_Voilà.mp3",
+    "title": "Voilà",
+    "new": true
+  },
+  {
+    "category": "WorldWideRyS",
+    "file": "IRyS_wa'er.mp3",
+    "title": "Wa'er",
+    "new": true
   }
 ]

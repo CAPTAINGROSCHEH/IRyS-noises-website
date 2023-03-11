@@ -129,55 +129,55 @@ function showModal(){
       <IRySRandomNoise :soundObjs="[General, IRySoFunny, IRySoCute, IRySinging, IRyScream, IRySwearing, YabaIRyS, IRySnoises, IRySneeze, YawnRyS, IRySJP, WorldWideRyS, CollabRyS]" />
       <div class="category" id="General">
         <h2> General</h2>
-        <IRySNoise v-for="item in General" :category="item.category" :file="item.file" :title="item.title" class/>
+        <IRySNoise v-for="item in General" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
       <div class="category" id="IRySoFunny">
         <h2> IRySoFunny</h2>
-        <IRySNoise v-for="item in IRySoFunny" :category="item.category" :file="item.file" :title="item.title" class/>
+        <IRySNoise v-for="item in IRySoFunny" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
       <div class="category" id="IRySoCute">
         <h2> IRySoCute</h2>
-        <IRySNoise v-for="item in IRySoCute" :category="item.category" :file="item.file" :title="item.title" class/>
+        <IRySNoise v-for="item in IRySoCute" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
       <div class="category" id="IRySinging">
         <h2> IRySinging</h2>
-        <IRySNoise v-for="item in IRySinging" :category="item.category" :file="item.file" :title="item.title" class/>
+        <IRySNoise v-for="item in IRySinging" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
       <div class="category" id="IRyScream">
         <h2> IRyScream</h2>
-        <IRySNoise v-for="item in IRyScream" :category="item.category" :file="item.file" :title="item.title" class/>
+        <IRySNoise v-for="item in IRyScream" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
       <div class="category" id="IRySwearing">
         <h2> IRySwearing</h2>
-        <IRySNoise v-for="item in IRySwearing" :category="item.category" :file="item.file" :title="item.title" class/>
+        <IRySNoise v-for="item in IRySwearing" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
       <div class="category" id="YabaIRyS">
         <h2> YabaIRyS</h2>
-        <IRySNoise v-for="item in YabaIRyS" :category="item.category" :file="item.file" :title="item.title" class/>
+        <IRySNoise v-for="item in YabaIRyS" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
       <div class="category" id="IRySnoises">
         <h2> IRySnoises</h2>
-        <IRySNoise v-for="item in IRySnoises" :category="item.category" :file="item.file" :title="item.title" class/>
+        <IRySNoise v-for="item in IRySnoises" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
       <div class="category" id="IRySneeze">
         <h2> IRySneeze</h2>
-        <IRySNoise v-for="item in IRySneeze" :category="item.category" :file="item.file" :title="item.title" class/>
+        <IRySNoise v-for="item in IRySneeze" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
       <div class="category" id="YawnRyS">
         <h2> YawnRyS</h2>
-        <IRySNoise v-for="item in YawnRyS" :category="item.category" :file="item.file" :title="item.title" class/>
+        <IRySNoise v-for="item in YawnRyS" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
       <div class="category" id="IRySJP">
         <h2> IRySJP</h2>
-        <IRySNoise v-for="item in IRySJP" :category="item.category" :file="item.file" :title="item.title" class/>
+        <IRySNoise v-for="item in IRySJP" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
       <div class="category" id="WorldWideRyS">
         <h2> WorldWideRyS</h2>
-        <IRySNoise v-for="item in WorldWideRyS" :category="item.category" :file="item.file" :title="item.title" class/>
+        <IRySNoise v-for="item in WorldWideRyS" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
       <div class="category" id="CollabRyS">
         <h2> CollabRyS</h2>
-        <IRySNoise v-for="item in CollabRyS" :category="item.category" :file="item.file" :title="item.title" class/>
+        <IRySNoise v-for="item in CollabRyS" :category="item.category" :file="item.file" :title="item.title" :new="item.new" class/>
       </div>
     </div>
   </div>
