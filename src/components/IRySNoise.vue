@@ -1,11 +1,11 @@
 <script setup>
   import { ref } from 'vue'
 
-  const {category, file, title} = defineProps({
+  const {category, file, title, nouveau} = defineProps({
     category: String,
     file: String,
     title: String,
-    new: Boolean
+    nouveau: Boolean
   })
 
   //let audio = new Audio('https://cdn.discordapp.com/attachments/865117129514680330/1071758172907380868/IRyS_dundundun.wav');
@@ -13,6 +13,7 @@
 
   const audio = `Audios/${category}/${file}`;
   const isPlayed = ref(false);
+  const isNew = nouveau;
   let timeout;
   let played;
   let duration;
@@ -41,7 +42,7 @@
 
 <template> 
   <a :href="audio" :class="{ 'played': isPlayed}" @click.stop.prevent="onClick">
-    <button :id="title" :class="{ 'new': this.new }" type="button" @click="playSound();" :style="{'animation-duration': duration + 's'}">
+    <button :id="title" :class="{ 'new': isNew }" type="button" @click="playSound();" :style="{'animation-duration': duration + 's'}">
       <div id="btn-overlay">
         {{ title }}
       </div>
@@ -49,7 +50,6 @@
   </a>
 </template>
 
-<style src="../assets/css/button.css" scoped />
 <style scoped>
   .played button {
     background-image: url('../assets/img/btn-background.png');
