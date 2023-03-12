@@ -961,6 +961,12 @@
   },
   {
     "category": "IRyScream",
+    "file": "IRyS_shut_up_Amanda.mp3",
+    "title": "Shut up Amanda",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
     "file": "IRyS_shut_up_i_am_playing_right_now.mp3",
     "title": "Shut up i am playing right now",
     "new": false
@@ -1185,6 +1191,12 @@
     "category": "IRyScream",
     "file": "IRyS_you_guys_are_liar.mp3",
     "title": "You guys are liar",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_you_stinky_breath.mp3",
+    "title": "You stinky breath",
     "new": true
   }
 ]

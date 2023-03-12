@@ -67,6 +67,12 @@
   },
   {
     "category": "IRySwearing",
+    "file": "IRyS_blow_the_fucking_door.mp3",
+    "title": "Blow the fucking door",
+    "new": true
+  },
+  {
+    "category": "IRySwearing",
     "file": "IRyS_come_back_here_you_little_shit.mp3",
     "title": "Come back here you little shit",
     "new": false

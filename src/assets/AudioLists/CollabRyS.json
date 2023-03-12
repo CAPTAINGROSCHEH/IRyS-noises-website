@@ -589,6 +589,12 @@
   },
   {
     "category": "CollabRyS",
+    "file": "KroniIRyS_It's_our_wife.mp3",
+    "title": "KroniIRyS It's our wife",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
     "file": "KroniIRyS_deja_vu.mp3",
     "title": "KroniIRyS deja vu",
     "new": true
@@ -688,6 +694,12 @@
     "file": "IRyS_reading_Sana_message.mp3",
     "title": "Reading Sana message",
     "new": false
+  },
+  {
+    "category": "CollabRyS",
+    "file": "ReiRyS_screams.mp3",
+    "title": "ReiRyS screams",
+    "new": true
   },
   {
     "category": "CollabRyS",

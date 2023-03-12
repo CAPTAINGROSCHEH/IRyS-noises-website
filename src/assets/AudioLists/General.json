@@ -199,6 +199,24 @@
   },
   {
     "category": "General",
+    "file": "IRyS_Caught_In_1080p.mp3",
+    "title": "Caught In 1080p",
+    "new": true
+  },
+  {
+    "category": "General",
+    "file": "IRyS_Caught_In_144p.mp3",
+    "title": "Caught In 144p",
+    "new": true
+  },
+  {
+    "category": "General",
+    "file": "IRyS_Caught_In_4K.mp3",
+    "title": "Caught In 4K",
+    "new": true
+  },
+  {
+    "category": "General",
     "file": "IRyS_chef_kiss.mp3",
     "title": "Chef kiss",
     "new": false
@@ -775,15 +793,21 @@
   },
   {
     "category": "General",
-    "file": "IRyS_How's_the_volume.mp3",
-    "title": "How's the volume",
+    "file": "IRyS_How's_The_Volume_01.mp3",
+    "title": "How's The Volume 01",
     "new": false
   },
   {
     "category": "General",
-    "file": "IRyS_hows_the_volume.mp3",
-    "title": "Hows the volume",
+    "file": "IRyS_How's_The_Volume_02.mp3",
+    "title": "How's The Volume 02",
     "new": false
+  },
+  {
+    "category": "General",
+    "file": "IRyS_How's_The_Volume_03.mp3",
+    "title": "How's The Volume 03",
+    "new": true
   },
   {
     "category": "General",
@@ -2121,6 +2145,12 @@
     "category": "General",
     "file": "IRyS_unlimited_malding_works.mp3",
     "title": "Unlimited malding works",
+    "new": true
+  },
+  {
+    "category": "General",
+    "file": "IRyS_VGamer.mp3",
+    "title": "VGamer",
     "new": true
   },
   {

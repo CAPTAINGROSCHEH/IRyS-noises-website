@@ -489,6 +489,11 @@ a button:focus-visible {
   
     }
 
+  .header button {
+    font-size: 4.5vw;
+  
+    }
+
   .category h2{
     font-size: 5.6vw;
   }

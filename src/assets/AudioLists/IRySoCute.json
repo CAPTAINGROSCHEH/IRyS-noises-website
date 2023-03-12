@@ -175,6 +175,12 @@
   },
   {
     "category": "IRySoCute",
+    "file": "IRyS_broadcast.mp3",
+    "title": "Broadcast",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
     "file": "IRyS_ByeRyS.mp3",
     "title": "ByeRyS",
     "new": true
@@ -310,6 +316,12 @@
     "file": "IRyS_first_hi_honey.mp3",
     "title": "First hi honey",
     "new": false
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_free_hug.mp3",
+    "title": "Free hug",
+    "new": true
   },
   {
     "category": "IRySoCute",
@@ -688,6 +700,12 @@
     "file": "IRyS_I'm_going_to_win_tomorrow's_tournament.mp3",
     "title": "I'm going to win tomorrow's tournament",
     "new": false
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_I'm_home_honey.mp3",
+    "title": "I'm home honey",
+    "new": true
   },
   {
     "category": "IRySoCute",
@@ -1191,6 +1209,12 @@
     "category": "IRySoCute",
     "file": "IRyS_sup_Herb.mp3",
     "title": "Sup Herb",
+    "new": true
+  },
+  {
+    "category": "IRySoCute",
+    "file": "IRyS_tadaima_did_you_miss_me.mp3",
+    "title": "Tadaima did you miss me",
     "new": true
   },
   {

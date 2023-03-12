@@ -289,6 +289,12 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRyS_gochisousama.mp3",
+    "title": "Gochisousama",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_Goshujinsama.mp3",
     "title": "Goshujinsama",
     "new": true
@@ -334,6 +340,12 @@
     "file": "IRyS_hidoi_yo.mp3",
     "title": "Hidoi yo",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_hisashiburi_onii-chan.mp3",
+    "title": "Hisashiburi onii-chan",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -958,6 +970,12 @@
     "file": "IRyS_shanaina_ikuzo.mp3",
     "title": "Shanaina ikuzo",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_shanaina_nii-chan.mp3",
+    "title": "Shanaina nii-chan",
+    "new": true
   },
   {
     "category": "IRySJP",

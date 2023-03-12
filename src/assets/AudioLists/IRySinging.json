@@ -355,14 +355,14 @@
   },
   {
     "category": "IRySinging",
-    "file": "IRyS_hello_darkness_my_old_friend.mp3",
-    "title": "Hello darkness my old friend",
+    "file": "IRyS_hello_darkness_my_old_friend_01.mp3",
+    "title": "Hello darkness my old friend 01",
     "new": false
   },
   {
     "category": "IRySinging",
-    "file": "IRyS_hello_darkness_my_old_friend.mp3",
-    "title": "Hello darkness my old friend",
+    "file": "IRyS_hello_darkness_my_old_friend_02.mp3",
+    "title": "Hello darkness my old friend 02",
     "new": true
   },
   {
