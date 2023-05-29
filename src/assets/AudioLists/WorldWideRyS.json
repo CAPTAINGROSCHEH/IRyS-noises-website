@@ -133,9 +133,21 @@
   },
   {
     "category": "WorldWideRyS",
+    "file": "IRyS_Feliz_aniversario.mp3",
+    "title": "Feliz aniversario",
+    "new": true
+  },
+  {
+    "category": "WorldWideRyS",
     "file": "IRyS_fromage.mp3",
     "title": "Fromage",
     "new": false
+  },
+  {
+    "category": "WorldWideRyS",
+    "file": "IRyS_gracias.mp3",
+    "title": "Gracias",
+    "new": true
   },
   {
     "category": "WorldWideRyS",
@@ -154,6 +166,12 @@
     "file": "IRyS_I_love_french.mp3",
     "title": "I love french",
     "new": false
+  },
+  {
+    "category": "WorldWideRyS",
+    "file": "IRyS_I_wish_I_could_speak_french.mp3",
+    "title": "I wish I could speak french",
+    "new": true
   },
   {
     "category": "WorldWideRyS",
@@ -217,6 +235,12 @@
   },
   {
     "category": "WorldWideRyS",
+    "file": "IRyS_Mamma_mia.mp3",
+    "title": "Mamma mia",
+    "new": true
+  },
+  {
+    "category": "WorldWideRyS",
     "file": "IRyS_moi_je_m'appelle_Harle.mp3",
     "title": "Moi je m'appelle Harle",
     "new": false
@@ -244,6 +268,24 @@
     "file": "IRyS_mon_amour_03.mp3",
     "title": "Mon amour 03",
     "new": false
+  },
+  {
+    "category": "WorldWideRyS",
+    "file": "IRyS_mucho_gracias.mp3",
+    "title": "Mucho gracias",
+    "new": true
+  },
+  {
+    "category": "WorldWideRyS",
+    "file": "IRyS_mucho_te_amo.mp3",
+    "title": "Mucho te amo",
+    "new": true
+  },
+  {
+    "category": "WorldWideRyS",
+    "file": "IRyS_no_bueno.mp3",
+    "title": "No bueno",
+    "new": true
   },
   {
     "category": "WorldWideRyS",
@@ -295,38 +337,56 @@
   },
   {
     "category": "WorldWideRyS",
+    "file": "IRyS_Quaso.mp3",
+    "title": "Quaso",
+    "new": true
+  },
+  {
+    "category": "WorldWideRyS",
     "file": "IRyS_saranghae.mp3",
     "title": "Saranghae",
     "new": false
   },
   {
     "category": "WorldWideRyS",
+    "file": "IRyS_senor.mp3",
+    "title": "Senor",
+    "new": true
+  },
+  {
+    "category": "WorldWideRyS",
+    "file": "IRyS_te_amo.mp3",
+    "title": "Te amo",
+    "new": true
+  },
+  {
+    "category": "WorldWideRyS",
     "file": "IRyS_tes_amis.mp3",
     "title": "Tes amis",
-    "new": true
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_très_drôle.mp3",
     "title": "Très drôle",
-    "new": true
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_Voilà.mp3",
     "title": "Voilà",
-    "new": true
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_wa'er.mp3",
     "title": "Wa'er",
-    "new": true
+    "new": false
   },
   {
     "category": "WorldWideRyS",
     "file": "IRyS_you_imbécile.mp3",
     "title": "You imbécile",
-    "new": true
+    "new": false
   }
 ]

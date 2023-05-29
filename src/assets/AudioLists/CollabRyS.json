@@ -1,6 +1,90 @@
 [
   {
     "category": "CollabRyS",
+    "file": "IRyS_Achan_Kronii_Ahoy.mp3",
+    "title": "Achan Kronii Ahoy",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_Achan_Kronii_HEY_HEY_HEY_HEY.mp3",
+    "title": "Achan Kronii HEY HEY HEY HEY",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_Achan_Kronii_Hirogaru_Hololive.mp3",
+    "title": "Achan Kronii Hirogaru Hololive",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_Achan_Kronii_Kuronii_suru.mp3",
+    "title": "Achan Kronii Kuronii suru",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_Achan_Kronii_UwU_moment.mp3",
+    "title": "Achan Kronii UwU moment",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_Achan_Kronii_YEAAAAAAH.mp3",
+    "title": "Achan Kronii YEAAAAAAH",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_Achan_Kronii_mental_breakdown.mp3",
+    "title": "Achan Kronii mental breakdown",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_Achan_Kronii_you_lucky_bastards.mp3",
+    "title": "Achan Kronii you lucky bastards",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "AchanRyS_Aishiteru.mp3",
+    "title": "AchanRyS Aishiteru",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "AchanRyS_Pakaran_pakaran.mp3",
+    "title": "AchanRyS Pakaran pakaran",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "AchanRyS_Teetee.mp3",
+    "title": "AchanRyS Teetee",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "AchanRyS_Washoi.mp3",
+    "title": "AchanRyS Washoi",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "AchanRyS_peko_peko.mp3",
+    "title": "AchanRyS peko peko",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "BabyRyS_fighting_against_Kronii.mp3",
+    "title": "BabyRyS fighting against Kronii",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
     "file": "BaeRyS_BEEP_Gary.mp3",
     "title": "BaeRyS BEEP Gary",
     "new": false
@@ -51,13 +135,13 @@
     "category": "CollabRyS",
     "file": "BaeRyS_Mickey_impression.mp3",
     "title": "BaeRyS Mickey impression",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "BaeRyS_Wazzup_HiRyS.mp3",
     "title": "BaeRyS Wazzup HiRyS",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
@@ -75,7 +159,7 @@
     "category": "CollabRyS",
     "file": "BaeRyS_buzz_lightyear.mp3",
     "title": "BaeRyS buzz lightyear",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
@@ -93,7 +177,7 @@
     "category": "CollabRyS",
     "file": "BaeRyS_five_nights_at_Gaston.mp3",
     "title": "BaeRyS five nights at Gaston",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
@@ -111,7 +195,7 @@
     "category": "CollabRyS",
     "file": "BaeRyS_heyyyyyy.mp3",
     "title": "BaeRyS heyyyyyy",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
@@ -219,7 +303,7 @@
     "category": "CollabRyS",
     "file": "BaeRySecret_Ending.mp3",
     "title": "BaeRySecret Ending",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
@@ -280,6 +364,12 @@
     "file": "CouncilRyS_Sanananananana.mp3",
     "title": "CouncilRyS Sanananananana",
     "new": false
+  },
+  {
+    "category": "CollabRyS",
+    "file": "CouncilRyS_Singing_HBD_to_Kronii.mp3",
+    "title": "CouncilRyS Singing HBD to Kronii",
+    "new": true
   },
   {
     "category": "CollabRyS",
@@ -369,7 +459,7 @@
     "category": "CollabRyS",
     "file": "girly_moment.mp3",
     "title": "Girly moment",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
@@ -447,55 +537,55 @@
     "category": "CollabRyS",
     "file": "IRyS_IRyK_negative_rizz.mp3",
     "title": "IRyK negative rizz",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRySora_JP_I_got_your_back.mp3",
     "title": "IRySora JP I got your back",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRySora_believe.mp3",
     "title": "IRySora believe",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRySora_nice_teamwork.mp3",
     "title": "IRySora nice teamwork",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRySora_nice_timing.mp3",
     "title": "IRySora nice timing",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRySora_onegainya.mp3",
     "title": "IRySora onegainya",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRySora_scream.mp3",
     "title": "IRySora scream",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRySora_yabe.mp3",
     "title": "IRySora yabe",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_IT'S THE PING.mp3",
     "title": "IT'S THE PING",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
@@ -507,13 +597,31 @@
     "category": "CollabRyS",
     "file": "InAmeBaeRyS_Papaya.mp3",
     "title": "InAmeBaeRyS Papaya",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_introducing_herself_uwu.mp3",
     "title": "Introducing herself uwu",
     "new": false
+  },
+  {
+    "category": "CollabRyS",
+    "file": "CollabRyS_Is_that_how_you_breed_Kronii.mp3",
+    "title": "Is that how you breed Kronii",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_it_smells_like_Kronii.mp3",
+    "title": "It smells like Kronii",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "CollabRyS_Just_breed_the_dog_Kobo_(bad_phrasing_moment).mp3",
+    "title": "Just breed the dog Kobo (bad phrasing moment)",
+    "new": true
   },
   {
     "category": "CollabRyS",
@@ -529,123 +637,159 @@
   },
   {
     "category": "CollabRyS",
+    "file": "CollabRyS_KoboMoRyS_singing_Mogu_Mogu_Yummy.mp3",
+    "title": "KoboMoRyS singing Mogu Mogu Yummy",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
     "file": "KoroneRyS_patissier.mp3",
     "title": "KoroneRyS patissier",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "KoyoWataKoroIRyS_GG_old_man.mp3",
     "title": "KoyoWataKoroIRyS GG old man",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "KoyoWataKoroIRyS_Oyasumiiii.mp3",
     "title": "KoyoWataKoroIRyS Oyasumiiii",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "KoyoWataKoroIRyS_aim_dokowav.mp3",
     "title": "KoyoWataKoroIRyS aim dokowav",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "KoyoWataKoroIRyS_giri_giri_warukunai_Watame.mp3",
     "title": "KoyoWataKoroIRyS giri giri warukunai Watame",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "KoyoWataKoroIRyS_just_practice.mp3",
     "title": "KoyoWataKoroIRyS just practice",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "KoyoWataKoroIRyS_kani.mp3",
     "title": "KoyoWataKoroIRyS kani",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "KoyoWataKoroIRyS_mou_ikkai.mp3",
     "title": "KoyoWataKoroIRyS mou ikkai",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "KoyoWataKoroIRyS_uh_huh.mp3",
     "title": "KoyoWataKoroIRyS uh huh",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "KroReiRyS_kroyasumi.mp3",
     "title": "KroReiRyS kroyasumi",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "KroniIRyS_It's_our_wife.mp3",
     "title": "KroniIRyS It's our wife",
+    "new": false
+  },
+  {
+    "category": "CollabRyS",
+    "file": "KroniIRyS_byerysidk.mp3",
+    "title": "KroniIRyS byerysidk",
     "new": true
   },
   {
     "category": "CollabRyS",
     "file": "KroniIRyS_deja_vu.mp3",
     "title": "KroniIRyS deja vu",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "KroniIRyS_oh_yeah.mp3",
     "title": "KroniIRyS oh yeah",
+    "new": false
+  },
+  {
+    "category": "CollabRyS",
+    "file": "KroniIRyS_pity.mp3",
+    "title": "KroniIRyS pity",
     "new": true
   },
   {
     "category": "CollabRyS",
     "file": "KroniIRyS_precious.mp3",
     "title": "KroniIRyS precious",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "KroniIRyS_sasageyo_okane_version.mp3",
     "title": "KroniIRyS sasageyo okane version",
+    "new": false
+  },
+  {
+    "category": "CollabRyS",
+    "file": "KroniIRyS_smashing.mp3",
+    "title": "KroniIRyS smashing",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
+    "file": "KroniIRyS_yay_pasta.mp3",
+    "title": "KroniIRyS yay pasta",
     "new": true
   },
   {
     "category": "CollabRyS",
     "file": "KroniIRyS_you_want_a_piece_of_this_ball.mp3",
     "title": "KroniIRyS you want a piece of this ball",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "KroniIRySinging_Baka_Mitai.mp3",
     "title": "KroniIRySinging Baka Mitai",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_laugh.mp3",
     "title": "Laugh",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_laughing_at_Koyo's_noises.mp3",
     "title": "Laughing at Koyo's noises",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_laughing_for_1 minute and 16 seconds.mp3",
     "title": "Laughing for 1 minute and 16 seconds",
     "new": false
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_licking_the_floor_is_fun.mp3",
+    "title": "Licking the floor is fun",
+    "new": true
   },
   {
     "category": "CollabRyS",
@@ -669,18 +813,30 @@
     "category": "CollabRyS",
     "file": "IRyS_Lui calls out YabaIRyS.mp3",
     "title": "Lui calls out YabaIRyS",
+    "new": false
+  },
+  {
+    "category": "CollabRyS",
+    "file": "IRyS_MM2_Team_B_Slogan.mp3",
+    "title": "MM2 Team B Slogan",
     "new": true
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_MoRySinging_Sono_Chino_Sadame.mp3",
     "title": "MoRySinging Sono Chino Sadame",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_mommy.mp3",
     "title": "Mommy",
+    "new": false
+  },
+  {
+    "category": "CollabRyS",
+    "file": "PolkaRyS_wakannai.mp3",
+    "title": "PolkaRyS wakannai",
     "new": true
   },
   {
@@ -699,25 +855,25 @@
     "category": "CollabRyS",
     "file": "ReiRyS_screams.mp3",
     "title": "ReiRyS screams",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_SameRyS_E10.mp3",
     "title": "SameRyS E10",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "SanaRyS_ByeRySanara.mp3",
     "title": "SanaRyS ByeRySanara",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_SanaRyS_moment.mp3",
     "title": "SanaRyS moment",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
@@ -727,230 +883,236 @@
   },
   {
     "category": "CollabRyS",
+    "file": "IRyS_stand_back_everyone_she_ticking.mp3",
+    "title": "Stand back everyone she ticking",
+    "new": true
+  },
+  {
+    "category": "CollabRyS",
     "file": "IRyS_step_you_on_you.mp3",
     "title": "Step you on you",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "TamaRyS_Otsutama.mp3",
     "title": "TamaRyS Otsutama",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_the_Kronii_is_real.mp3",
     "title": "The Kronii is real",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_the_cake_is_a_lie.mp3",
     "title": "The cake is a lie",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_threatens_kronii's_subway.mp3",
     "title": "Threatens kronii's subway",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_unlock_me_please_uwu.mp3",
     "title": "Unlock me please uwu",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_unlock_the_lock_to_my_heart.mp3",
     "title": "Unlock the lock to my heart",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_wake up Rey.mp3",
     "title": "Wake up Rey",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_GOOD_MORNIIING.mp3",
     "title": "WataRyS GOOD MORNIIING",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_GOOD_MORNING_short_ver.mp3",
     "title": "WataRyS GOOD MORNING short ver",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_WHY.mp3",
     "title": "WataRyS WHY",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_YabaIRyS.mp3",
     "title": "WataRyS YabaIRyS",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_booyah.mp3",
     "title": "WataRyS booyah",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_celebrating_their_W_01.mp3",
     "title": "WataRyS celebrating their W 01",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_celebrating_their_W_02.mp3",
     "title": "WataRyS celebrating their W 02",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_crying about it_01.mp3",
     "title": "WataRyS crying about it 01",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_crying about it_02.mp3",
     "title": "WataRyS crying about it 02",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_cute_learning_english.mp3",
     "title": "WataRyS cute learning english",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_harobooo.mp3",
     "title": "WataRyS harobooo",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_hows_the_audio.mp3",
     "title": "WataRyS hows the audio",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_kani_01.mp3",
     "title": "WataRyS kani 01",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_kani_02.mp3",
     "title": "WataRyS kani 02",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_kuso_yaro.mp3",
     "title": "WataRyS kuso yaro",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_malding_noises.mp3",
     "title": "WataRyS malding noises",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_minna_doko.mp3",
     "title": "WataRyS minna doko",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_on_fire.mp3",
     "title": "WataRyS on fire",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_onegai_yamete.mp3",
     "title": "WataRyS onegai yamete",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_peroperopero.mp3",
     "title": "WataRyS peroperopero",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_warukunai_yo_ne.mp3",
     "title": "WataRyS warukunai yo ne",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_we_can_do_it.mp3",
     "title": "WataRyS we can do it",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "WataRyS_winning_and_taunting.mp3",
     "title": "WataRyS winning and taunting",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_we_got_too_much_testosterone_we_can't_jiggle.mp3",
     "title": "We got too much testosterone we can't jiggle",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_what_are_you_doing_Kronii.mp3",
     "title": "What are you doing Kronii",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_whose_nutz.mp3",
     "title": "Whose nutz",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_why_are_you_so_big_Bae.mp3",
     "title": "Why are you so big Bae",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_wow_Kronii_looking_sexy.mp3",
     "title": "Wow Kronii looking sexy",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_yeah_at_least_we_can_see_her_butt.mp3",
     "title": "Yeah at least we can see her butt",
-    "new": true
+    "new": false
   },
   {
     "category": "CollabRyS",
     "file": "IRyS_you_who_haunt_this_place_in_the_name_of_the_lord.mp3",
     "title": "You who haunt this place in the name of the lord",
-    "new": true
+    "new": false
   }
 ]

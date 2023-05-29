@@ -3,7 +3,7 @@
     "category": "IRySnoises",
     "file": "IRyS_a.mp3",
     "title": "A",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -37,6 +37,18 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRySNoises_aaaah.mp3",
+    "title": "Aaaah",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_aaaah_ninini.mp3",
+    "title": "Aaaah ninini",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_aaaah~.mp3",
     "title": "Aaaah~",
     "new": false
@@ -45,6 +57,12 @@
     "category": "IRySnoises",
     "file": "IRyS_aaah.mp3",
     "title": "Aaah",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_achachacha.mp3",
+    "title": "Achachacha",
     "new": true
   },
   {
@@ -73,6 +91,12 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_Aha.mp3",
+    "title": "Aha",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_angry_nephilim_be_like.mp3",
     "title": "Angry nephilim be like",
     "new": false
@@ -81,7 +105,7 @@
     "category": "IRySnoises",
     "file": "IRyS_angry_rawr.mp3",
     "title": "Angry rawr",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -99,7 +123,7 @@
     "category": "IRySnoises",
     "file": "IRyS_api.mp3",
     "title": "Api",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -139,27 +163,39 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_Awooh.mp3",
+    "title": "Awooh",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_awoooo.mp3",
     "title": "Awoooo",
     "new": false
   },
   {
     "category": "IRySnoises",
-    "file": "IRyS_aya.mp3",
-    "title": "Aya",
+    "file": "IRyS_aya_01.mp3",
+    "title": "Aya 01",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_aya_02.mp3",
+    "title": "Aya 02",
+    "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_ayo.mp3",
     "title": "Ayo",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_ayo_what.mp3",
     "title": "Ayo what",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -169,15 +205,15 @@
   },
   {
     "category": "IRySnoises",
-    "file": "IRyS_BOOM_BOOM.mp3",
-    "title": "BOOM BOOM",
+    "file": "IRyS_bababooey.mp3",
+    "title": "Bababooey",
     "new": false
   },
   {
     "category": "IRySnoises",
-    "file": "IRyS_bababooey.mp3",
-    "title": "Bababooey",
-    "new": false
+    "file": "IRyS_bababubu.mp3",
+    "title": "Bababubu",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -199,15 +235,33 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_baby_mode.mp3",
+    "title": "Baby mode",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_baby_rage_noises.mp3",
     "title": "Baby rage noises",
     "new": false
   },
   {
     "category": "IRySnoises",
+    "file": "IRySNoises_babyRyS.mp3",
+    "title": "BabyRyS",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_bada_bing_bada_boom.mp3",
     "title": "Bada bing bada boom",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_Bang_bang.mp3",
+    "title": "Bang bang",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -232,6 +286,12 @@
     "file": "IRyS_bleh.mp3",
     "title": "Bleh",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Bleh.mp3",
+    "title": "Bleh",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -283,6 +343,18 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_Boom_boom_01.mp3",
+    "title": "Boom boom 01",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_Boom_boom_02.mp3",
+    "title": "Boom boom 02",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_bop_bop_bop.mp3",
     "title": "Bop bop bop",
     "new": false
@@ -327,7 +399,7 @@
     "category": "IRySnoises",
     "file": "IRyS_bubububuuuu.mp3",
     "title": "Bubububuuuu",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -349,6 +421,12 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_burning.mp3",
+    "title": "Burning",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_burp_wtf.mp3",
     "title": "Burp wtf",
     "new": false
@@ -363,19 +441,31 @@
     "category": "IRySnoises",
     "file": "IRyS_car_crash_noises.mp3",
     "title": "Car crash noises",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_car_window_down_noises.mp3",
     "title": "Car window down noises",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_chansey_jp_noises.mp3",
     "title": "Chansey jp noises",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_chat_chat_talk_talk.mp3",
+    "title": "Chat chat talk talk",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_cha~.mp3",
+    "title": "Cha~",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -391,9 +481,21 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_Chomp_chomp.mp3",
+    "title": "Chomp chomp",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_choo_choo.mp3",
     "title": "Choo choo",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_chop_chop.mp3",
+    "title": "Chop chop",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -411,13 +513,19 @@
     "category": "IRySnoises",
     "file": "IRyS_clicking_her_tongue_02.mp3",
     "title": "Clicking her tongue 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_computing_moment.mp3",
     "title": "Computing moment",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_confused.mp3",
+    "title": "Confused",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -430,6 +538,12 @@
     "file": "IRyS_cow_interaction.mp3",
     "title": "Cow interaction",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_creeper_exploding.mp3",
+    "title": "Creeper exploding",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -460,6 +574,12 @@
     "file": "IRyS_cute_sigh.mp3",
     "title": "Cute sigh",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_cute_spooked_noises.mp3",
+    "title": "Cute spooked noises",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -549,7 +669,7 @@
     "category": "IRySnoises",
     "file": "IRyS_despair_noises_02.mp3",
     "title": "Despair noises 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -574,6 +694,12 @@
     "file": "DogRyS.mp3",
     "title": "DogRyS",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_DogRyS.mp3",
+    "title": "DogRyS",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -639,7 +765,7 @@
     "category": "IRySnoises",
     "file": "IRyS_dundundun.mp3",
     "title": "Dundundun",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -658,6 +784,18 @@
     "file": "IRyS_dying_noises.mp3",
     "title": "Dying noises",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_dying_while_AFK.mp3",
+    "title": "Dying while AFK",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_eeeeeh.mp3",
+    "title": "Eeeeeh",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -700,6 +838,12 @@
     "file": "IRyS_eh_heh.mp3",
     "title": "Eh heh",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_elytra_noises.mp3",
+    "title": "Elytra noises",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -757,9 +901,27 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_Fauna's_uuuuuuu_01.mp3",
+    "title": "Fauna's uuuuuuu 01",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_Fauna's_uuuuuuu_02.mp3",
+    "title": "Fauna's uuuuuuu 02",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_foo_foo.mp3",
     "title": "Foo foo",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_fooo.mp3",
+    "title": "Fooo",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -787,9 +949,15 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_fumu_fumu.mp3",
+    "title": "Fumu fumu",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_Fuuuuu.mp3",
     "title": "Fuuuuu",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -820,6 +988,12 @@
     "file": "IRyS_gnagnagna.mp3",
     "title": "Gnagnagna",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_googoogaagaa.mp3",
+    "title": "Googoogaagaa",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -883,6 +1057,12 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRySNoises_Haiyah.mp3",
+    "title": "Haiyah",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_hesitation_noises.mp3",
     "title": "Hesitation noises",
     "new": false
@@ -919,9 +1099,33 @@
   },
   {
     "category": "IRySnoises",
-    "file": "IRyS_hoi.mp3",
-    "title": "Hoi",
+    "file": "IRyS_hoi_01.mp3",
+    "title": "Hoi 01",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_hoi_02.mp3",
+    "title": "Hoi 02",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_hoi_03.mp3",
+    "title": "Hoi 03",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_hoi_04.mp3",
+    "title": "Hoi 04",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_hoi_combo.mp3",
+    "title": "Hoi combo",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -949,21 +1153,15 @@
   },
   {
     "category": "IRySnoises",
-    "file": "IRyS_hoi2.mp3",
-    "title": "Hoi2",
-    "new": false
-  },
-  {
-    "category": "IRySnoises",
-    "file": "IRyS_hoi3.mp3",
-    "title": "Hoi3",
-    "new": false
-  },
-  {
-    "category": "IRySnoises",
     "file": "IRyS_hoiii_hoiiii.mp3",
     "title": "Hoiii hoiiii",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_hoofufufu.mp3",
+    "title": "Hoofufufu",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -999,13 +1197,19 @@
     "category": "IRySnoises",
     "file": "Hope_breath_06.mp3",
     "title": "Hope breath 06",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "hope_dying_noises.mp3",
     "title": "Hope dying noises",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_hope_noises.mp3",
+    "title": "Hope noises",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -1131,6 +1335,12 @@
     "category": "IRySnoises",
     "file": "IRyS_Hope_noises_21.mp3",
     "title": "Hope noises 21",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_hope_noises_22.mp3",
+    "title": "Hope noises 22",
     "new": true
   },
   {
@@ -1138,6 +1348,12 @@
     "file": "IRyS_hopeless_noises.mp3",
     "title": "Hopeless noises",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_hourra_hourra.mp3",
+    "title": "Hourra hourra",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -1161,13 +1377,19 @@
     "category": "IRySnoises",
     "file": "IRyS_Humu_humu_humu_humu.mp3",
     "title": "Humu humu humu humu",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_humuhumu_nukunuku_apua_a.mp3",
     "title": "Humuhumu nukunuku apua a",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_humuhumu_nukunuku_apua_a_02.mp3",
+    "title": "Humuhumu nukunuku apua a 02",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -1195,9 +1417,27 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_I'm_burning.mp3",
+    "title": "I'm burning",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_I'm_like_uuuuh.mp3",
+    "title": "I'm like uuuuh",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_i'm_mickey.mp3",
     "title": "I'm mickey",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_IRyS_uuuuuu.mp3",
+    "title": "IRyS uuuuuu",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -1215,7 +1455,7 @@
     "category": "IRySnoises",
     "file": "IRyS_Jump_King_moment.mp3",
     "title": "Jump King moment",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -1245,7 +1485,7 @@
     "category": "IRySnoises",
     "file": "IRyS_kachin.mp3",
     "title": "Kachin",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -1257,13 +1497,13 @@
     "category": "IRySnoises",
     "file": "IRyS_Kappu_Combo.mp3",
     "title": "Kappu Combo",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_kappu_kappu.mp3",
     "title": "Kappu kappu",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -1276,6 +1516,12 @@
     "file": "IRyS_kero_kero.mp3",
     "title": "Kero kero",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_kero_kero.mp3",
+    "title": "Kero kero",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -1297,9 +1543,21 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_kon_kon_02.mp3",
+    "title": "Kon kon 02",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Korone_noises.mp3",
+    "title": "Korone noises",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_Kricketune_impression.mp3",
     "title": "Kricketune impression",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -1317,7 +1575,7 @@
     "category": "IRySnoises",
     "file": "IRyS_Kyaa.mp3",
     "title": "Kyaa",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -1389,6 +1647,12 @@
     "category": "IRySnoises",
     "file": "IRyS_MJ_hee_hee_04.mp3",
     "title": "MJ hee hee 04",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_MJ_hee_hee_05.mp3",
+    "title": "MJ hee hee 05",
     "new": true
   },
   {
@@ -1396,6 +1660,12 @@
     "file": "IRyS_magic_gun_pew_pew.mp3",
     "title": "Magic gun pew pew",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Mald_noises.mp3",
+    "title": "Mald noises",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -1413,7 +1683,7 @@
     "category": "IRySnoises",
     "file": "IRyS_maldrys_noises.mp3",
     "title": "Maldrys noises",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -1423,9 +1693,75 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRySNoises_Mario_Maker_noises.mp3",
+    "title": "Mario Maker noises",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Mario_dying_noise_01.mp3",
+    "title": "Mario dying noise 01",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Mario_dying_noise_02.mp3",
+    "title": "Mario dying noise 02",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Mario_dying_noise_03.mp3",
+    "title": "Mario dying noise 03",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Mario_dying_noise_04.mp3",
+    "title": "Mario dying noise 04",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Mario_dying_noise_05.mp3",
+    "title": "Mario dying noise 05",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Mario_dying_noise_06.mp3",
+    "title": "Mario dying noise 06",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Mario_dying_noise_07.mp3",
+    "title": "Mario dying noise 07",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Mario_dying_noise_08.mp3",
+    "title": "Mario dying noise 08",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Mario_try_hard_noises.mp3",
+    "title": "Mario try hard noises",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_mc_cave_noises.mp3",
     "title": "Mc cave noises",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_Meeeh.mp3",
+    "title": "Meeeh",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -1437,7 +1773,7 @@
     "category": "IRySnoises",
     "file": "IRyS_meh.mp3",
     "title": "Meh",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -1455,12 +1791,18 @@
     "category": "IRySnoises",
     "file": "IRyS_MicrowaveRyS.mp3",
     "title": "MicrowaveRyS",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_Minecraft_VillageRyS.mp3",
     "title": "Minecraft VillageRyS",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_mmmh.mp3",
+    "title": "Mmmh",
     "new": true
   },
   {
@@ -1485,6 +1827,12 @@
     "category": "IRySnoises",
     "file": "IRyS_mogu_mogu_mogu_mogu.mp3",
     "title": "Mogu mogu mogu mogu",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Mogu_moguuuuu.mp3",
+    "title": "Mogu moguuuuu",
     "new": true
   },
   {
@@ -1495,21 +1843,33 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_MonkeRyS.mp3",
+    "title": "MonkeRyS",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_Monokuma_impression.mp3",
     "title": "Monokuma impression",
     "new": false
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_moo_moo.mp3",
+    "title": "Moo moo",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_mooo.mp3",
     "title": "Mooo",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_mumumumu.mp3",
     "title": "Mumumumu",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -1546,6 +1906,24 @@
     "file": "IRyS_NYAA.mp3",
     "title": "NYAA",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_NekoRyS.mp3",
+    "title": "NekoRyS",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_NekoRyS_02.mp3",
+    "title": "NekoRyS 02",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_NekoRyS_dies.mp3",
+    "title": "NekoRyS dies",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -1606,6 +1984,12 @@
     "file": "IRyS_not_yabai_hope_noises.mp3",
     "title": "Not yabai hope noises",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_nuhaha.mp3",
+    "title": "Nuhaha",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -1687,6 +2071,12 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_oi_02.mp3",
+    "title": "Oi 02",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_oi_reverb.mp3",
     "title": "Oi reverb",
     "new": false
@@ -1701,6 +2091,12 @@
     "category": "IRySnoises",
     "file": "IRyS_Oink.mp3",
     "title": "Oink",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_Oink_02.mp3",
+    "title": "Oink 02",
     "new": true
   },
   {
@@ -1789,6 +2185,12 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRySNoises_owwww.mp3",
+    "title": "Owwww",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_panic_noises.mp3",
     "title": "Panic noises",
     "new": false
@@ -1801,9 +2203,21 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_pekora.mp3",
+    "title": "Pekora",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_pichu_noises.mp3",
     "title": "Pichu noises",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_piiii.mp3",
+    "title": "Piiii",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -1827,13 +2241,13 @@
     "category": "IRySnoises",
     "file": "IRyS_Pinpon.mp3",
     "title": "Pinpon",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_Pinpon_combo.mp3",
     "title": "Pinpon combo",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -1845,13 +2259,19 @@
     "category": "IRySnoises",
     "file": "IRyS_poi.mp3",
     "title": "Poi",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_police_car_noises.mp3",
+    "title": "Police car noises",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_PonRyS_noises.mp3",
     "title": "PonRyS noises",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -1869,7 +2289,7 @@
     "category": "IRySnoises",
     "file": "IRyS_popopopopooo.mp3",
     "title": "Popopopopooo",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -1881,7 +2301,7 @@
     "category": "IRySnoises",
     "file": "IRyS_Pun_pun.mp3",
     "title": "Pun pun",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -1903,6 +2323,12 @@
   },
   {
     "category": "IRySnoises",
+    "file": "IRyS_pyon_pyon.mp3",
+    "title": "Pyon pyon",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
     "file": "IRyS_pyon_pyon_pyon.mp3",
     "title": "Pyon pyon pyon",
     "new": false
@@ -1911,13 +2337,37 @@
     "category": "IRySnoises",
     "file": "IRyS_Quack.mp3",
     "title": "Quack",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_RAWR.mp3",
     "title": "RAWR",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_RAWR.mp3",
+    "title": "RAWR",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_RAWR_02.mp3",
+    "title": "RAWR 02",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_RAWR_02.mp3",
+    "title": "RAWR 02",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_RAWR_03.mp3",
+    "title": "RAWR 03",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -2019,13 +2469,13 @@
     "category": "IRySnoises",
     "file": "IRyS_RFA_noises_16.mp3",
     "title": "RFA noises 16",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_RFA_noises_17.mp3",
     "title": "RFA noises 17",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -2073,19 +2523,19 @@
     "category": "IRySnoises",
     "file": "IRyS_sheep_01.mp3",
     "title": "Sheep 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_sheep_02.mp3",
     "title": "Sheep 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_sheep_but_evil.mp3",
     "title": "Sheep but evil",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -2097,7 +2547,7 @@
     "category": "IRySnoises",
     "file": "IRyS_sheesh_02.mp3",
     "title": "Sheesh 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -2116,6 +2566,12 @@
     "file": "IRyS_shuba.mp3",
     "title": "Shuba",
     "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_shuba_02.mp3",
+    "title": "Shuba 02",
+    "new": true
   },
   {
     "category": "IRySnoises",
@@ -2139,7 +2595,7 @@
     "category": "IRySnoises",
     "file": "IRyS_sleeping.mp3",
     "title": "Sleeping",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -2157,37 +2613,43 @@
     "category": "IRySnoises",
     "file": "SpaceRyS_alarm.mp3",
     "title": "SpaceRyS alarm",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "SpaceRyS_almost_died.mp3",
     "title": "SpaceRyS almost died",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "SpaceRyS_brrrr.mp3",
     "title": "SpaceRyS brrrr",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "SpaceRyS_cat_impression.mp3",
     "title": "SpaceRyS cat impression",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "SpaceRyS_pikachu.mp3",
     "title": "SpaceRyS pikachu",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_spooked.mp3",
+    "title": "Spooked",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_squeeze.mp3",
     "title": "Squeeze",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
@@ -2199,498 +2661,630 @@
     "category": "IRySnoises",
     "file": "IRyS_stretching_01.mp3",
     "title": "Stretching 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_stretching_02.mp3",
     "title": "Stretching 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_stretching_03.mp3",
     "title": "Stretching 03",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_stretching_04.mp3",
     "title": "Stretching 04",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_stretching_05.mp3",
     "title": "Stretching 05",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_stretching_06.mp3",
     "title": "Stretching 06",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_stretching_moment.mp3",
     "title": "Stretching moment",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_sudden_wheeze.mp3",
     "title": "Sudden wheeze",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_summon_spell 01.mp3",
     "title": "Summon spell 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_summon_spell 02.mp3",
     "title": "Summon spell 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_summon_spell 03.mp3",
     "title": "Summon spell 03",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_summon_spell 04.mp3",
     "title": "Summon spell 04",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_summon_spell 05.mp3",
     "title": "Summon spell 05",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_summon_spell 06.mp3",
     "title": "Summon spell 06",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_summon_spell 07.mp3",
     "title": "Summon spell 07",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_summon_spell 08.mp3",
     "title": "Summon spell 08",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_summon_spell 09.mp3",
     "title": "Summon spell 09",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_Sunflora_impression.mp3",
     "title": "Sunflora impression",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_tadaaaa.mp3",
     "title": "Tadaaaa",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "TerminatoRyS.mp3",
     "title": "TerminatoRyS",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_thigh_drum.mp3",
     "title": "Thigh drum",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_thinking.mp3",
     "title": "Thinking",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_tititititiiii.mp3",
     "title": "Tititititiiii",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Toad_noise_01.mp3",
+    "title": "Toad noise 01",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_toadRyS.mp3",
     "title": "ToadRyS",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_togepi.mp3",
+    "title": "Togepi",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_trying_her_best_to_open_a_bottle.mp3",
     "title": "Trying her best to open a bottle",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_trying_to_speak_to_the_Allays.mp3",
     "title": "Trying to speak to the Allays",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Tsk.mp3",
+    "title": "Tsk",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_tsundere_noises_01.mp3",
     "title": "Tsundere noises 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_tsundere_noises_02.mp3",
     "title": "Tsundere noises 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_turururururu.mp3",
     "title": "Turururururu",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_UH_HU.mp3",
+    "title": "UH HU",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_uiiii.mp3",
     "title": "Uiiii",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_unga_bunga.mp3",
     "title": "Unga bunga",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_uoh.mp3",
     "title": "Uoh",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_uoooh_seeee-.mp3",
     "title": "Uoooh seeee-",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_uuAAAAH.mp3",
+    "title": "UuAAAAH",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_uuuah_AAARGH.mp3",
+    "title": "Uuuah AAARGH",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_uuueeeehh.mp3",
     "title": "Uuueeeehh",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_uuuh.mp3",
     "title": "Uuuh",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_uuuu.mp3",
     "title": "Uuuu",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_uuuuuuh.mp3",
+    "title": "Uuuuuuh",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_uwa.mp3",
     "title": "Uwa",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
-    "file": "IRyS_uwu.mp3",
-    "title": "Uwu",
+    "file": "IRyS_uwu_01.mp3",
+    "title": "Uwu 01",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_uwu_02.mp3",
+    "title": "Uwu 02",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_VSinger_noises 01.mp3",
     "title": "VSinger noises 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_VSinger_noises 02.mp3",
     "title": "VSinger noises 02",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_villageRyS_01.mp3",
+    "title": "VillageRyS 01",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_villageRyS_02.mp3",
+    "title": "VillageRyS 02",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_waaaaai.mp3",
     "title": "Waaaaai",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_waaahhhhhh.mp3",
+    "title": "Waaahhhhhh",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_wah 01.mp3",
     "title": "Wah 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_wah 02.mp3",
     "title": "Wah 02",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Wahoo.mp3",
+    "title": "Wahoo",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_waiiiiiiii.mp3",
     "title": "Waiiiiiiii",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_water.mp3",
     "title": "Water",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_way.mp3",
     "title": "Way",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_weeeeeeeee.mp3",
+    "title": "Weeeeeeeee",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_weeeweeeeweewewewe.mp3",
     "title": "Weeeweeeeweewewewe",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_weird_death_noises.mp3",
     "title": "Weird death noises",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Wheeeee.mp3",
+    "title": "Wheeeee",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_wheezing.mp3",
     "title": "Wheezing",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_where_my_homies.mp3",
     "title": "Where my homies",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_who's_hissing.mp3",
     "title": "Who's hissing",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_windy_banana_noises.mp3",
     "title": "Windy banana noises",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_winning_noises.mp3",
     "title": "Winning noises",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_wo_ho_ho_ho_ho_ho_ho_hoa.mp3",
     "title": "Wo ho ho ho ho ho ho hoa",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_WolfRyS.mp3",
     "title": "WolfRyS",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_Wooh.mp3",
+    "title": "Wooh",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_Woooh_ding_dong.mp3",
     "title": "Woooh ding dong",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_woooh_hahaha_this_is_so_fun.mp3",
     "title": "Woooh hahaha this is so fun",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_wooooh.mp3",
     "title": "Wooooh",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_wooooh_ice.mp3",
+    "title": "Wooooh ice",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_woooooh.mp3",
     "title": "Woooooh",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_wooooooh.mp3",
     "title": "Wooooooh",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_woosh.mp3",
     "title": "Woosh",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_wouuuh.mp3",
     "title": "Wouuuh",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_Wuwuwuw.mp3",
     "title": "Wuwuwuw",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_YAAAAAAAY.mp3",
     "title": "YAAAAAAAY",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_yaaaa_fart.mp3",
     "title": "Yaaaa fart",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_yaaaaaah.mp3",
     "title": "Yaaaaaah",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_yaaah.mp3",
     "title": "Yaaah",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_yay 01.mp3",
     "title": "Yay 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_yay 02.mp3",
     "title": "Yay 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_yay 03.mp3",
     "title": "Yay 03",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_ya~ 01.mp3",
     "title": "Ya~ 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_ya~ 02.mp3",
     "title": "Ya~ 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_yeah.mp3",
     "title": "Yeah",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_yeah_yeah_yeah.mp3",
     "title": "Yeah yeah yeah",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Yee_haw.mp3",
+    "title": "Yee haw",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRyS_Yeehaw.mp3",
+    "title": "Yeehaw",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_yeet_01.mp3",
     "title": "Yeet 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_yeet_02.mp3",
     "title": "Yeet 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_yo_dayo.mp3",
     "title": "Yo dayo",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_yoink.mp3",
     "title": "Yoink",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_yosh combo.mp3",
     "title": "Yosh combo",
+    "new": false
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Yoshi's_noise.mp3",
+    "title": "Yoshi's noise",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Yoshi's_noise_02.mp3",
+    "title": "Yoshi's noise 02",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Yoshi's_noise_03.mp3",
+    "title": "Yoshi's noise 03",
+    "new": true
+  },
+  {
+    "category": "IRySnoises",
+    "file": "IRySNoises_Yoshi's_noise_04.mp3",
+    "title": "Yoshi's noise 04",
     "new": true
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_youpi.mp3",
     "title": "Youpi",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_Zero_death's 01.mp3",
     "title": "Zero death's 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_Zero_death's 02.mp3",
     "title": "Zero death's 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySnoises",
     "file": "IRyS_ZombieRyS.mp3",
     "title": "ZombieRyS",
-    "new": true
+    "new": false
   }
 ]

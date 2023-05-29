@@ -3,7 +3,7 @@
     "category": "IRyScream",
     "file": "IRyS_1 minute and 16 seconds of IRyS struggling.mp3",
     "title": "1 minute and 16 seconds of IRyS struggling",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -43,6 +43,24 @@
   },
   {
     "category": "IRyScream",
+    "file": "IRyS_aaarrrggh.mp3",
+    "title": "Aaarrrggh",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_aaarrrggh_02.mp3",
+    "title": "Aaarrrggh 02",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_aaarrrggh_03.mp3",
+    "title": "Aaarrrggh 03",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
     "file": "IRyS_aaarrrrggg_bat_bat_bat.mp3",
     "title": "Aaarrrrggg bat bat bat",
     "new": false
@@ -64,6 +82,12 @@
     "file": "IRyS_cute_screams.mp3",
     "title": "Cute screams",
     "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_death_noise.mp3",
+    "title": "Death noise",
+    "new": true
   },
   {
     "category": "IRyScream",
@@ -91,6 +115,12 @@
   },
   {
     "category": "IRyScream",
+    "file": "desktop.ini",
+    "title": "Desktop",
+    "new": false
+  },
+  {
+    "category": "IRyScream",
     "file": "despair_noises_01.mp3",
     "title": "Despair noises 01",
     "new": false
@@ -99,13 +129,19 @@
     "category": "IRyScream",
     "file": "IRyS_Destro-BAAAHBABABAB.mp3",
     "title": "Destro-BAAAHBABABAB",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "DieRyS_noises.mp3",
     "title": "DieRyS noises",
     "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_dies_at_creeper's_explosion.mp3",
+    "title": "Dies at creeper's explosion",
+    "new": true
   },
   {
     "category": "IRyScream",
@@ -159,7 +195,7 @@
     "category": "IRyScream",
     "file": "IRyS_FUDGE.mp3",
     "title": "FUDGE",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -171,7 +207,7 @@
     "category": "IRyScream",
     "file": "IRyS_FUFUFUFUFUFU.mp3",
     "title": "FUFUFUFUFUFU",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -199,6 +235,12 @@
   },
   {
     "category": "IRyScream",
+    "file": "IRyS_first_day_at_driving.mp3",
+    "title": "First day at driving",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
     "file": "IRyS_fuuuuuuuuuu_bonk.mp3",
     "title": "Fuuuuuuuuuu bonk",
     "new": false
@@ -211,9 +253,15 @@
   },
   {
     "category": "IRyScream",
+    "file": "IRyS_getting_Calli's_figure.mp3",
+    "title": "Getting Calli's figure",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
     "file": "IRyS_getting_attacked_by_tiny_alien_babies.mp3",
     "title": "Getting attacked by tiny alien babies",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -226,6 +274,12 @@
     "file": "IRyS_getting_her_W_on_MegamanX.mp3",
     "title": "Getting her W on MegamanX",
     "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_getting_hit_by_a_phantom.mp3",
+    "title": "Getting hit by a phantom",
+    "new": true
   },
   {
     "category": "IRyScream",
@@ -303,7 +357,7 @@
     "category": "IRyScream",
     "file": "IRyS_Happy_Valentine's_Day.mp3",
     "title": "Happy Valentine's Day",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -322,6 +376,12 @@
     "file": "IRyS_hates_spam_calls.mp3",
     "title": "Hates spam calls",
     "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_How_do_I_go_back_up_again.mp3",
+    "title": "How do I go back up again",
+    "new": true
   },
   {
     "category": "IRyScream",
@@ -345,13 +405,13 @@
     "category": "IRyScream",
     "file": "IRyS_I'm_being_violated.mp3",
     "title": "I'm being violated",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_I'm_fudging_poisoned_you_fudger.mp3",
     "title": "I'm fudging poisoned you fudger",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -495,7 +555,7 @@
     "category": "IRyScream",
     "file": "IRyScream_21.mp3",
     "title": "IRyScream 21",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -508,6 +568,24 @@
     "file": "IRyScream_AAAAAAA.mp3",
     "title": "IRyScream AAAAAAA",
     "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyScream_Among_us_death_noise.mp3",
+    "title": "IRyScream Among us death noise",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyScream_Come_back_here_Yoshi.mp3",
+    "title": "IRyScream Come back here Yoshi",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyScream_EDF_death.mp3",
+    "title": "IRyScream EDF death",
+    "new": true
   },
   {
     "category": "IRyScream",
@@ -541,14 +619,44 @@
   },
   {
     "category": "IRyScream",
+    "file": "IRyScream_Mouuuu.mp3",
+    "title": "IRyScream Mouuuu",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyScream_Skip_ad.mp3",
+    "title": "IRyScream Skip ad",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
     "file": "IRyScream_YAAAAAAAAA.mp3",
     "title": "IRyScream YAAAAAAAAA",
     "new": false
   },
   {
     "category": "IRyScream",
+    "file": "IRyScream_Yoshi.mp3",
+    "title": "IRyScream Yoshi",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
     "file": "IRyScream_Zeta.mp3",
     "title": "IRyScream Zeta",
+    "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyScream_aarrgh_who's_your_daddy.mp3",
+    "title": "IRyScream aarrgh who's your daddy",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyScream_aarrrgh.mp3",
+    "title": "IRyScream aarrrgh",
     "new": true
   },
   {
@@ -613,15 +721,45 @@
   },
   {
     "category": "IRyScream",
+    "file": "IRyScream_getting_attacked.mp3",
+    "title": "IRyScream getting attacked",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyScream_gyaaah.mp3",
+    "title": "IRyScream gyaaah",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
     "file": "IRyScream_high_pitch.mp3",
     "title": "IRyScream high pitch",
     "new": false
   },
   {
     "category": "IRyScream",
+    "file": "IRyScream_keep_your_gamer_germs_away_from_me.mp3",
+    "title": "IRyScream keep your gamer germs away from me",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
     "file": "IRyScream_of_the_death.mp3",
     "title": "IRyScream of the death",
     "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyScream_papapapapa.mp3",
+    "title": "IRyScream papapapapa",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyScream_please_don't_eat_me.mp3",
+    "title": "IRyScream please don't eat me",
+    "new": true
   },
   {
     "category": "IRyScream",
@@ -634,6 +772,18 @@
     "file": "IRyScream_thank_you_letter.mp3",
     "title": "IRyScream thank you letter",
     "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyScream_uwaaaah.mp3",
+    "title": "IRyScream uwaaaah",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyScream_woaaaah_aaah_aaah.mp3",
+    "title": "IRyScream woaaaah aaah aaah",
+    "new": true
   },
   {
     "category": "IRyScream",
@@ -651,13 +801,19 @@
     "category": "IRyScream",
     "file": "IRyScreaming_like_a_monke.mp3",
     "title": "IRyScreaming like a monke",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_interrupts_someone_while_they_are_eating.mp3",
     "title": "Interrupts someone while they are eating",
     "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_is_this_a_Pillage.mp3",
+    "title": "Is this a Pillage",
+    "new": true
   },
   {
     "category": "IRyScream",
@@ -735,7 +891,7 @@
     "category": "IRyScream",
     "file": "IRyS_LET_ME_HEAL_YOU_F-.mp3",
     "title": "LET ME HEAL YOU F-",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -751,21 +907,27 @@
   },
   {
     "category": "IRyScream",
+    "file": "IRyS_laggy.mp3",
+    "title": "Laggy",
+    "new": true
+  },
+  {
+    "category": "IRyScream",
     "file": "IRyS_Let_me_get_out_of_here.mp3",
     "title": "Let me get out of here",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_let_me_heal.mp3",
     "title": "Let me heal",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_lots_of_emotions_here.mp3",
     "title": "Lots of emotions here",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -778,6 +940,12 @@
     "file": "IRyS_loudest_scream_she_did.mp3",
     "title": "Loudest scream she did",
     "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_MC_Guardian's_jumpscare.mp3",
+    "title": "MC Guardian's jumpscare",
+    "new": true
   },
   {
     "category": "IRyScream",
@@ -801,7 +969,7 @@
     "category": "IRyScream",
     "file": "IRyS_Marco_Pollo.mp3",
     "title": "Marco Pollo",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -819,7 +987,7 @@
     "category": "IRyScream",
     "file": "IRyS_new_episode_of_IRyS_fighting_babies.mp3",
     "title": "New episode of IRyS fighting babies",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -849,7 +1017,7 @@
     "category": "IRyScream",
     "file": "IRyS_Oh_my_GAAAAA-.mp3",
     "title": "Oh my GAAAAA-",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -867,7 +1035,7 @@
     "category": "IRyScream",
     "file": "IRyS_Ouah.mp3",
     "title": "Ouah",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -891,13 +1059,13 @@
     "category": "IRyScream",
     "file": "IRyS_RUN.mp3",
     "title": "RUN",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_Scared by a phone ringing.mp3",
     "title": "Scared by a phone ringing",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -945,13 +1113,13 @@
     "category": "IRyScream",
     "file": "IRyS_she has lost everything.mp3",
     "title": "She has lost everything",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_she_hates_bug.mp3",
     "title": "She hates bug",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -963,7 +1131,7 @@
     "category": "IRyScream",
     "file": "IRyS_shut_up_Amanda.mp3",
     "title": "Shut up Amanda",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
@@ -981,222 +1149,246 @@
     "category": "IRyScream",
     "file": "IRyS_so_shut_up.mp3",
     "title": "So shut up",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_stand_crashing.mp3",
     "title": "Stand crashing",
+    "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_stop_being_on_top_of_me.mp3",
+    "title": "Stop being on top of me",
     "new": true
   },
   {
     "category": "IRyScream",
     "file": "IRyS_stop_it_my_little_angels.mp3",
     "title": "Stop it my little angels",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_stop_spamming_you_idiot.mp3",
     "title": "Stop spamming you idiot",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_Stop_with_the_butt_shot.mp3",
     "title": "Stop with the butt shot",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_Stream_harder.mp3",
     "title": "Stream harder",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_struggling.mp3",
     "title": "Struggling",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_struggling_01.mp3",
     "title": "Struggling 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_struggling_02.mp3",
     "title": "Struggling 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_struggling_03.mp3",
     "title": "Struggling 03",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_struggling_far_away.mp3",
     "title": "Struggling far away",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_summoning_but_she_is_panicking.mp3",
     "title": "Summoning but she is panicking",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_sussy_scream.mp3",
     "title": "Sussy scream",
+    "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_TOFU.mp3",
+    "title": "TOFU",
     "new": true
   },
   {
     "category": "IRyScream",
     "file": "IRyS_talking_while_trying_to_survive.mp3",
     "title": "Talking while trying to survive",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_the_capital_D.mp3",
     "title": "The capital D",
+    "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_there's_like-.mp3",
+    "title": "There's like-",
     "new": true
   },
   {
     "category": "IRyScream",
     "file": "IRyS_They're_shooting_poop_at_us.mp3",
     "title": "They're shooting poop at us",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_uhaaa.mp3",
     "title": "Uhaaa",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_Ummm_this_is_frustrating.mp3",
     "title": "Ummm this is frustrating",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_uuuuh_nya_nya.mp3",
     "title": "Uuuuh nya nya",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_WEAK.mp3",
     "title": "WEAK",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_waaaaah.mp3",
     "title": "Waaaaah",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_waaah.mp3",
     "title": "Waaah",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_Waah.mp3",
     "title": "Waah",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_Wataaa.mp3",
     "title": "Wataaa",
+    "new": false
+  },
+  {
+    "category": "IRyScream",
+    "file": "IRyS_what_a_naiv-.mp3",
+    "title": "What a naiv-",
     "new": true
   },
   {
     "category": "IRyScream",
     "file": "IRyS_what_am_I_fighting_for.mp3",
     "title": "What am I fighting for",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_What_the_hell_am_I_supposed_to_do.mp3",
     "title": "What the hell am I supposed to do",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_what_the_hell_do_you_mean_why.mp3",
     "title": "What the hell do you mean why",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_who are you.mp3",
     "title": "Who are you",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_why_can't_I_get_in_the_car.mp3",
     "title": "Why can't I get in the car",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_witch.mp3",
     "title": "Witch",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_wooooow_Santa.mp3",
     "title": "Wooooow Santa",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_YEAAAH.mp3",
     "title": "YEAAAH",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_YES_LET'S_GOOOOO.mp3",
     "title": "YES LET'S GOOOOO",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_YOU_FUDGER.mp3",
     "title": "YOU FUDGER",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_Yeah_maximum_pleasure.mp3",
     "title": "Yeah maximum pleasure",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_you_guys_are_liar.mp3",
     "title": "You guys are liar",
-    "new": true
+    "new": false
   },
   {
     "category": "IRyScream",
     "file": "IRyS_you_stinky_breath.mp3",
     "title": "You stinky breath",
-    "new": true
+    "new": false
   }
 ]

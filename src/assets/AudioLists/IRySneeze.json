@@ -1,6 +1,12 @@
 [
   {
     "category": "IRySneeze",
+    "file": "desktop.ini",
+    "title": "Desktop",
+    "new": false
+  },
+  {
+    "category": "IRySneeze",
     "file": "IRySneeze_01.mp3",
     "title": "IRySneeze 01",
     "new": false
@@ -279,24 +285,102 @@
     "category": "IRySneeze",
     "file": "IRySneeze_47.mp3",
     "title": "IRySneeze 47",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySneeze",
     "file": "IRySneeze_48.mp3",
     "title": "IRySneeze 48",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySneeze",
     "file": "IRySneeze_49.mp3",
     "title": "IRySneeze 49",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySneeze",
     "file": "IRySneeze_50.mp3",
     "title": "IRySneeze 50",
+    "new": false
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_51.mp3",
+    "title": "IRySneeze 51",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_52.mp3",
+    "title": "IRySneeze 52",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_53.mp3",
+    "title": "IRySneeze 53",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_54.mp3",
+    "title": "IRySneeze 54",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_55.mp3",
+    "title": "IRySneeze 55",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_56.mp3",
+    "title": "IRySneeze 56",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_57.mp3",
+    "title": "IRySneeze 57",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_58.mp3",
+    "title": "IRySneeze 58",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_59.mp3",
+    "title": "IRySneeze 59",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_60.mp3",
+    "title": "IRySneeze 60",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_61.mp3",
+    "title": "IRySneeze 61",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_62.mp3",
+    "title": "IRySneeze 62",
+    "new": true
+  },
+  {
+    "category": "IRySneeze",
+    "file": "IRySneeze_63.mp3",
+    "title": "IRySneeze 63",
     "new": true
   }
 ]

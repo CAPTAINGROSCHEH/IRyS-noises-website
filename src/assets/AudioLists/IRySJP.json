@@ -15,19 +15,31 @@
     "category": "IRySJP",
     "file": "IRyS_aaah_kimo.mp3",
     "title": "Aaah kimo",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_abunai_abunai.mp3",
+    "title": "Abunai abunai",
     "new": true
   },
   {
     "category": "IRySJP",
     "file": "IRyS_Achacha_matte.mp3",
     "title": "Achacha matte",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_ah_kawaii_ne.mp3",
     "title": "Ah kawaii ne",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_ah_sou_da.mp3",
+    "title": "Ah sou da",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -40,6 +52,12 @@
     "file": "IRyS_aniki.mp3",
     "title": "Aniki",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_ano_ne.mp3",
+    "title": "Ano ne",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -61,15 +79,39 @@
   },
   {
     "category": "IRySJP",
-    "file": "IRyS_BAKA_BAKA.mp3",
-    "title": "BAKA BAKA",
+    "file": "BabyRyS_Ningyo-san_kawaii_na.mp3",
+    "title": "BabyRyS Ningyo-san kawaii na",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_Baka_baka_01.mp3",
+    "title": "Baka baka 01",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_Baka_baka_02.mp3",
+    "title": "Baka baka 02",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_baka_yaro.mp3",
+    "title": "Baka yaro",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_banana_desu.mp3",
+    "title": "Banana desu",
+    "new": true
   },
   {
     "category": "IRySJP",
     "file": "IRyS_banana_suki_yo_01.mp3",
     "title": "Banana suki yo 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -82,6 +124,12 @@
     "file": "IRyS_banana_suki_yo_03.mp3",
     "title": "Banana suki yo 03",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_Boing_getto_daze.mp3",
+    "title": "Boing getto daze",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -99,6 +147,12 @@
     "category": "IRySJP",
     "file": "IRyS_chotto_chotto.mp3",
     "title": "Chotto chotto",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_chotto_matte.mp3",
+    "title": "Chotto matte",
     "new": true
   },
   {
@@ -127,9 +181,27 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRyS_dai_kirai_dayo.mp3",
+    "title": "Dai kirai dayo",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_daijobu.mp3",
     "title": "Daijobu",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_Daijobu_02.mp3",
+    "title": "Daijobu 02",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_Daijobu_it's_all_daijobu_guys.mp3",
+    "title": "Daijobu it's all daijobu guys",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -151,6 +223,24 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRySJP_docchi_docchi.mp3",
+    "title": "Docchi docchi",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_docchi_docchi_docchi.mp3",
+    "title": "Docchi docchi docchi",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_docchi_docchi_docchi_docchi.mp3",
+    "title": "Docchi docchi docchi docchi",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_docchirademo.mp3",
     "title": "Docchirademo",
     "new": false
@@ -160,6 +250,18 @@
     "file": "IRyS_doero_sugi.mp3",
     "title": "Doero sugi",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_doko_doko.mp3",
+    "title": "Doko doko",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_Doko_kana.mp3",
+    "title": "Doko kana",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -196,6 +298,12 @@
     "file": "IRyS_eeeeh_chotto_chotto_chotto.mp3",
     "title": "Eeeeh chotto chotto chotto",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_eeeh_mou.mp3",
+    "title": "Eeeh mou",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -255,13 +363,19 @@
     "category": "IRySJP",
     "file": "IRyS_gachi_04.mp3",
     "title": "Gachi 04",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_gambatte.mp3",
     "title": "Gambatte",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_Ganbare.mp3",
+    "title": "Ganbare",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -279,24 +393,48 @@
     "category": "IRySJP",
     "file": "IRyS_Genki.mp3",
     "title": "Genki",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_getting_jouzu'd.mp3",
+    "title": "Getting jouzu'd",
     "new": true
   },
   {
     "category": "IRySJP",
     "file": "IRyS_go_senpai_go.mp3",
     "title": "Go senpai go",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_gochisousama.mp3",
     "title": "Gochisousama",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_gomen_ne_buta-san.mp3",
+    "title": "Gomen ne buta-san",
     "new": true
   },
   {
     "category": "IRySJP",
     "file": "IRyS_Goshujinsama.mp3",
     "title": "Goshujinsama",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_gozaru_01.mp3",
+    "title": "Gozaru 01",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_gozaru_02.mp3",
+    "title": "Gozaru 02",
     "new": true
   },
   {
@@ -345,7 +483,7 @@
     "category": "IRySJP",
     "file": "IRyS_hisashiburi_onii-chan.mp3",
     "title": "Hisashiburi onii-chan",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -367,6 +505,12 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRyS_I_got_stronger_tee_hee.mp3",
+    "title": "I got stronger tee hee",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_I_really_love_soda_JP.mp3",
     "title": "I really love soda JP",
     "new": false
@@ -375,31 +519,61 @@
     "category": "IRySJP",
     "file": "IRyS_I'll_arrest_you.mp3",
     "title": "I'll arrest you",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_I'll_arrest_you_02.mp3",
+    "title": "I'll arrest you 02",
     "new": true
   },
   {
     "category": "IRySJP",
     "file": "IRyS_I'll_feed_you.mp3",
     "title": "I'll feed you",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_I'll_shoot_you_dead.mp3",
     "title": "I'll shoot you dead",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_I'm_doko_doki-ing.mp3",
+    "title": "I'm doko doki-ing",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_I'm_gonna_die_yabe_shinu.mp3",
+    "title": "I'm gonna die yabe shinu",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRYS SHANAINAAA.mp3",
+    "title": "IRYS SHANAINAAA",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_IRyS_doko_jingle.mp3",
+    "title": "IRyS doko jingle",
     "new": true
   },
   {
     "category": "IRySJP",
     "file": "IRyS_IRyS_warui_yo.mp3",
     "title": "IRyS warui yo",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyShanaina.mp3",
     "title": "IRyShanaina",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -429,6 +603,18 @@
     "category": "IRySJP",
     "file": "IRyS_ikuzo.mp3",
     "title": "Ikuzo",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_Ikuzo_02.mp3",
+    "title": "Ikuzo 02",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_ikuzo_ai.mp3",
+    "title": "Ikuzo ai",
     "new": true
   },
   {
@@ -439,9 +625,21 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRyS_Ikuzo_reverb_02.mp3",
+    "title": "Ikuzo reverb 02",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_imi_wakanaizo.mp3",
     "title": "Imi wakanaizo",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_Impersonating_Marine.mp3",
+    "title": "Impersonating Marine",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -459,13 +657,13 @@
     "category": "IRySJP",
     "file": "IRyS_Itai.mp3",
     "title": "Itai",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_itte_itte_itte_itte.mp3",
     "title": "Itte itte itte itte",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -478,6 +676,18 @@
     "file": "IRyS_KAMEEEEE.mp3",
     "title": "KAMEEEEE",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_KOKO_DA_01.mp3",
+    "title": "KOKO DA 01",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_KOKO_DA_02.mp3",
+    "title": "KOKO DA 02",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -501,13 +711,19 @@
     "category": "IRySJP",
     "file": "IRyS_kocchi.mp3",
     "title": "Kocchi",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_konnichiwa.mp3",
     "title": "Konnichiwa",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_konnichiwaaaaaa.mp3",
+    "title": "Konnichiwaaaaaa",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -523,6 +739,24 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRySJP_Kuru_ga_ii.mp3",
+    "title": "Kuru ga ii",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_kuso_01.mp3",
+    "title": "Kuso 01",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_kuso_02.mp3",
+    "title": "Kuso 02",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_let's_go_kani.mp3",
     "title": "Let's go kani",
     "new": false
@@ -535,9 +769,33 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRyS_MC_witch_laugh_janai_yo.mp3",
+    "title": "MC witch laugh janai yo",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_MC_witch_sound_janai_yo.mp3",
+    "title": "MC witch sound janai yo",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_Ma_ikka.mp3",
+    "title": "Ma ikka",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_mada_ikeru_I_can_still_do_this.mp3",
     "title": "Mada ikeru I can still do this",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_Maiika.mp3",
+    "title": "Maiika",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -561,6 +819,18 @@
     "category": "IRySJP",
     "file": "IRyS_mitsuketa.mp3",
     "title": "Mitsuketa",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_motto_motto_motto.mp3",
+    "title": "Motto motto motto",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_mou_ikkai_ikuzo.mp3",
+    "title": "Mou ikkai ikuzo",
     "new": true
   },
   {
@@ -571,8 +841,20 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRyS_moya_dayo.mp3",
+    "title": "Moya dayo",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_muda_muda_muda.mp3",
     "title": "Muda muda muda",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_Muri_yo.mp3",
+    "title": "Muri yo",
     "new": true
   },
   {
@@ -603,7 +885,7 @@
     "category": "IRySJP",
     "file": "IRyS_Nandedarone.mp3",
     "title": "Nandedarone",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -625,9 +907,21 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRyS_nani_sore.mp3",
+    "title": "Nani sore",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_naruhodo_neee.mp3",
     "title": "Naruhodo neee",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_naruhodon't.mp3",
+    "title": "Naruhodon't",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -673,6 +967,12 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRySJP_Ohayo.mp3",
+    "title": "Ohayo",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_oink_janai_yo.mp3",
     "title": "Oink janai yo",
     "new": false
@@ -691,6 +991,12 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRyS_Okaeri_omedetto.mp3",
+    "title": "Okaeri omedetto",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_okaeri_tadaima.mp3",
     "title": "Okaeri tadaima",
     "new": false
@@ -705,7 +1011,7 @@
     "category": "IRySJP",
     "file": "IRyS_okaerinasai_gohan_ni_suru.mp3",
     "title": "Okaerinasai gohan ni suru",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -717,13 +1023,13 @@
     "category": "IRySJP",
     "file": "IRyS_Okaerinasaimase_goshujisama.mp3",
     "title": "Okaerinasaimase goshujisama",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_okashi.mp3",
     "title": "Okashi",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -748,6 +1054,12 @@
     "file": "IRyS_oneechan_daisuki.mp3",
     "title": "Oneechan daisuki",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_onegai.mp3",
+    "title": "Onegai",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -793,9 +1105,15 @@
   },
   {
     "category": "IRySJP",
-    "file": "IRyS_oniichan_daisuki.mp3",
-    "title": "Oniichan daisuki",
+    "file": "IRyS_oniichan_daisuki_01.mp3",
+    "title": "Oniichan daisuki 01",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_oniichan_daisuki_02.mp3",
+    "title": "Oniichan daisuki 02",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -813,7 +1131,7 @@
     "category": "IRySJP",
     "file": "IRyS_ooo_kimochi.mp3",
     "title": "Ooo kimochi",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -829,6 +1147,12 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRyS_oujo_desu_yo.mp3",
+    "title": "Oujo desu yo",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_PIEN_JA_NEEE.mp3",
     "title": "PIEN JA NEEE",
     "new": false
@@ -841,9 +1165,15 @@
   },
   {
     "category": "IRySJP",
+    "file": "PhoneRyS_kimochi.mp3",
+    "title": "PhoneRyS kimochi",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_quiet_shanaina.mp3",
     "title": "Quiet shanaina",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -853,9 +1183,15 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRyS_SHAAAA_NAIIII_NAAAAHAHA.mp3",
+    "title": "SHAAAA NAIIII NAAAAHAHA",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_SHANAI..na_shanaina.mp3",
     "title": "SHANAI..na shanaina",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -877,6 +1213,12 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRySJP_SHANAINAAA.mp3",
+    "title": "SHANAINAAA",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_SHANAINAAA TAKE TWO.mp3",
     "title": "SHANAINAAA TAKE TWO",
     "new": false
@@ -885,7 +1227,7 @@
     "category": "IRySJP",
     "file": "IRyS_SHANAINAAA_birthday_stream.mp3",
     "title": "SHANAINAAA birthday stream",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -921,13 +1263,13 @@
     "category": "IRySJP",
     "file": "IRyS_saiko_datte.mp3",
     "title": "Saiko datte",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_SakuraRyS.mp3",
     "title": "SakuraRyS",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -949,14 +1291,32 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRyS_shaaaanaaaaiinaaaaa.mp3",
+    "title": "Shaaaanaaaaiinaaaaa",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_shanai-ah.mp3",
     "title": "Shanai-ah",
     "new": false
   },
   {
     "category": "IRySJP",
+    "file": "IRyS_Shanai..NAAAA.mp3",
+    "title": "Shanai..NAAAA",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_shanaina.mp3",
     "title": "Shanaina",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_shanaina_02.mp3",
+    "title": "Shanaina 02",
     "new": true
   },
   {
@@ -975,6 +1335,30 @@
     "category": "IRySJP",
     "file": "IRyS_shanaina_nii-chan.mp3",
     "title": "Shanaina nii-chan",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_Shanaina_poker_face.mp3",
+    "title": "Shanaina poker face",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_shanaina_shanai_desu_ne.mp3",
+    "title": "Shanaina shanai desu ne",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_shanaina_white_day.mp3",
+    "title": "Shanaina white day",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_shanainaaaaaa.mp3",
+    "title": "Shanainaaaaaa",
     "new": true
   },
   {
@@ -991,15 +1375,21 @@
   },
   {
     "category": "IRySJP",
+    "file": "IRyS_shitsurei_shimasu.mp3",
+    "title": "Shitsurei shimasu",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
     "file": "IRyS_shoryuken.mp3",
     "title": "Shoryuken",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_shouganaina.mp3",
     "title": "Shouganaina",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -1012,6 +1402,12 @@
     "file": "IRyS_sonna_bakana.mp3",
     "title": "Sonna bakana",
     "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_Sonna_bakana.mp3",
+    "title": "Sonna bakana",
+    "new": true
   },
   {
     "category": "IRySJP",
@@ -1029,43 +1425,55 @@
     "category": "IRySJP",
     "file": "IRyS_sonna_banana_03.mp3",
     "title": "Sonna banana 03",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_sonna_banana_04.mp3",
+    "title": "Sonna banana 04",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_Sou_dayo.mp3",
+    "title": "Sou dayo",
     "new": true
   },
   {
     "category": "IRySJP",
     "file": "SpaceRyS_gachi.mp3",
     "title": "SpaceRyS gachi",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "SpaceRyS_gyaru_01.mp3",
     "title": "SpaceRyS gyaru 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "SpaceRyS_gyaru_02.mp3",
     "title": "SpaceRyS gyaru 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "SpaceRyS_gyaru_03.mp3",
     "title": "SpaceRyS gyaru 03",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "SpaceRyS_yubi_yubi.mp3",
     "title": "SpaceRyS yubi yubi",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_sugoi.mp3",
     "title": "Sugoi",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
@@ -1077,17 +1485,35 @@
     "category": "IRySJP",
     "file": "IRyS_super_waku_waku.mp3",
     "title": "Super waku waku",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_sweet_revenge.mp3",
     "title": "Sweet revenge",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_tadaima.mp3",
+    "title": "Tadaima",
+    "new": true
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_tadaima_modorimashita.mp3",
+    "title": "Tadaima modorimashita",
     "new": true
   },
   {
     "category": "IRySJP",
     "file": "IRyS_tadaima_tadaima.mp3",
+    "title": "Tadaima tadaima",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_tadaima_tadaima.mp3",
     "title": "Tadaima tadaima",
     "new": true
   },
@@ -1095,227 +1521,263 @@
     "category": "IRySJP",
     "file": "IRyS_tadaima_tadaima_I_missed_you_guys.mp3",
     "title": "Tadaima tadaima I missed you guys",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_tadaimaaaa.mp3",
     "title": "Tadaimaaaa",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_takeshi_omae.mp3",
     "title": "Takeshi omae",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_tank_tanoshii.mp3",
     "title": "Tank tanoshii",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_tanomo_TANOMOOOO.mp3",
     "title": "Tanomo TANOMOOOO",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_tanoshii.mp3",
     "title": "Tanoshii",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "TensaiRyS.mp3",
     "title": "TensaiRyS",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_thank_you_niichan.mp3",
     "title": "Thank you niichan",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_the_enemy_is_more_skilled_than_IRyS_- shut_up.mp3",
+    "title": "The enemy is more skilled than IRyS - shut up",
     "new": true
   },
   {
     "category": "IRySJP",
     "file": "IRyS_tired_getto_daze.mp3",
     "title": "Tired getto daze",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_tokubetsu_dazo.mp3",
     "title": "Tokubetsu dazo",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_tomarinasai.mp3",
+    "title": "Tomarinasai",
     "new": true
   },
   {
     "category": "IRySJP",
     "file": "IRyS_tsuyoi.mp3",
     "title": "Tsuyoi",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_uaaah_yamete_gyaaaah.mp3",
     "title": "Uaaah yamete gyaaaah",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_uma.mp3",
     "title": "Uma",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_umaii_neeee.mp3",
     "title": "Umaii neeee",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_Uoooh_kawaii.mp3",
     "title": "Uoooh kawaii",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_ureshii_so_datta.mp3",
     "title": "Ureshii so datta",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_urusaina.mp3",
     "title": "Urusaina",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_usagi_chan_pyon_pyon.mp3",
     "title": "Usagi chan pyon pyon",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
-    "file": "IRyS_wakannai_yo.mp3",
-    "title": "Wakannai yo",
+    "file": "IRyS_wakannai_yo_01.mp3",
+    "title": "Wakannai yo 01",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRyS_wakannai_yo_02.mp3",
+    "title": "Wakannai yo 02",
     "new": true
   },
   {
     "category": "IRySJP",
     "file": "IRyS_wakatta.mp3",
     "title": "Wakatta",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_wakey_wakey_.mp3",
     "title": "Wakey wakey ",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_waku_waku 01.mp3",
     "title": "Waku waku 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_waku_waku 02.mp3",
     "title": "Waku waku 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_waku_waku_TY_for_the_red_SC.mp3",
     "title": "Waku waku TY for the red SC",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_warukunai_yo_ne 01.mp3",
     "title": "Warukunai yo ne 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_warukunai_yo_ne 02.mp3",
     "title": "Warukunai yo ne 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_warukunai_yo_ne 03.mp3",
     "title": "Warukunai yo ne 03",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_washa_washa_washa.mp3",
     "title": "Washa washa washa",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_wasshoi.mp3",
     "title": "Wasshoi",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_watashi_kininarimasu.mp3",
     "title": "Watashi kininarimasu",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_Werucomu_to_ze_Nephamily.mp3",
+    "title": "Werucomu to ze Nephamily",
     "new": true
   },
   {
     "category": "IRySJP",
     "file": "IRyS_whispering_nandeee.mp3",
     "title": "Whispering nandeee",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_wifi_gamba.mp3",
     "title": "Wifi gamba",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_Windows-kun_ganbare.mp3",
+    "title": "Windows-kun ganbare",
     "new": true
   },
   {
     "category": "IRySJP",
     "file": "IRyS_wow_oniichan.mp3",
     "title": "Wow oniichan",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_YABE_AAAAAAH_YABEEEEE.mp3",
     "title": "YABE AAAAAAH YABEEEEE",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_Yabaiyo.mp3",
     "title": "Yabaiyo",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yabe_kakke.mp3",
     "title": "Yabe kakke",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yabe_yabeeee.mp3",
     "title": "Yabe yabeeee",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yada.mp3",
+    "title": "Yada",
+    "new": false
+  },
+  {
+    "category": "IRySJP",
+    "file": "IRySJP_Yada.mp3",
     "title": "Yada",
     "new": true
   },
@@ -1323,126 +1785,126 @@
     "category": "IRySJP",
     "file": "IRyS_yada_yo_yada_yada_yada.mp3",
     "title": "Yada yo yada yada yada",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yamenasai_yo.mp3",
     "title": "Yamenasai yo",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yamero_takeshi.mp3",
     "title": "Yamero takeshi",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yamete_yamete_yamete.mp3",
     "title": "Yamete yamete yamete",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yare_yare_daze 01.mp3",
     "title": "Yare yare daze 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yare_yare_daze 02.mp3",
     "title": "Yare yare daze 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yatta 01.mp3",
     "title": "Yatta 01",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yatta 02.mp3",
     "title": "Yatta 02",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yatta 03.mp3",
     "title": "Yatta 03",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yatta 04.mp3",
     "title": "Yatta 04",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yatta 05.mp3",
     "title": "Yatta 05",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yatta 06.mp3",
     "title": "Yatta 06",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yatta 07.mp3",
     "title": "Yatta 07",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yatta_yatta_let's_goooo.mp3",
     "title": "Yatta yatta let's goooo",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yattaze.mp3",
     "title": "Yattaze",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yay_janai_yo.mp3",
     "title": "Yay janai yo",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yoishos.mp3",
     "title": "Yoishos",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yoroshiku_onegaishimasu.mp3",
     "title": "Yoroshiku onegaishimasu",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yossha.mp3",
     "title": "Yossha",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_yubi_yubi_yubi.mp3",
     "title": "Yubi yubi yubi",
-    "new": true
+    "new": false
   },
   {
     "category": "IRySJP",
     "file": "IRyS_za_Warudo.mp3",
     "title": "Za Warudo",
-    "new": true
+    "new": false
   }
 ]
