@@ -218,8 +218,11 @@ body {
   font-family: 'Riffic';
   z-index: 1;
   left: -280px;
+}
 
-
+.production-babies {
+  font-size: 20px;
+  margin-left: 25px;
 }
 
 .category-nav * {
@@ -476,10 +479,16 @@ a button:focus-visible {
     overflow-x: hidden;
     width: 242px;
   }
+  .production-babies {
+    font-size: 18px;
+    margin-left: 25px;
+  }
 }
 
 @media screen and (max-width:  720px) {
 
+
+  
   #mainPage-div{
     background-image: none;
   }

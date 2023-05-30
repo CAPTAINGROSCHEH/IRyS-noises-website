@@ -30,12 +30,13 @@ export default {
                     <li>The frontend is written with <a href="https://vuejs.org/">Vue</a>.</li>
                     <li><a href="https://howsthevolu.me/">howsthevolu.me</a> and by <a href="https://kronii-cute.com/">kronii-cute.com</a> for the inspiration in the first place.</li>
                     <li>Background's image is a screenshot from <a href="https://youtu.be/-g701QOZtrc">IRyS' Kimono Reveal stream</a> during the secret ending (for Desktop version).</li>
+                    <li>All the Production Babies audio clips have been taken from <a href="https://twitter.com/happy__yorkie/status/1663116529444216837">Kalen's compilation</a>.</li>
                 </ul>
                 <h2>What's more?</h2>
                 <p>As I said, I'm used to clip most of IRyS' streams, so I'll update the soundboard every few weeks.</p>
                 <p>If you want to report an issue or ask any questions, you can find me on <a href="https://twitter.com/Akaridesho">Twitter</a>!</p>
                 <h2>How many sounds are there here?</h2>
-                <p>There's currently 3337 sounds! You can find the audios that were added during each update <a href="https://github.com/CAPTAINGROSCHEH/IRyS-noises-website/tree/main/src/assets/UpdateLogs" >here</a>! </p>
+                <p>There's currently 3373 sounds! You can find the audios that were added during each update <a href="https://github.com/CAPTAINGROSCHEH/IRyS-noises-website/tree/main/src/assets/UpdateLogs" >here</a>! </p>
             </div>
         </div>
     </div>

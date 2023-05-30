@@ -16,6 +16,7 @@ import IRySwearing from './assets/AudioLists/IRySwearing.json';
 import YabaIRyS from './assets/AudioLists/YabaIRyS.json';
 import YawnRyS from './assets/AudioLists/YawnRyS.json';
 import IRySinging from './assets/AudioLists/IRySinging.json';
+import Production_Babies from './assets/AudioLists/Production_Babies.json';
 
 import { ref } from 'vue'
 
@@ -69,7 +70,7 @@ function showModal(){
   </Transition>
 
   <div class="header">
-    <IRySNoise category="sus" file="" title="New audios are blue!" :nouveau="true" class/>
+    <IRySNoise category="I_love_IRyS_but_don't_tell_her" file="" title="New audios are blue!" :nouveau="true" class/>
     
     <h1 class="title"> IRySoundboard!</h1>
     <a href="https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g"  target="_blank">
@@ -125,6 +126,9 @@ function showModal(){
           </ul>
           <ul @click="scrollElement('CollabRyS')">
             <li><a>CollabRyS</a></li>
+          </ul>
+          <ul @click="scrollElement('Production_Babies')">
+            <li><a class="production-babies">Production Babies</a></li>
           </ul>
         </nav>
       </div>
@@ -182,6 +186,10 @@ function showModal(){
       <div class="category" id="CollabRyS">
         <h2> CollabRyS</h2>
         <IRySNoise v-for="item in CollabRyS" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" class/>
+      </div>
+      <div class="category" id="Production_Babies">
+        <h2> Production Babies</h2>
+        <IRySNoise v-for="item in Production_Babies" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" class/>
       </div>
     </div>
   </div>
