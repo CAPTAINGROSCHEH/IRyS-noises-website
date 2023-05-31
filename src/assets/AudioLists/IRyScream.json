@@ -115,12 +115,6 @@
   },
   {
     "category": "IRyScream",
-    "file": "desktop.ini",
-    "title": "Desktop",
-    "new": false
-  },
-  {
-    "category": "IRyScream",
     "file": "despair_noises_01.mp3",
     "title": "Despair noises 01",
     "new": false
