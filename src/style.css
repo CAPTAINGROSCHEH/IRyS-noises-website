@@ -36,7 +36,11 @@
 
 a {
   margin-left: 1em;
-
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color:#00FFF2
 }
 
 
@@ -300,6 +304,15 @@ body {
 .category-nav ul:hover{
   cursor: pointer;
 }
+
+.text {
+  margin: 0;
+  font-size: 2em;
+  
+  -webkit-text-stroke: 1.2px ;
+  -webkit-text-stroke-color: #1a1a1a;
+}
+
 
 
 .header{

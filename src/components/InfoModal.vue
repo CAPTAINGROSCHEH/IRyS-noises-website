@@ -36,7 +36,7 @@ export default {
                 <p>As I said, I'm used to clip most of IRyS' streams, so I'll update the soundboard every few weeks.</p>
                 <p>If you want to report an issue or ask any questions, you can find me on <a href="https://twitter.com/Akaridesho">Twitter</a>!</p>
                 <h2>How many sounds are there here?</h2>
-                <p>There's currently 3373 sounds! You can find the audios that were added during each update <a href="https://github.com/CAPTAINGROSCHEH/IRyS-noises-website/tree/main/src/assets/UpdateLogs" >here</a>! </p>
+                <p>There's currently 3690 sounds! You can find the audios that were added during each update <a href="https://github.com/CAPTAINGROSCHEH/IRyS-noises-website/tree/main/src/assets/UpdateLogs" >here</a>! </p>
             </div>
         </div>
     </div>
