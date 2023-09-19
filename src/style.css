@@ -146,6 +146,35 @@ body {
   background-color: #b60067;
 }
 
+#btn-favonly{
+  border: 0;
+  width: 29px;
+  position: fixed;
+  border-radius: 50%;
+  right: 100px;
+  font-size: 25px;
+  margin-top: 20px;
+  padding: 2px;
+  background-color: #ff73a9;
+  transition: background-color 0.5s ease ;
+  z-index: 1;
+
+}
+
+#btn-favonly:hover{
+  cursor: pointer;  
+  background-color: #6e1a4a;
+
+}
+
+.darkmode #btn-favonly{
+  background-color: #ff0062;
+}
+
+.darkmode #btn-favonly:hover{
+  background-color: #b60067;
+}
+
 
 .burger-btn span{
   display:block;
@@ -314,6 +343,9 @@ body {
 }
 
 
+.byebye {
+  display: none !important;
+}
 
 .header{
   display: flex;
@@ -335,6 +367,7 @@ body {
   transition: background-color 0.5s ease ;
   z-index: -10;
 }
+
 
 
 
@@ -482,6 +515,7 @@ a button:focus-visible {
 #app {
   margin: 0;
   max-width: 100%;
+  width: 100%;
   text-align: center;
 }
 
@@ -520,10 +554,7 @@ a button:focus-visible {
     font-size: 5.6vw;
   }
 
-  #btn-darkmode {
-    margin-top:60px ;
-    right:20px;
-  }
+
 
   .header{
     align-items: center;

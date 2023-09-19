@@ -1,16 +1,17 @@
 <script setup>
   import { ref } from 'vue'
+  import App from '../App.vue';
+  
 
-  const {category, file, title, nouveau} = defineProps({
+  let {category, file, title, nouveau} = defineProps({
     category: String,
     file: String,
     title: String,
-    nouveau: Boolean
+    nouveau: Boolean,
   })
 
   //let audio = new Audio('https://cdn.discordapp.com/attachments/865117129514680330/1071758172907380868/IRyS_dundundun.wav');
   //<p class="read-the-docs">Catégorie : {{ category }} Fichier : {{ file }} Titre : {{ title }}</p>
-
   const audio = `Audios/${category}/${file}`;
   const isPlayed = ref(false);
   const isNew = nouveau;
@@ -18,9 +19,26 @@
   let played;
   let duration;
 
+
+
+  let saved = ref(localStorage.getItem('fav_' + file));
+
+
+
+  function toggleFav(){
+    if(saved.value == null || saved.value == false){
+      saved.value = !saved.value;
+      localStorage.setItem('fav_' + file, saved.value);
+    }else{
+      saved.value = !saved.value;
+      localStorage.removeItem('fav_' + file)
+    }
+  }
+  
+
   function playSound(){
+
     if(isPlayed.value == true){
-      console.log(played.duration)
       clearTimeout(timeout)
       played.pause()
       played.currentTime = 0;
@@ -40,17 +58,45 @@
   }
 </script>
 
-<template> 
-  <a :href="audio" :class="{ 'played': isPlayed}" @click.stop.prevent="onClick">
-    <button :id="title" :class="{ 'new': isNew }" type="button" @click="playSound();" :style="{'animation-duration': duration + 's'}">
-      <div id="btn-overlay">
-        {{ title }}
-      </div>
-    </button>
+<template>
+  <a :href="audio" :class="{ 'played': isPlayed, saved: saved}" @click.stop.prevent="onClick" >
+      <button :id="title" :class="{ 'new': isNew }" type="button" @click="playSound();" :style="{'animation-duration': duration + 's'}">
+        <img src="../assets/icon/starunfilled.png" @click="toggleFav()" :class="{hide: saved || title == 'New audios are blue!'}"/>
+        <img src="../assets/icon/starfilled.png" @click="toggleFav()" :class="{hide: !saved}"/>
+
+        <div id="btn-overlay">
+          {{ title }}
+        </div>
+      </button>
+
   </a>
 </template>
 
 <style scoped>
+
+  .hide{
+    display: none;
+  }
+  
+  button img{
+    display:none;
+  }
+
+  button:hover img{
+    position: fixed;
+    width: 0.8em;
+    right: 2px;
+    top: 2%;
+    display: block;
+  }
+  button:hover .hide{
+    display:none
+  }
+
+  .saved button{
+    border-color: #FFD700
+  }
+
   .played button {
     background-image: url('../assets/img/btn-background.png');
     background-size: 10% 100%;
