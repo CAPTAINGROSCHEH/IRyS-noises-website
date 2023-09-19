@@ -31,6 +31,7 @@ export default {
                     <li><a href="https://howsthevolu.me/">howsthevolu.me</a> and by <a href="https://kronii-cute.com/">kronii-cute.com</a> for the inspiration in the first place.</li>
                     <li>Background's image is a screenshot from <a href="https://youtu.be/-g701QOZtrc">IRyS' Kimono Reveal stream</a> during the secret ending (for Desktop version).</li>
                     <li>All the Production Babies audio clips have been taken from <a href="https://twitter.com/happy__yorkie/status/1663116529444216837">Kalen's compilation</a>.</li>
+                    <li>Huge thank you to <a href="https://github.com/KoukiFactori">Téia</a> for the big help on the favorite sounds feature (big carry).</li>
                 </ul>
                 <h2>What's more?</h2>
                 <p>As I said, I'm used to clip most of IRyS' streams, so I'll update the soundboard every few weeks.</p>
