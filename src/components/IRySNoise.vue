@@ -1,7 +1,6 @@
 <script setup>
   import { ref } from 'vue'
-  import App from '../App.vue';
-  
+
   let {category, file, title, nouveau, toggleFav } = defineProps({
     category: String,
     file: String,
@@ -19,8 +18,6 @@
   let played;
   let duration;
 
-
-
   let saved = ref(localStorage.getItem('fav_' + file));
 
   function toggle(){
@@ -32,7 +29,6 @@
       localStorage.removeItem('fav_' + file)
     }
   }
-  
 
   function playSound(){
 
@@ -66,7 +62,6 @@
           {{ title }}
         </div>
       </button>
-
   </a>
 </template>
 
