@@ -2,12 +2,12 @@
   import { ref } from 'vue'
   import App from '../App.vue';
   
-
-  let {category, file, title, nouveau} = defineProps({
+  let {category, file, title, nouveau, toggleFav } = defineProps({
     category: String,
     file: String,
     title: String,
     nouveau: Boolean,
+    toggleFav: Boolean
   })
 
   //let audio = new Audio('https://cdn.discordapp.com/attachments/865117129514680330/1071758172907380868/IRyS_dundundun.wav');
@@ -23,9 +23,7 @@
 
   let saved = ref(localStorage.getItem('fav_' + file));
 
-
-
-  function toggleFav(){
+  function toggle(){
     if(saved.value == null || saved.value == false){
       saved.value = !saved.value;
       localStorage.setItem('fav_' + file, saved.value);
@@ -59,10 +57,10 @@
 </script>
 
 <template>
-  <a :href="audio" :class="{ 'played': isPlayed, saved: saved}" @click.stop.prevent="onClick" >
+  <a :href="audio" :class="{ 'played': isPlayed, saved: saved}" @click.stop.prevent="onClick" v-if="(!toggleFav) || saved">
       <button :id="title" :class="{ 'new': isNew }" type="button" @click="playSound();" :style="{'animation-duration': duration + 's'}">
-        <img src="../assets/icon/starunfilled.png" @click="toggleFav()" :class="{hide: saved || title == 'New audios are blue!'}"/>
-        <img src="../assets/icon/starfilled.png" @click="toggleFav()" :class="{hide: !saved}"/>
+        <img src="../assets/icon/starunfilled.png" @click="toggle()" :class="{hide: saved || title == 'New audios are blue!'}"/>
+        <img src="../assets/icon/starfilled.png" @click="toggle()" :class="{hide: !saved}"/>
 
         <div id="btn-overlay">
           {{ title }}
