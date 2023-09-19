@@ -18,7 +18,7 @@ import YawnRyS from './assets/AudioLists/YawnRyS.json';
 import IRySinging from './assets/AudioLists/IRySinging.json';
 import Production_Babies from './assets/AudioLists/Production_Babies.json';
 
-import { inject, ref } from 'vue'
+import { ref } from 'vue'
 
 function scrollElement(id){
   let element = document.getElementById(id);
@@ -30,9 +30,7 @@ const navActive = ref(false);
 let darkMode = ref(localStorage.getItem('darkMode'));
 let showFavOnly = ref(false);
 
-
 const body = document.body;
-
 
 function toggleDarkMode(){
   if(darkMode.value == null || darkMode.value == false){
@@ -48,7 +46,6 @@ function toggleFavOnly(){
   showFavOnly.value = !showFavOnly.value
 }
 
-
 function showNav(){
     body.classList.toggle("body-navActive"); 
     navActive.value = !navActive.value;
@@ -62,8 +59,6 @@ function showModal(){
 </script>
 
 <template>
-  <header>
-  </header>
   <div id="mainPage-div" :class="{ darkmode: darkMode }">
     <button id="btn-information" :class="{ darkmode: darkMode }" @click="showModal()" > i </button>
     <img src="./assets/icon/darkmode.png" id="btn-darkmode" :class="{ darkmode: darkMode }" @click="toggleDarkMode()" />
@@ -76,7 +71,7 @@ function showModal(){
   </Transition>
 
   <div class="header">
-    <IRySNoise category="I_love_IRyS_but_don't_tell_her" file="" title="New audios are blue!" :nouveau="true"  class/>
+    <IRySNoise category="I_love_IRyS_but_don't_tell_her" file="" title="New audios are blue!" :nouveau="true" />
     
     <h1 class="title"> IRySoundboard!</h1>
     
@@ -145,59 +140,59 @@ function showModal(){
       <IRySRandomNoise :soundObjs="[General, IRySoFunny, IRySoCute, IRySinging, IRyScream, IRySwearing, YabaIRyS, IRySnoises, IRySneeze, YawnRyS, IRySJP, WorldWideRyS, CollabRyS]" />
       <div class="category" id="General">
         <h2> General</h2>
-        <IRySNoise v-for="item in General" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise v-for="item in General" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
       <div class="category" id="IRySoFunny">
         <h2> IRySoFunny</h2>
-        <IRySNoise  v-for="item in IRySoFunny" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise  v-for="item in IRySoFunny" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
       <div class="category" id="IRySoCute">
         <h2> IRySoCute</h2>
-        <IRySNoise v-for="item in IRySoCute" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise v-for="item in IRySoCute" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
       <div class="category" id="IRySinging">
         <h2> IRySinging</h2>
-        <IRySNoise v-for="item in IRySinging" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise v-for="item in IRySinging" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
       <div class="category" id="IRyScream">
         <h2> IRyScream</h2>
-        <IRySNoise v-for="item in IRyScream" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise v-for="item in IRyScream" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
       <div class="category" id="IRySwearing">
         <h2> IRySwearing</h2>
-        <IRySNoise v-for="item in IRySwearing" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise v-for="item in IRySwearing" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
       <div class="category" id="YabaIRyS">
         <h2> YabaIRyS</h2>
-        <IRySNoise v-for="item in YabaIRyS" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise v-for="item in YabaIRyS" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
       <div class="category" id="IRySnoises">
         <h2> IRySnoises</h2>
-        <IRySNoise v-for="item in IRySnoises" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise v-for="item in IRySnoises" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
       <div class="category" id="IRySneeze">
         <h2> IRySneeze</h2>
-        <IRySNoise v-for="item in IRySneeze" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise v-for="item in IRySneeze" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
       <div class="category" id="YawnRyS">
         <h2> YawnRyS</h2>
-        <IRySNoise v-for="item in YawnRyS" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise v-for="item in YawnRyS" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
       <div class="category" id="IRySJP">
         <h2> IRySJP</h2>
-        <IRySNoise v-for="item in IRySJP" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise v-for="item in IRySJP" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
       <div class="category" id="WorldWideRyS">
         <h2> WorldWideRyS</h2>
-        <IRySNoise v-for="item in WorldWideRyS" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise v-for="item in WorldWideRyS" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
       <div class="category" id="CollabRyS">
         <h2> CollabRyS</h2>
-        <IRySNoise v-for="item in CollabRyS" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise v-for="item in CollabRyS" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
       <div class="category" id="Production_Babies">
         <h2> Production Babies</h2>
-        <IRySNoise v-for="item in Production_Babies" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new"  class/>
+        <IRySNoise v-for="item in Production_Babies" :toggleFav="showFavOnly" :category="item.category" :file="item.file" :title="item.title" :nouveau="item.new" />
       </div>
     </div>
   </div>
